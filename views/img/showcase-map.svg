@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-label="Store map preview">
+  <rect width="640" height="220" fill="#edf6ff"/>
+  <path d="M-20 60 C95 16 142 54 236 28 C328 3 422 34 516 16 C586 2 626 12 660 28" fill="none" stroke="#d5e8fa" stroke-width="18"/>
+  <path d="M-32 172 C64 138 142 162 220 126 C314 84 390 108 482 82 C564 58 610 72 670 48" fill="none" stroke="#d5e8fa" stroke-width="18"/>
+  <path d="M70 -20 L114 240" stroke="#ffffff" stroke-width="24"/>
+  <path d="M268 -10 L236 236" stroke="#ffffff" stroke-width="22"/>
+  <path d="M468 -18 L498 238" stroke="#ffffff" stroke-width="22"/>
+  <path d="M-20 108 L660 132" stroke="#ffffff" stroke-width="26"/>
+  <path d="M118 0 L158 220" stroke="#cfe2f6" stroke-width="3"/>
+  <path d="M340 0 L316 220" stroke="#cfe2f6" stroke-width="3"/>
+  <path d="M0 98 L640 122" stroke="#cfe2f6" stroke-width="3"/>
+  <circle cx="320" cy="104" r="34" fill="#0d6efd" opacity=".16"/>
+  <path d="M320 40c-32 0-58 25-58 56 0 42 58 94 58 94s58-52 58-94c0-31-26-56-58-56z" fill="#0d6efd"/>
+  <circle cx="320" cy="96" r="20" fill="#ffffff"/>
+  <circle cx="320" cy="96" r="8" fill="#0d6efd"/>
+</svg>

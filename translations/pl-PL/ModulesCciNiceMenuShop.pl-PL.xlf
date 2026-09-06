@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="modules/cci_nice_menu" source-language="en-US" target-language="pl-PL" datatype="plaintext">
+    <body>
+      <trans-unit id="cci_nice_menu_shop_1"><source>View all</source><target state="final">Zobacz wszystko</target></trans-unit>
+      <trans-unit id="cci_nice_menu_shop_2"><source>View more</source><target state="final">Zobacz więcej</target></trans-unit>
+      <trans-unit id="cci_nice_menu_shop_3"><source>Blog category</source><target state="final">Kategoria bloga</target></trans-unit>
+      <trans-unit id="cci_nice_menu_shop_4"><source>Blog categories</source><target state="final">Kategorie bloga</target></trans-unit>
+      <trans-unit id="cci_nice_menu_shop_5"><source>No blog categories found.</source><target state="final">Nie znaleziono kategorii bloga.</target></trans-unit>
+    </body>
+  </file>
+</xliff>
