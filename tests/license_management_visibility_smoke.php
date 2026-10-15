@@ -17,19 +17,19 @@ $checks = [
         "'canManage' => \$proInstalled",
     ],
     'initial admin payload preserves backend gate' => [
-        $moduleRoot . '/src/admin-v2/api.js',
+        $moduleRoot . '/src/admin-v2/api/api.js',
         'Boolean(rawLicense.canManage && rawLicense.proModuleAvailable)',
     ],
     'license responses preserve backend gate' => [
-        $moduleRoot . '/src/admin-v2/api.js',
+        $moduleRoot . '/src/admin-v2/api/api.js',
         'Boolean(response.license.canManage && response.license.proModuleAvailable)',
     ],
     'sidebar requires an available Pro module' => [
-        $moduleRoot . '/src/admin-v2/components/DashboardSidebar.jsx',
+        $moduleRoot . '/src/admin-v2/components/layout/DashboardSidebar.jsx',
         'license?.canManage && license?.proModuleAvailable && license?.apiBase',
     ],
     'upgrade modal hides activation path without Pro' => [
-        $moduleRoot . '/src/admin-v2/components/ProUpgradeModal.jsx',
+        $moduleRoot . '/src/admin-v2/components/licensing/ProUpgradeModal.jsx',
         'onActivateLicense={canManageLicense ? onActivateLicense : undefined}',
     ],
 ];

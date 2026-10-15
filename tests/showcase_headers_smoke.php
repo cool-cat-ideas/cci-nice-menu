@@ -10,7 +10,7 @@ $tree = json_decode(
     JSON_THROW_ON_ERROR
 );
 $builderSource = (string) file_get_contents(
-    $moduleRoot . '/src/admin-v2/components/MenuBuilderPanel.jsx'
+    $moduleRoot . '/src/admin-v2/components/builder/MenuBuilderPanel.jsx'
 );
 $builtAdmin = (string) file_get_contents($moduleRoot . '/views/js/ccinice-menu-admin.js');
 

@@ -1,0 +1,10 @@
+import assert from 'node:assert/strict';
+import { build } from 'esbuild';
+globalThis.window={CCINiceMenuConfig:{apiBase:'http://example.invalid/admin',i18n:{translations:{'The server returned an invalid response. Reload the page and try again.':'Serwer zwrócił nieprawidłową odpowiedź. Odśwież stronę i spróbuj ponownie.'}}}};
+const result=await build({entryPoints:['src/admin-v2/api.js'],bundle:true,platform:'node',format:'esm',write:false});
+const {apiFetch}=await import('data:text/javascript;base64,'+Buffer.from(result.outputFiles[0].text).toString('base64'));
+globalThis.fetch=async()=>({ok:true,status:200,json:async()=>{throw new SyntaxError('HTML')}});
+await assert.rejects(apiFetch('/license/check'),/Serwer zwrócił nieprawidłową odpowiedź/);
+globalThis.fetch=async()=>({ok:true,status:200,json:async()=>({success:true})});
+assert.equal((await apiFetch('/license/check')).success,true);
+console.log('PASS: invalid HTML rejected in Polish; valid JSON accepted; no network requests sent.');

@@ -185,7 +185,7 @@ Typical node fields:
 When adding a field, update all of these areas:
 
 1. PHP normalization in `CciNiceMenuCore`.
-2. React normalization/defaults in `src/admin-v2/components/MenuBuilderPanel.jsx`.
+2. React normalization/defaults in `src/admin-v2/components/builder/MenuBuilderPanel.jsx`.
 3. Admin form read/write.
 4. Storefront rendering.
 5. Backward-compatible fallback for old `tree_json`.

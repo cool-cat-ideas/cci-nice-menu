@@ -1,11 +1,13 @@
+import { pluginData } from './api/api';
 import { ProductNewsProvider } from '@cci/admin-ui/product-panels';
-import { __ } from './i18n';
+import { __ } from './i18n/i18n';
 import React from 'react';
 import { createRoot } from 'react-dom/client';
-import { LoadingState, Select, createLocalMediaLibraryUiBridge } from '@cci/admin-ui/nice-menu';
-import App from './App';
+import { flushSync } from 'react-dom';
+import { Button, Input, InfoCallout, LoadingState, Select, createLocalMediaLibraryUiBridge } from '@cci/admin-ui/nice-menu';
+import App from './app/App';
 
-window.CCINiceMenuMediaLibraryUi = createLocalMediaLibraryUiBridge({ createRoot, Select, LoadingState });
+window.CCINiceMenuMediaLibraryUi = createLocalMediaLibraryUiBridge({ createRoot, flushSync, Button, Input, InfoCallout, Select, LoadingState });
 
 const mount = document.getElementById('cci-nice-menu-admin-root');
 
@@ -19,7 +21,7 @@ if (mount) {
         }
 
         mount.dataset.cciReactMounted = '1';
-        createRoot(mount).render(<ProductNewsProvider t={__}><App /></ProductNewsProvider>);
+        createRoot(mount).render(<ProductNewsProvider t={__} locale={pluginData.adminDate?.locale} adminDate={pluginData.adminDate}><App /></ProductNewsProvider>);
     };
 
     const scheduleMount = () => {

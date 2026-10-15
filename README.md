@@ -2,6 +2,8 @@
 
 Build a PrestaShop menu from categories, products, CMS pages and custom links. Use the visual editor to arrange the top navigation and its dropdown content for desktop and mobile.
 
+Download the module ZIP from the [CCI Nice Menu](https://coolcatideas.com/products/cci-nice-menu/).
+
 ## Build the first menu
 
 1. Install `cci_nice_menu-1.0.0.zip` in **Modules > Module Manager**.
@@ -17,12 +19,21 @@ The base module works without a license key. CCI Nice Menu Pro is optional and a
 
 Documentation: https://coolcatideas.com/docs/cci-nice-menu/1.0.0/
 
+## Configure and customize
+
+- [Build a menu and adjust its width, spacing and mobile breakpoint](docs/USER_GUIDE.md).
+- [Change theme CSS and preserve mobile template behavior](docs/TEMPLATES_AND_STYLING.md).
+- [Create an installable Hook-node extension](docs/DEVELOPER.md#create-an-installable-menu-extension).
+- [Hook arguments and examples](docs/HOOKS_REFERENCE.md) and [PHP placement integration](docs/API_REFERENCE.md).
+
+Custom output uses a Pro Hook node. Arbitrary new node types and overrides of internal PHP methods are not supported APIs.
+
 ## Support
 
 Use the product repository under https://github.com/orgs/cool-cat-ideas/repositories for public questions and bug reports. This channel has no guaranteed response time. When you need a private request with an agreed scope, buy a support service on the product page; the request and further messages are then handled in the Cool Cat Ideas customer panel.
 
-## Changelog
+Release history is available in the [changelog](CHANGELOG.md).
 
-### 1.0.0
+## Building and contributing
 
-- First public release.
+See [Build from source](docs/building-from-source.md) for the npm workflow. Shared components, styles and API adapters are maintained in [CCI Admin UI](https://github.com/cool-cat-ideas/cci-admin-ui).

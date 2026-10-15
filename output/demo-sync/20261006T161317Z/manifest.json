@@ -1,0 +1,12 @@
+[
+  {
+    "file": "views/css/cci_nice_menu_admin.css",
+    "before": "2392e6b04feec181d9cc803b422a3ab6cafa58a08148965d8559204c376a6ca2",
+    "after": "c36963dbda03178e8646c9e0ae61fa5459edf683f921647157dd5fc31ba71c08"
+  },
+  {
+    "file": "views/js/ccinice-menu-admin.js",
+    "before": "56e827d61ad91dbb386f49529cc8ce97917f5dddb29f2b3af7d2b61611c400b3",
+    "after": "402532ebce2262db7d1cc420f16b9ab81448fe6b1b1aad283888cbe69e559d3e"
+  }
+]

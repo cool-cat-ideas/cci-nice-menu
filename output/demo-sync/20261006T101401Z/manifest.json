@@ -1,0 +1,12 @@
+[
+  {
+    "path": "src/Admin/CciNiceMenuAdminTranslations.php",
+    "before": "14413d9a452fd57de5015dcac377c82d4532e5fcac9405d2941d37d4fc27f441",
+    "after": "417d5467a2d905eb402895735055d4cc236debe058fea70efb602c775e38f1e8"
+  },
+  {
+    "path": "translations/pl-PL/ModulesCciNiceMenuAdmin.pl-PL.xlf",
+    "before": "79f84b1000ad18cdf53f675af199b32ed5360b40703e6b68affc5062a1b48399",
+    "after": "c515857e46a9c9f6614a8e9f099f02045203aa3e04931e18885767f005015c47"
+  }
+]

@@ -1432,6 +1432,14 @@ class Cci_Nice_Menu extends Module
       return false;
     }
 
+    // Symfony masks CSRF tokens with fresh randomness. Validate the submitted
+    // request through PrestaShop instead of comparing it with a new token.
+    $container = \PrestaShop\PrestaShop\Adapter\SymfonyContainer::getInstance();
+    if ($container !== null) {
+      return $container->get(\PrestaShopBundle\Security\Admin\UserTokenManager::class)->isTokenValid();
+    }
+
+    // Legacy contexts without Symfony still use deterministic admin tokens.
     foreach (['AdminModules', 'AdminCciNiceMenu', 'AdminCciNiceMenuConfiguration'] as $controller) {
       if (hash_equals(Tools::getAdminTokenLite($controller), $token)) {
         return true;

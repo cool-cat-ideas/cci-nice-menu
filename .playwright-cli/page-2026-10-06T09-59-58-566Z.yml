@@ -1,0 +1,10 @@
+- generic [ref=e4]:
+  - alert [ref=e5]:
+    - text: 
+    - paragraph [ref=e6]: "Invalid token: direct access to this link may lead to a potential security breach."
+  - heading "Do you want to display this page?" [level=1] [ref=e7]
+  - generic [ref=e8]:
+    - link "I understand the risk" [ref=e9] [cursor=pointer]:
+      - /url: http://localhost:4090/admin478wppcxwat7mpbnah9/index.php?controller=AdminCciNiceMenu&_token=0aa.Yvyh1IldK87QQlpbvD-oSN8q2SD1n7WXePEm19DB1Nw.BZDSkOE7Tfzmeig332jBf5NHrEO8qMb_HoN5nLSunuk2rMTiuy1Z_LMjLQ
+    - link "Take me out of there!" [ref=e10] [cursor=pointer]:
+      - /url: http://localhost:4090/admin478wppcxwat7mpbnah9/?controller=AdminDashboard&token=03a124c7060.CjAEnHkB5gYuKEcY828BeXsa6rcN712yuogNw8wwW_0.bVx32BFngDQYEDV0kDhoTjd3n9RE2C7a3PpSiKhfEcheYGGqS3GUNE1JMA

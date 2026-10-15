@@ -6,28 +6,33 @@ Contribution hooks are executed with PrestaShop's array-return mode. A module ma
 
 ## Start with the right extension path
 
-| Goal | Extension surface | Guide |
+| Goal | Recommended mechanism | Guide |
 | --- | --- | --- |
-| Menu markup | PrestaShop theme override | [Templates and styling](./TEMPLATES_AND_STYLING.md) |
-| Menu styling | Theme CSS scoped to `.cci-nice-menu-*` | [Templates and styling](./TEMPLATES_AND_STYLING.md) |
-| Existing module output | Hook node backed by a real display hook | [Extension cookbook](./EXTENSION_COOKBOOK.md) |
-| Installable integration | Separate PrestaShop extension module | [Extension cookbook](./EXTENSION_COOKBOOK.md) |
-| Custom node HTML | Delegated renderer for a supported node type | Continue with this document |
+| Menu markup | PrestaShop theme override | [Template overrides](DEVELOPER.md#template-overrides) |
+| Menu styling | Theme CSS scoped to `.cci-nice-menu-*` | [CSS contract](DEVELOPER.md#css-contract) |
+| Existing module output | Hook node backed by that module's display hook | [Storefront hooks](DEVELOPER.md#storefront-hooks) |
+| Installable integration | Separate PrestaShop extension module | [Create an installable menu extension](DEVELOPER.md#create-an-installable-menu-extension) |
+| Custom node HTML | Delegated renderer for a node type already supported by the builder | [Pro/delegated node rendering](#prodelegated-node-rendering) |
+| Frontend assets | CSS or JavaScript required by extension output | [Frontend assets](#frontend-assets) |
 
-A theme override changes presentation. A Hook node embeds output owned by
-another module. A custom node renderer requires a node type supported by the
-builder and saved-data contract.
+A theme override changes presentation. A Hook node embeds output already owned
+by another module. A custom node renderer is appropriate only when the builder
+and saved-data contract support that node type.
 
 ## Choose hooks by the workflow they complete
 
 | Workflow | Public hooks | Result |
 | --- | --- | --- |
-| Declare a capability | `displayCciNiceMenuFeatures` | Namespaced feature descriptor |
-| Show an installed extension | `displayCciNiceMenuAdminExtensions` | Installed-extension metadata |
-| Load admin JavaScript | `displayCciNiceMenuAdminAssets` | Scripts for the React workspace |
-| Load storefront assets | `displayCciNiceMenuFrontAssets` | Deduplicated CSS or JavaScript |
-| Render a delegated node | `displayCciNiceMenuRenderNode` | Scoped HTML for one supported node type |
-| Render an existing module | Selected PrestaShop `display*` hook | HTML supplied to a Hook node |
+| Declare an extension capability | `displayCciNiceMenuFeatures` | Adds a namespaced feature without unlocking reserved Pro features |
+| Show a real installed extension | `displayCciNiceMenuAdminExtensions` | Adds metadata to **Installed extensions** |
+| Load extension admin JavaScript | `displayCciNiceMenuAdminAssets` | Adds scripts to the React admin workspace |
+| Load assets for rendered extension content | `displayCciNiceMenuFrontAssets` | Adds deduplicated storefront CSS or JavaScript |
+| Render a delegated node | `displayCciNiceMenuRenderNode` | Returns scoped HTML for one supported node type |
+| Render an existing module inside the menu | The selected PrestaShop `display*` hook | Supplies HTML to a saved Hook node |
+| Place the complete menu in a theme | `displayTop`, `displayNav1`, `displayNav2`, `displayNavFullWidth` or a configured placement | Returns the active menu for that storefront position |
+
+Register every hook your module implements during `install()`. Contribution
+hooks return descriptors or assets; display hooks return storefront HTML.
 
 ## Feature contributions
 
@@ -130,19 +135,7 @@ Use this hook to render a delegated Pro or extension node supported by the build
 - **Returns:** HTML as `string` or `['html' => string]`. The first non-empty contribution is used.
 - **Side effects:** returned HTML is inserted inside the menu. Escape data and scope all owned CSS to the extension root.
 
-```php
-public function hookDisplayCciNiceMenuRenderNode(array $params): string
-{
-    if (($params['type'] ?? '') !== 'acme_promo') {
-        return '';
-    }
-
-    $node = is_array($params['node'] ?? null) ? $params['node'] : [];
-    $this->context->smarty->assign('node', $node);
-
-    return $this->fetch('module:' . $this->name . '/views/templates/hook/menu_promo.tpl');
-}
-```
+This hook does not register new node types. The saved schema accepts a fixed set; unknown types become `custom`. Do not invent a type such as `acme_promo`. For an independent extension, register a real display hook and select it in a Pro Hook node. See the complete module and template in [Developer guide](DEVELOPER.md#create-an-installable-menu-extension).
 
 ## Hook nodes
 
@@ -194,4 +187,4 @@ A theme must execute the chosen hook. Registering a menu on a hook that the acti
 
 An extension should implement the corresponding action in its own module instead of modifying core asset methods.
 
-For public PHP methods and their arguments, see [PHP API](api-reference). For a complete installable extension and theme overrides, see [Developer guide](developer-guide).
+For public PHP methods and their arguments, see [PHP API](API_REFERENCE.md). For a complete installable extension and theme overrides, see [Developer guide](DEVELOPER.md).

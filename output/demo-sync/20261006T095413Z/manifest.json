@@ -1,0 +1,22 @@
+[
+  {
+    "path": "views/css/cci_nice_menu_admin.css",
+    "before": "1179ef1b40691cef7a41f0f346a2fdab247ab3437ab195c559fbb8045cc6d031",
+    "after": "0b92ffd05a9f1c1ecc7b8834948a024ea41a0c2289c24426207ed8b5491b3313"
+  },
+  {
+    "path": "views/js/ccinice-menu-admin.js",
+    "before": "00045c032132c25ae6cf0d145fa2f7016d41ea92eea569d38030071c78caf040",
+    "after": "8a80b293f0a192208bdaab13aaf808968f68dcf034f6e81c28bce1abc41f77fd"
+  },
+  {
+    "path": "src/Admin/CciNiceMenuAdminTranslations.php",
+    "before": "f389e64b3c99175d86e4e478400c3cbb3cbcab9d8ef9eb225a4e1c8a57632958",
+    "after": "14413d9a452fd57de5015dcac377c82d4532e5fcac9405d2941d37d4fc27f441"
+  },
+  {
+    "path": "translations/pl-PL/ModulesCciNiceMenuAdmin.pl-PL.xlf",
+    "before": "dd3923a7fd0043bf1bcdeb3ef862890ac87910565bcc5919a3a1273fb1892c0f",
+    "after": "79f84b1000ad18cdf53f675af199b32ed5360b40703e6b68affc5062a1b48399"
+  }
+]

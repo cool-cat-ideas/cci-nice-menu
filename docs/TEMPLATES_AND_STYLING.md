@@ -45,11 +45,11 @@ Use a theme override or a child theme override.
 | --- | --- |
 | `views/css/cci_nice_menu_front.css` | Base storefront CSS shipped with the module. |
 | `views/css/cci_nice_menu_front_runtime.css` | Active runtime component styles for menu blocks, banners, carousels, category browser and mobile behavior. |
-| `src/admin-v2/admin.css` | Source admin CSS. |
+| `src/admin-v2/styles/admin.css` | Source admin CSS. |
 | `views/css/cci_nice_menu_admin.css` | Generated admin CSS after `npm run build:admin`. |
 
 Do not patch `views/css/cci_nice_menu_admin.css` by hand. Change
-`src/admin-v2/admin.css` or React component classes, then rebuild.
+`src/admin-v2/styles/admin.css` or React component classes, then rebuild.
 
 ## Public Storefront Classes
 
@@ -254,3 +254,36 @@ After overriding a template:
 4. Open and close top-level dropdowns.
 5. Verify native hooks such as search and reassurance still render.
 6. Check keyboard focus for links and submenu toggles.
+
+## A working theme CSS change
+
+Use saved menu settings for palette, item gap and breakpoint: the renderer
+writes these values into the menu itself. Use CSS for a change the controls do
+not express, such as underlining destination links on hover and keyboard focus.
+
+Put this in the active theme's custom stylesheet loaded after module assets.
+For Classic that is assets/css/custom.css; for another theme, use its documented
+custom-CSS or asset-build mechanism.
+
+```css
+.cci-nice-menu-nav .cci-nice-menu-link[href]:hover,
+.cci-nice-menu-nav .cci-nice-menu-link[href]:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.cci-nice-menu-nav .cci-nice-menu-link[href]:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+```
+
+Clear caches, open a dropdown and test a destination link with mouse and Tab.
+Check a phone too. This targets links, not non-clickable group labels. Do not
+remove the root, mobile-toggle classes, IDs or data attributes from a template
+override; the runtime uses them to open, close and label the navigation.
+
+For HTML changes, copy the complete shipped desktop-nav.tpl into the theme path
+above, make one change and clear Smarty/PrestaShop cache. A new PHP renderer is
+not needed to change spacing or text decoration. Arbitrary third-party node
+types and PHP method overrides are not supported extension mechanisms in 1.0.0.

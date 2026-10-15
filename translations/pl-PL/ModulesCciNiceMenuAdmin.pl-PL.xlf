@@ -429,6 +429,8 @@
       <trans-unit id="cci_nice_menu_admin_3587c85f887e"><source>Leave empty to use the current catalog image</source><target state="final">Pozostaw puste, aby użyć bieżącego obrazu katalogu</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_b2abad9a600e"><source>Leave empty to use the current shop price</source><target state="final">Pozostaw puste, aby użyć aktualnej ceny sklepowej</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_0e7b24cc5684"><source>License activation</source><target state="final">Aktywacja licencji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3d0d84a13985"><source>License active</source><target state="final">Licencja aktywna</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_081f6d27c72d"><source>License inactive</source><target state="final">Licencja nieaktywna</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_f0bd1434fc27"><source>License key</source><target state="final">Klucz licencji</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_790d9e97473e"><source>License key looks too short.</source><target state="final">Klucz licencji wygląda na zbyt krótki.</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_f5795392ffb3"><source>License request failed.</source><target state="final">Żądanie licencji nie powiodło się.</target></trans-unit>
@@ -520,7 +522,7 @@
       <trans-unit id="cci_nice_menu_admin_e467430aac79"><source>New deals every 24h</source><target state="final">Nowe oferty co 24h</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_46cc0f841e2e"><source>New version available</source><target state="final">Dostępna nowa wersja</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_8d447bcea309"><source>Newest active blog posts from CCI Blog.</source><target state="final">Najnowsze aktywne wpisy na blogu CCI Blog.</target></trans-unit>
-      <trans-unit id="cci_nice_menu_admin_34c808d0a63f"><source>News</source><target state="final">Wiadomości</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_34c808d0a63f"><source>News</source><target state="final">Aktualności</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_75d4a702957a"><source>Next check</source><target state="final">Następne sprawdzenie</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_0941c5f45813"><source>Nice Menu loads Owl Carousel JS and CSS from the Blog module when a menu contains an article carousel.</source><target state="final">Nice Menu ładuje Owl Carousel JS i CSS z modułu Blog, gdy menu zawiera karuzelę artykułów.</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_5152bde65d32"><source>No active menu is currently visible on the storefront.</source><target state="final">Żadne aktywne menu nie jest teraz widoczne w sklepie.</target></trans-unit>
@@ -859,6 +861,46 @@
       <trans-unit id="cci_license_expiry_0"><source>Pro license expired</source><target state="final">Licencja Pro wygasła</target></trans-unit>
       <trans-unit id="cci_license_expiry_1"><source>Renew your Pro license</source><target state="final">Odnów licencję Pro</target></trans-unit>
       <trans-unit id="cci_license_expiry_2"><source>Published content remains visible. Renew your license to save Pro settings.</source><target state="final">Opublikowane treści pozostają widoczne. Odnów licencję, aby zapisywać ustawienia Pro.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_12e248242471"><source>Build the dropdown panel for the selected top navigation item.</source><target state="final">Ułóż zawartość rozwijanego panelu wybranej pozycji menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ffaa88fcb648"><source>Build responsive multi-level storefront navigation with visual layouts and reusable menu blocks.</source><target state="final">Twórz wielopoziomowe menu sklepu. Układaj zawartość wizualnie i korzystaj z zapisanych bloków menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4d3d769b812b"><source>Active</source><target state="final">Aktywne</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3cab03c00dbd"><source>Inactive</source><target state="final">Nieaktywne</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ea4788705e68"><source>Cancel</source><target state="final">Anuluj</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d3d2e617335f"><source>Close</source><target state="final">Zamknij</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b0f2b97dc5d2"><source>Folder</source><target state="final">Folder</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_60c7502b5c40"><source>Folders</source><target state="final">Foldery</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_909c01dd804a"><source>Image location</source><target state="final">Lokalizacja obrazu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1d662456ae54"><source>Images could not be loaded.</source><target state="final">Nie udało się wczytać obrazów.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f6b5f35f6564"><source>Load more</source><target state="final">Wczytaj więcej</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_17ca0415d200"><source>Loading images...</source><target state="final">Wczytywanie obrazów...</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b208f7328b04"><source>No matching images found.</source><target state="final">Nie znaleziono pasujących obrazów.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9e50e11959f6"><source>Read-only library</source><target state="final">Biblioteka tylko do odczytu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_fa03eb688ad8"><source>Root</source><target state="final">Katalog główny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_938a2f7154eb"><source>Search images</source><target state="final">Szukaj obrazów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ef0cab5bc832"><source>Select an existing image from this store. Uploading, deleting and renaming files are disabled.</source><target state="final">Wybierz obraz zapisany w sklepie. Przesyłanie, usuwanie i zmiana nazw plików są wyłączone.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f4f70727dc34"><source>Settings</source><target state="final">Ustawienia</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0bf86ba952f4"><source>The search limit was reached. Open a narrower folder or refine the search.</source><target state="final">Osiągnięto limit wyników. Otwórz folder z mniejszą liczbą plików lub doprecyzuj wyszukiwanie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5d7864737dd3"><source>Use image</source><target state="final">Użyj obrazu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_34b6cd75171a"><source>Version</source><target state="final">Wersja</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_620af0f82dad"><source>Disabled menu definitions</source><target state="final">Nieaktywne menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b85af4b0bdd1"><source>Enabled menu definitions</source><target state="final">Aktywne menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_fb9e50bc4a42"><source>New menu</source><target state="final">Nowe menu</target></trans-unit>
+          <trans-unit id="cci_consistency_74a3b8fac6ff"><source>The server returned an invalid response. Reload the page and try again.</source><target state="final">Serwer zwrócił nieprawidłową odpowiedź. Odśwież stronę i spróbuj ponownie.</target></trans-unit>
+          <trans-unit id="cci_consistency_83b794145c0c"><source>Read more</source><target state="final">Czytaj dalej</target></trans-unit>
+          <trans-unit id="cci_consistency_bf52dcc02b4e"><source>The session may have expired. Reload the page before trying again.</source><target state="final">Sesja mogła wygasnąć. Odśwież stronę przed kolejną próbą.</target></trans-unit>
+          <trans-unit id="cci_consistency_3f65e04b86b9"><source>Your installed version is current.</source><target state="final">Zainstalowana wersja jest aktualna.</target></trans-unit>
+          <trans-unit id="cci_consistency_version_unavailable"><source>Version information is temporarily unavailable. Please try again later.</source><target state="final">Informacja o wersji jest chwilowo niedostępna. Spróbuj ponownie później.</target></trans-unit>
+          <trans-unit id="cci_consistency_latest_version"><source>Latest version</source><target state="final">Najnowsza wersja</target></trans-unit>
+          <trans-unit id="cci_consistency_installed_version"><source>Installed version</source><target state="final">Zainstalowana wersja</target></trans-unit>
+      <trans-unit id="cci_nice_menu_license_verification_0"><source>Version information from the product catalog.</source><target state="final">Informacje o wersji pochodzą z katalogu produktów.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_license_verification_1"><source>License verification</source><target state="final">Weryfikacja licencji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_license_verification_2"><source>License last verified</source><target state="final">Ostatnia weryfikacja licencji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_license_verification_3"><source>Next license verification</source><target state="final">Następna weryfikacja licencji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_license_verification_4"><source>License verification due</source><target state="final">Termin weryfikacji licencji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_license_verification_5"><source>License expires</source><target state="final">Licencja wygasa</target></trans-unit>
+      <trans-unit id="cci_nice_menu_license_verification_6"><source>Automatic license verification is overdue. Check the license in License settings.</source><target state="final">Termin automatycznej weryfikacji licencji minął. Sprawdź licencję w jej ustawieniach.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_license_verification_7"><source>Version information needs refreshing</source><target state="final">Informacje o wersji wymagają odświeżenia</target></trans-unit>
+      <trans-unit id="cci_nice_menu_license_verification_8"><source>Showing saved version information. The product catalog could not be reached.</source><target state="final">Wyświetlamy zapisane informacje o wersji. Nie udało się połączyć z katalogiem produktów.</target></trans-unit>
     </body>
   </file>
 </xliff>

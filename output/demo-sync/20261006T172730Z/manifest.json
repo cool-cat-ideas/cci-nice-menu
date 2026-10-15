@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/home/marcin/Development/CCI_DEV/demos/prestashop-demo/site/modules/cci_nice_menu/views/js/ccinice-menu-admin.js",
+    "before": "0582df20443d8fd028ce1a03ad97959a8ab08fce477ab431b023e75e726de30c",
+    "after": "eb65c7d1f87dc1e6efe9c76e79070e63961114f7a2f5087c8384b4004f54855d"
+  },
+  {
+    "path": "/home/marcin/Development/CCI_DEV/demos/prestashop-demo/site/modules/cci_nice_menu/views/css/cci_nice_menu_admin.css",
+    "before": "4d17b35854f62fa2b2aa97972c4328247dc1efcc91177181feaa1b157e24c288",
+    "after": "900a2149d8f95ddc4e86ade86648a6635e625791c4c8cdbf5a566d1a3ed03fff"
+  }
+]

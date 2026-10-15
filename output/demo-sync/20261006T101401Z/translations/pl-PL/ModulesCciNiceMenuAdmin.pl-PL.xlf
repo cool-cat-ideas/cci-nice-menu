@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="modules/cci_nice_menu" source-language="en-US" target-language="pl-PL" datatype="plaintext">
+    <body>
+      <trans-unit id="cci_nice_menu_admin_a8d9f409f816"><source>-20% active promotion</source><target state="final">-20% aktywnej promocji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ec481072ed25"><source>-30%</source><target state="final">-30%</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e708a4c14d52"><source>. The storefront reads its current children directly from the PrestaShop category tables.</source><target state="final">. Front sklepu pobiera aktualne podkategorie bezpośrednio z tabel kategorii PrestaShop.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0cf161a38a11"><source>(no title)</source><target state="final">(bez tytułu)</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ecca23b20793"><source>1:1 square</source><target state="final">Kwadrat 1:1</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_29148007ebcd"><source>10 Creative Street, 00-001 Warsaw</source><target state="final">Ul. Kreatywna 10, 00-001 Warszawa</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1983133bf1f3"><source>12-column grid</source><target state="final">Siatka 12-kolumnowa</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_facc2db2c55f"><source>16:9 widescreen</source><target state="final">Panoramiczny ekran 16:9</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_077e2e7cf5a0"><source>2-for-1 offers</source><target state="final">Oferty 2 w cenie 1</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_afa5aa190eee"><source>21:9 cinematic</source><target state="final">Film 21:9</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8708cfb3db82"><source>4:3 standard</source><target state="final">Standard 4:3</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e48d60341b13"><source>4.8+ average rating</source><target state="final">Średnia ocena 4,8+</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1c6ba8c8346e"><source>9:16 vertical</source><target state="final">9:16 pionowo</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5e8bb10692ad"><source>A hand-picked article displayed as a sticky menu card.</source><target state="final">Wyselekcjonowany artykuł wyświetlany jako przyklejona karta menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0d4368a53707"><source>A horizontal rail for recent or curated articles.</source><target state="final">Pozioma szyna na najnowsze lub wyselekcjonowane artykuły.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_db5da8b4619b"><source>A visual shortcut to product sets and campaign pages.</source><target state="final">Wizualny skrót do zestawów produktów i stron kampanii.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3ffb811f9be6"><source>About us</source><target state="final">O nas</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3f607f5d0610"><source>Accessory item promoted next to apparel.</source><target state="final">Akcesorium promowane obok odzieży.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_35980c44b4ac"><source>Accessory product row</source><target state="final">Rząd produktów akcesoriów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_23bf342c0ce1"><source>Action link can sit below the map.</source><target state="final">Link do akcji może znajdować się pod mapą.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_134b893d609c"><source>Activate license</source><target state="final">Aktywuj licencję</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_516e79e6434e"><source>Activate license here</source><target state="final">Aktywuj licencję tutaj</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4c8c4a2ba9c1"><source>Activate Pro</source><target state="final">Aktywuj Pro</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c0d1d24c8883"><source>Activate your license to unlock Pro add-ons and premium tools on this site.</source><target state="final">Aktywuj licencję, aby odblokować dodatki Pro i narzędzia premium w tym sklepie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5e6f8ac75143"><source>Activating...</source><target state="final">Aktywowanie...</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_11e5b87051e8"><source>Active menus</source><target state="final">Aktywne menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_26c5b572c474"><source>Add an element inside </source><target state="final">Dodaj element do środka</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e0d0ba7438fc"><source>Add block</source><target state="final">Dodaj blok</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a9d81858c109"><source>Add block below tabs</source><target state="final">Dodaj blok poniżej zakładek</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e02883a6ba02"><source>Add child</source><target state="final">Dodaj dziecko</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e77ea691fb76"><source>Add column</source><target state="final">Dodaj kolumnę</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1614f67683e7"><source>Add columns to build the submenu content for this tab.</source><target state="final">Dodaj kolumny, aby utworzyć zawartość podmenu dla tej karty.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b53526456e1c"><source>Add content</source><target state="final">Dodaj treść</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_329b3bbc8006"><source>Add first column</source><target state="final">Dodaj pierwszą kolumnę</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3e3d044e7ea6"><source>Add first link</source><target state="final">Dodaj pierwszy link</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c82c15f25f08"><source>Add first row</source><target state="final">Dodaj pierwszy wiersz</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e2dd04c2d85f"><source>Add first tab</source><target state="final">Dodaj pierwszą zakładkę</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_eedbdb9ee5f9"><source>Add review</source><target state="final">Dodaj opinię</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f648af13b3a1"><source>Add row</source><target state="final">Dodaj wiersz</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1a6fa6e31646"><source>Add tabs block</source><target state="final">Dodaj blok zakładek</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_edf64d81f5ee"><source>Add tabs group</source><target state="final">Dodaj grupę kart</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_12222a606037"><source>Address, place name or lat,lng</source><target state="final">Adres, nazwa miejscowości lub łac., lng</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e1b6b385dd1d"><source>All base content nodes available in the builder.</source><target state="final">Wszystkie podstawowe węzły treści dostępne w kreatorze.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_060be00f4f26"><source>All categories</source><target state="final">Wszystkie kategorie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b707cc8bbf2a"><source>All categories automatically</source><target state="final">Wszystkie kategorie automatycznie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6da0aec4d8a4"><source>All items</source><target state="final">Wszystkie przedmioty</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7fba9498cad7"><source>All saved configurations</source><target state="final">Wszystkie zapisane konfiguracje</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9e9a514148df"><source>All storefront pages</source><target state="final">Wszystkie strony sklepu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1ac7a4763aaa"><source>Already have a key? Paste it here and activate Pro in seconds.</source><target state="final">Masz już klucz? Wklej go tutaj i aktywuj Pro w kilka sekund.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6ce3c056f089"><source>Already have a license key? Paste it above and activate Pro in a few seconds.</source><target state="final">Masz już klucz licencji? Wklej go wyżej i aktywuj Pro w kilka sekund.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_42f31f9fe20b"><source>Already have a license? Activate it here in the module settings to unlock Pro features on this domain.</source><target state="final">Masz już licencję? Aktywuj ją tutaj w ustawieniach modułu, aby odblokować funkcje Pro dla tej domeny.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_bf4e8fe24843"><source>Also open review page</source><target state="final">Otwórz też stronę opinii</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d7ec8ba40334"><source>and all child elements from the current menu draft.</source><target state="final">i wszystkie elementy podrzędne z bieżącej wersji roboczej menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_69378a742b76"><source>Appearance and behaviour</source><target state="final">Wygląd i zachowanie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1b0f658c6a69"><source>Apply at checkout before Sunday night.</source><target state="final">Złóż wniosek przy kasie przed niedzielnym wieczorem.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_89b574814467"><source>Article carousel</source><target state="final">Karuzela artykułów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c7defd93d6dd"><source>Articles sorted by collected view statistics.</source><target state="final">Artykuły posortowane według zebranych statystyk wyświetleń.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_00b90a1f7b01"><source>Asset file is missing: %s</source><target state="final">Brakuje pliku zasobu: %s</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_856a9904cdfc"><source>Asset files</source><target state="final">Pliki zasobów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ebcfeee4118a"><source>Auto columns</source><target state="final">Automatyczne kolumny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c5e0928ffdf7"><source>Auto: icon, then thumbnail</source><target state="final">Auto: ikona, następnie miniatura</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_94cfade677d4"><source>Auto: thumbnail, then icon</source><target state="final">Auto: miniatura, następnie ikona</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8fa9a4c52bad"><source>Automatic category listing from CCI Blog.</source><target state="final">Automatyczna lista kategorii z bloga CCI.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e9ba95bf208d"><source>Automatic or selected category list with post counts.</source><target state="final">Automatyczna lub wybrana lista kategorii z liczbą postów.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7371c611391a"><source>Automatically rendered newest posts.</source><target state="final">Automatycznie renderowane najnowsze posty.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d269ab1d17ec"><source>Autoplay carousel</source><target state="final">Karuzela automatycznego odtwarzania</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c94eaf31d776"><source>Autoplay delay</source><target state="final">Opóźnienie automatycznego odtwarzania</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_98c8fa45ae03"><source>Autoplay is saved as muted by default because modern browsers block autoplay with sound. YouTube embeds use privacy-friendly youtube-nocookie URLs.</source><target state="final">Autoodtwarzanie jest domyślnie zapisywane jako wyciszone, ponieważ nowoczesne przeglądarki blokują autoodtwarzanie z dźwiękiem. Osadzone treści YouTube wykorzystują przyjazne dla prywatności adresy URL youtube-nocookie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7c62a1424469"><source>Available</source><target state="final">Dostępne</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1ebaa5107803"><source>Available in Pro</source><target state="final">Dostępne w Pro</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6c5f24a156e7"><source>Available in store</source><target state="final">Dostępne w sklepie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f8fb043c8ee5"><source>Available: %count%</source><target state="final">Dostępne: %count%</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6e71b4a20abd"><source>Back in stock</source><target state="final">Ponownie w magazynie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_189424446408"><source>Back to all menus</source><target state="final">Powrót do wszystkich menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_47820dafde86"><source>Back to school sets</source><target state="final">Powrót do zestawów szkolnych</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0bea9951c99c"><source>Badge appears next to the label when configured.</source><target state="final">Po skonfigurowaniu plakietka pojawia się obok etykiety.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9793a1d141c8"><source>Badge background</source><target state="final">Tło odznaki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_65d02e84f166"><source>Badge item</source><target state="final">Element odznaki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_effad6ac3ad0"><source>Badge text</source><target state="final">Tekst odznaki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c8af83fb4c1e"><source>Banner</source><target state="final">Transparent</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2f68452fed36"><source>Banner block</source><target state="final">Blok banerowy</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f43d86ae117b"><source>Banner eyebrow</source><target state="final">Banerowa brwi</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e6073704c830"><source>Banner layout</source><target state="final">Układ banera</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_60ebf811c2d4"><source>Banner orientations, image tiles and video blocks.</source><target state="final">Orientacje banerów, kafelki obrazów i bloki wideo.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d34a88e8f1b7"><source>Basic menu builder</source><target state="final">Podstawowy edytor menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7404f681cb55"><source>Below tabs</source><target state="final">Poniżej zakładki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_eeb716bc5f00"><source>Benefit item</source><target state="final">Przedmiot korzyści</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_aa3d6c02a3cf"><source>Benefits strip</source><target state="final">Pasek korzyści</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8173c2a946f1"><source>Best value</source><target state="final">Najlepsza wartość</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f2deba82f784"><source>Best wall art</source><target state="final">Najpopularniejsze dekoracje ścienne</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f6372374ac3a"><source>Bestsellers collection</source><target state="final">Kolekcja bestsellerów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7f4940196e5e"><source>Bestsellers highlights</source><target state="final">Bestsellery – najważniejsze informacje</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0b9d2b2362bc"><source>Blog</source><target state="final">Bloga</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e2fbb7e794b4"><source>Blog carousel</source><target state="final">Karuzela bloga</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4afe276b6586"><source>Blog categories</source><target state="final">Kategorie bloga</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_99902a9a7563"><source>Blog content</source><target state="final">Treść bloga</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b2ac804f302d"><source>Blog cover image URL</source><target state="final">Adres URL obrazu okładki bloga</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8fda55c0edbf"><source>Browse all categories</source><target state="final">Przeglądaj wszystkie kategorie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f2adc6a4d6fb"><source>Build a bundle</source><target state="final">Zbuduj pakiet</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_cfa3a7e12750"><source>Build menus around what customers are looking for</source><target state="final">Twórz menu wokół tego, czego szukają klienci</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_352ba6b26a83"><source>Build a responsive PrestaShop menu from categories, products, CMS pages and custom links, then arrange its desktop and mobile dropdown content visually.</source><target state="final">Zbuduj responsywne menu PrestaShop z kategorii, produktów, stron CMS i własnych linków, a potem wizualnie ułóż zawartość rozwijaną na komputer i telefon.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_44cbb30042f4"><source>Build the catalog like in the shop: tabs control which columns and blocks are visible.</source><target state="final">Zbuduj katalog jak w sklepie: zakładki kontrolują, które kolumny i bloki są widoczne.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8cedf957df80"><source>Build the first storefront navigation row with columns, links and native hooks.</source><target state="final">Zbuduj pierwszy wiersz nawigacji sklepu z kolumnami, linkami i natywnymi hookami.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f9716a1235ad"><source>Bundle -25%</source><target state="final">Pakiet -25%</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1b8b22534524"><source>Bundle add-on product</source><target state="final">Produkt dodatkowy w pakiecie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9a033a116a34"><source>Bundles</source><target state="final">Pakiety</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_69390e166570"><source>Campaign</source><target state="final">Kampania</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b4230275a472"><source>Campaign banners</source><target state="final">Banery kampanii</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_10ccb21c193e"><source>Campaign links with badges and clear calls to action.</source><target state="final">Linki do kampanii zawierają plakietki i wyraźne wezwania do działania.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f01b8a0a65a5"><source>Campaign paths</source><target state="final">Ścieżki kampanii</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2eee9639ebeb"><source>Campaign product with active catalog pricing.</source><target state="final">Produkt kampanii z aktywnymi cenami katalogowymi.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_880a8329eba8"><source>Canvas prints</source><target state="final">Obrazy na płótnie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_45d82d10e8e0"><source>Card item with icon</source><target state="final">Element karty z ikoną</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6b191262037d"><source>Card list</source><target state="final">Lista kart</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_11868e9568a4"><source>Card list also supports configured thumbnails.</source><target state="final">Lista kart obsługuje także skonfigurowane miniatury.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f6e7741a35e1"><source>Care guide</source><target state="final">Przewodnik pielęgnacji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_19919b3781aa"><source>Carousel block sourced from published blog posts.</source><target state="final">Blok karuzelowy pochodzący z opublikowanych postów na blogu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ac20c82a101e"><source>Carousel items</source><target state="final">Elementy karuzeli</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_795e9446895e"><source>Carousel margin</source><target state="final">Margines karuzeli</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_30b6b2e70bef"><source>Catalog product card</source><target state="final">Katalogowa karta produktu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_244d619739a0"><source>Catalog products</source><target state="final">Produkty katalogowe</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_231d08a0e8a9"><source>Catalog-backed product with theme image and price.</source><target state="final">Produkt oparty na katalogu ze zdjęciem motywu i ceną.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ae3deb558b96"><source>Category Browser</source><target state="final">Przeglądarka kategorii</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1b3df6245fc4"><source>Category browser header</source><target state="final">Nagłówek przeglądarki kategorii</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1e6d2bdf9532"><source>Category image URL</source><target state="final">Adres URL obrazu kategorii</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e3c8011e4908"><source>Category link</source><target state="final">Link do kategorii</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1fa4668c2be0"><source>Category media</source><target state="final">Kategoria mediów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f2e979831b52"><source>Category source</source><target state="final">Źródło kategorii</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2f0584446292"><source>Category tab media</source><target state="final">Karta kategorii – multimedia</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_625dc203904c"><source>Category thumbnail</source><target state="final">Miniatura kategorii</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e82c2e907c54"><source>Category tree</source><target state="final">Drzewo kategorii</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d6596c68157e"><source>Category tree node; select a category to generate a live browser.</source><target state="final">Węzeł drzewa kategorii; wybierz kategorię, aby wygenerować przeglądarkę na żywo.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_21da3bba4012"><source>Category tree source</source><target state="final">Źródło drzewa kategorii</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1ddebe6c27b5"><source>CCI Nice Menu</source><target state="final">CCI Nice Menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_32722a7c6959"><source>CCI Nice Menu Pro</source><target state="final">CCI Nice Menu Pro</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ef3cacea8aa7"><source>CCI Nice Menu Pro is not installed or not enabled.</source><target state="final">CCI Nice Menu Pro nie jest zainstalowany albo nie jest włączony.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a4789b0297dd"><source>CCI Nice Menu Pro is required to browse local images.</source><target state="final">Do przeglądania lokalnych obrazów wymagany jest CCI Nice Menu Pro.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d828c4fb36a2"><source>CCI Nice Menu Pro returned an invalid license payload.</source><target state="final">CCI Nice Menu Pro zwrócił nieprawidłowe dane licencji.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_bf32fadcf95e"><source>CCI Nice Menu Pro returned an invalid license response.</source><target state="final">CCI Nice Menu Pro zwrócił nieprawidłową odpowiedź licencji.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2c8bc9dc1213"><source>CCI Nice Menu Pro with Multistore is required.</source><target state="final">Wymagany jest CCI Nice Menu Pro z obsługą Multistore.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_94b2e66edc64"><source>Check license</source><target state="final">Sprawdź licencję</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_494d0f681c44"><source>Checking...</source><target state="final">Sprawdzanie...</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5098dd1999a4"><source>Checks</source><target state="final">Kontrole</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1b97afd79332"><source>Choose a rating from 1 to 5 stars.</source><target state="final">Wybierz ocenę od 1 do 5 gwiazdek.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8ca0a39691ae"><source>Choose local image</source><target state="final">Wybierz lokalny obraz</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1aded3fe5c48"><source>Clickable link</source><target state="final">Klikalny link</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_75d2d6018db7"><source>Clipboard is not available in this browser.</source><target state="final">Schowek nie jest dostępny w tej przeglądarce.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c772ccc1bc5b"><source>Close add content modal</source><target state="final">Zamknij moduł dodawania treści</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e4476fe92e3b"><source>Close notification</source><target state="final">Zamknij powiadomienie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a5a144bea887"><source>CMS page link</source><target state="final">Link do strony CMS</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6de01e115669"><source>CMS pages</source><target state="final">Strony CMS-owe</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_414524c8e406"><source>Code PRINT25</source><target state="final">Kod PRINT25</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_66db38b95fb5"><source>Collapse category</source><target state="final">Zwiń kategorię</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9e6876286e45"><source>Collapse sidebar</source><target state="final">Zwiń panel boczny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_21e11d763977"><source>Column start</source><target state="final">Początek kolumny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_dd6428e2b95a"><source>Columns and blocks shown here open when this tab is hovered.</source><target state="final">Pokazane tutaj kolumny i bloki otwierają się po najechaniu kursorem na tę kartę.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_58e1e307f3a4"><source>Columns: %count%</source><target state="final">Kolumny: %count%</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e4115be258db"><source>Coming soon</source><target state="final">Wkrótce</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5f4e2d4730ec"><source>Compact list</source><target state="final">Lista kompaktowa</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_cbf2fb6851d7"><source>Compact navigation list for category groups.</source><target state="final">Kompaktowa lista nawigacyjna dla grup kategorii.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6e394d738e0b"><source>Compact product list</source><target state="final">Kompaktowa lista produktów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_48c194d156ae"><source>Compact product row</source><target state="final">Kompaktowy rząd produktów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2ce228e0b4eb"><source>Compact product row when a full grid is not needed.</source><target state="final">Kompaktowy rząd produktów, gdy nie jest potrzebna pełna siatka.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2376b21401f5"><source>Compact product rows for quick promotion scanning.</source><target state="final">Kompaktowe rzędy produktów do szybkiego skanowania promocji.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5d60c7dd62fd"><source>Compatibility</source><target state="final">Zgodność</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a91782e5f701"><source>Configure compatibility, assets and module diagnostics.</source><target state="final">Ustaw zgodność, pliki zasobów i diagnostykę modułu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9488604087c8"><source>Configured icon</source><target state="final">Skonfigurowana ikona</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3c13b73c3316"><source>Connect a store endpoint</source><target state="final">Podłącz endpoint sklepu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_47950c9e2dd7"><source>Connect the store endpoint to browse menu add-ons. Built-in module features are available in the builder, not listed here.</source><target state="final">Połącz punkt końcowy sklepu, aby przeglądać dodatki do menu. W kreatorze dostępne są wbudowane funkcje modułów, które nie są tutaj wymienione.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6c6c2c7a3e3a"><source>Consistent icon, title and description rhythm.</source><target state="final">Spójny rytm ikony, tytułu i opisu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b37456c4530b"><source>Contact</source><target state="final">Kontakt</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7fa6e9b951a6"><source>Content column</source><target state="final">Kolumna treści</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_20018f674f07"><source>Content types</source><target state="final">Typy treści</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e7e3977e8173"><source>Control module assets and storefront compatibility options.</source><target state="final">Kontroluj zasoby modułów i opcje zgodności ze sklepami.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_35cc08d713f2"><source>Convert to manual</source><target state="final">Konwersja na ręczną</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b1176e87594c"><source>Cool Cat Ideas</source><target state="final">Cool Cat Ideas</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3246db95dc7f"><source>Cool Cat Ideas Store</source><target state="final">Sklep z fajnymi pomysłami na kota</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_35db7b6e0480"><source>Copy JSON</source><target state="final">Skopiuj JSON</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3e1ef348df61"><source>Copy or download the current menu configuration.</source><target state="final">Skopiuj lub pobierz bieżącą konfigurację menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4ed2589d4684"><source>Copy report</source><target state="final">Kopiuj raport</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_35b48cad411e"><source>Copy this report when you contact support. It excludes license keys and tokens.</source><target state="final">Skopiuj ten raport, gdy kontaktujesz się z pomocą. Nie zawiera kluczy licencji ani tokenów.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4b0d78cdc663"><source>Copy to shops</source><target state="final">Kopiuj do sklepów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_fb01738ac692"><source>Copying...</source><target state="final">Kopiowanie...</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_67bd9372645e"><source>Could not encode module settings</source><target state="final">Nie udało się zakodować ustawień modułu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c40f70dfc778"><source>Could not save module settings.</source><target state="final">Nie można zapisać ustawień modułu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_cebe053d7473"><source>Create independent copies in additional shops. Existing menus are not overwritten.</source><target state="final">Twórz niezależne kopie w dodatkowych sklepach. Istniejące menu nie zostaną nadpisane.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_142835503b97"><source>Create layout</source><target state="final">Utwórz układ</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_755a11a9c1f4"><source>Create more menu layouts</source><target state="final">Utwórz więcej układów menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ac513869b136"><source>Create one classic displayTop menu with standard navigation links.</source><target state="final">Utwórz jedno klasyczne menu w hooku displayTop ze standardowymi linkami nawigacji.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c6b617b2ecf7"><source>Create top navigation layout</source><target state="final">Utwórz górny układ nawigacji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6e385c20bf0a"><source>Create your first menu and assign it to a storefront hook.</source><target state="final">Stwórz swoje pierwsze menu i przypisz je do wieszaka sklepowego.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_548173785e0e"><source>Create your own design.</source><target state="final">Stwórz swój własny projekt.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_652a0fae395f"><source>Create, edit and assign menu definitions to storefront hooks.</source><target state="final">Twórz, edytuj i przypisuj definicje menu do hooków w froncie sklepu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_331dbcd2c6b2"><source>Create, manage and embed mega menu definitions.</source><target state="final">Twórz, edytuj i osadzaj rozbudowane menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_935f371becf1"><source>CSS and JavaScript needed to render the menu on the storefront.</source><target state="final">CSS i JavaScript potrzebne do wyświetlenia menu w sklepie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_96203900ab26"><source>CTA background</source><target state="final">Tło wezwania do działania</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_dd7d462d081d"><source>CTA text</source><target state="final">Tekst wezwania do działania</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_db0aa761987e"><source>Curated sets for quick seasonal shopping.</source><target state="final">Wyselekcjonowane zestawy do szybkich zakupów sezonowych.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9aaa727b471d"><source>Current/selected link state for navigation.</source><target state="final">Aktualny/wybrany stan łącza do nawigacji.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8b2a0ca57655"><source>Custom link</source><target state="final">Link niestandardowy</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_01325d1adf67"><source>Customer favorites</source><target state="final">Ulubione produkty klientów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8e8dca287a1e"><source>Customer reassurance</source><target state="final">Zapewnienie klienta</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_594f7660a5ec"><source>Customer reassurance hook</source><target state="final">Hook informacji dla klienta</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_81f83be7e2ab"><source>Customer support</source><target state="final">Wsparcie klienta</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0f1923a833b1"><source>Customer support phone link.</source><target state="final">Link do telefonu obsługi klienta.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_618b1d3b3da4"><source>Customizable mug bundle</source><target state="final">Konfigurowalny pakiet kubków</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_61074f1c958d"><source>Database</source><target state="final">Baza danych</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d65ded94286c"><source>Deactivate</source><target state="final">Dezaktywuj</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e6f74763978b"><source>Deactivate license</source><target state="final">Dezaktywuj licencję</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e5894d068597"><source>Deactivate Pro license?</source><target state="final">Dezaktywować licencję Pro?</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_cd13cb24b8b2"><source>Deactivating...</source><target state="final">Dezaktywowanie...</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0686ca9c8a33"><source>Deal spotlight</source><target state="final">Oferta w centrum uwagi</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_19e043d95c72"><source>Deals ending soon</source><target state="final">Oferty wkrótce się kończą</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_db0dd3026eea"><source>Debug mode</source><target state="final">Tryb debugowania</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e6b15eaee8c1"><source>Default text link in a shared list block.</source><target state="final">Domyślny link tekstowy w bloku listy udostępnionej.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e028c368c3dd"><source>Delete below-tabs block</source><target state="final">Usuń blok poniżej zakładek</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_fa55fdfefafe"><source>Delete block</source><target state="final">Usuń blok</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a79f24a4acf1"><source>Delete column</source><target state="final">Usuń kolumnę</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_bff051048be4"><source>Delete item</source><target state="final">Usuń element</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_dbe6be97929a"><source>Delete left item</source><target state="final">Usuń lewy element</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4ca031a8d710"><source>Delete menu</source><target state="final">Usuń menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6246b1b04125"><source>Delete menu item</source><target state="final">Usuń element menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e2b7753d255e"><source>Delete menu item?</source><target state="final">Usunąć pozycję menu?</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6b90c39e97be"><source>Delete menu?</source><target state="final">Usunąć menu?</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_fcf3f877f816"><source>Delete row</source><target state="final">Usuń wiersz</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_30bc2fe0ce3f"><source>Delete tab</source><target state="final">Usuń kartę</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6b7a9b5424f6"><source>Delete tab column</source><target state="final">Usuń kolumnę karty</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_27ce3af68e0f"><source>Delete tabs group</source><target state="final">Usuń grupę kart</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b2b064b4bd60"><source>Delete top menu item</source><target state="final">Usuń górną pozycję menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e16cac651b17"><source>Deleting...</source><target state="final">Usuwanie...</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_690859900b78"><source>Demo: selected products</source><target state="final">Demo: wybrane produkty</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3af2279f9e30"><source>Diagnostics</source><target state="final">Diagnostyka</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_04d9f8653e09"><source>Diagnostics and logs</source><target state="final">Diagnostyka i logi</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_18c56d432191"><source>Diagnostics copied to clipboard.</source><target state="final">Diagnostyka została skopiowana do schowka.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7a5638b18f4c"><source>Diagnostics could not be loaded.</source><target state="final">Nie udało się wczytać diagnostyki.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9bb478453443"><source>Direct child categories of the selected source become tabs controlling the catalog content.</source><target state="final">Bezpośrednie kategorie podrzędne wybranego źródła stają się zakładkami kontrolującymi zawartość katalogu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_94c0b345ce8f"><source>Direct children outside columns</source><target state="final">Skieruj dzieci na zewnątrz kolumn</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5f43cbd2995b"><source>Discount product rail</source><target state="final">Szyna na produkty objęte rabatem</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2fc6553c7521"><source>Discover creative ideas, media and every content block available in the menu.</source><target state="final">Odkryj kreatywne pomysły, media i każdy blok treści dostępny w menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a018758cef5a"><source>Discover featured guides, latest articles and popular reads.</source><target state="final">Odkryj polecane przewodniki, najnowsze artykuły i popularne lektury.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0b9fc9d6bdac"><source>Discover the products customers love most.</source><target state="final">Odkryj produkty, które klienci kochają najbardziej.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d161abc9d503"><source>displayTop hook</source><target state="final">Hook displayTop</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1cb9022d89b4"><source>Do not load extra icons</source><target state="final">Nie ładuj dodatkowych ikon</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_22fb967ab2dd"><source>Do you really want to uninstall CCI Nice Menu?</source><target state="final">Czy na pewno chcesz odinstalować CCI Nice Menu?</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9e9cf3221a30"><source>Documentation</source><target state="final">Dokumentacja</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9b10914d8b0a"><source>Domain</source><target state="final">Domena</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b0079efae38a"><source>Double the value</source><target state="final">Podwój wartość</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d296a30a06e6"><source>Download JSON</source><target state="final">Pobierz JSON-a</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ec8b93d509b9"><source>Dropdown content editor</source><target state="final">Edytor treści rozwijanych</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6374ead1b700"><source>Dynamic catalog mode</source><target state="final">Dynamiczny tryb katalogu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9df6a540b073"><source>Dynamic category flyout</source><target state="final">Dynamiczne menu rozwijane kategorii</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_368b8229e374"><source>Dynamic map</source><target state="final">Mapa dynamiczna</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1cbf7e1fa25c"><source>e.g. View all</source><target state="final">e.g. View all</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_77810a4d5f40"><source>Edit below-tabs block</source><target state="final">Edytuj blok poniżej zakładek</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_add13aac45d8"><source>Edit block</source><target state="final">Edytuj blok</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_73b5fe75eeae"><source>Edit column</source><target state="final">Edytuj kolumnę</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3f2add2a611d"><source>Edit item</source><target state="final">Edytuj element</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ed87dbefe931"><source>Edit left item</source><target state="final">Edytuj lewy element</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8e27989c782b"><source>Edit menu item</source><target state="final">Edytuj element menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_eeefe357fcb5"><source>Edit row</source><target state="final">Edytuj wiersz</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e4bcbfde49e5"><source>Edit source category</source><target state="final">Edytuj kategorię źródłową</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e5b3d6efabc8"><source>Edit tab</source><target state="final">Edytuj kartę</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9f56b53900e7"><source>Edit tab column</source><target state="final">Edytuj kolumnę karty</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_86170c715cd2"><source>Edit tabs</source><target state="final">Edytuj zakładki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3d25fe34027c"><source>Edit tabs group</source><target state="final">Edytuj grupę kart</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_11c837927f73"><source>Edit top menu item</source><target state="final">Edytuj górny element menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7e45464658d9"><source>Editor friendly</source><target state="final">Przyjazny dla redaktora</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4c88b3d2e601"><source>Element rendering</source><target state="final">Renderowanie elementów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5ede18832c75"><source>Email link rendered from menu data.</source><target state="final">Link e-mail renderowany na podstawie danych menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d3eca824debc"><source>Email us</source><target state="final">Napisz do nas</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_133442be861d"><source>Embedded video block with CTA and poster fallback.</source><target state="final">Wbudowany blok wideo z CTA i zastępczym plakatem.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0766d4230465"><source>Empty label at %path%[%index%].</source><target state="final">Pusta etykieta w %path%[%index%].</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2b073f906c99"><source>Empty link at %path%[%index%].</source><target state="final">Pusty link w %path%[%index%].</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_57f5f8c61d90"><source>Enter your license key to unlock Pro add-ons on this domain.</source><target state="final">Wpisz klucz licencji, aby odblokować dodatki Pro dla tej domeny.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0941656548c3"><source>Enter your license key.</source><target state="final">Wpisz klucz licencji.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d443a1185575"><source>Environment</source><target state="final">Środowisko</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_eb01bf04c9a0"><source>Examples</source><target state="final">Przykłady</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_21880c212895"><source>Expand category</source><target state="final">Rozwiń kategorię</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f462e889fd88"><source>Expand sidebar</source><target state="final">Rozwiń panel boczny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a99be3da0c9d"><source>Expires</source><target state="final">Wygasa</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b965ae66fcc4"><source>Explore</source><target state="final">Badać</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_64bdf772510a"><source>Explore all product groups and find what you love.</source><target state="final">Przeglądaj wszystkie grupy produktów i znajdź to, co lubisz.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4d46f0589eb9"><source>Express yourself</source><target state="final">Wyraź siebie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_cbb1b7c775d3"><source>Extension sections</source><target state="final">Sekcje rozszerzeń</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_58ca097998d1"><source>Extension store is not connected yet.</source><target state="final">Sklep z rozszerzeniami nie jest jeszcze połączony.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_175a3b96e31e"><source>Extension store is temporarily unavailable.</source><target state="final">Sklep z rozszerzeniami jest chwilowo niedostępny.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_656bcfe284e2"><source>Extensions</source><target state="final">Rozszerzenia</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_62cefce2ac07"><source>Extensions from your store will appear here.</source><target state="final">Rozszerzenia z Twojego sklepu pojawią się tutaj.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a91b85a4aab6"><source>External menu extensions registered by installed add-ons will appear here.</source><target state="final">Tutaj pojawią się rozszerzenia menu zewnętrznego zarejestrowane przez zainstalowane dodatki.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a511e1169b52"><source>External menu features registered by this add-on.</source><target state="final">Funkcje menu zewnętrznego zarejestrowane przez ten dodatek.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_95c6a3234669"><source>Extra row keeps compact list focused on product content.</source><target state="final">Dodatkowy wiersz pozwala zachować zwartą listę skupioną na zawartości produktu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a2e0f023493c"><source>Failed copying diagnostics.</source><target state="final">Nie udało się skopiować diagnostyki.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_98d9db3622e3"><source>Failed saving your feedback.</source><target state="final">Nie udało się zapisać opinii.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_fc71d6d6ed46"><source>Fallback image URL</source><target state="final">Adres URL obrazu zastępczego</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a4852d91c320"><source>Fan favorites return</source><target state="final">Ulubieńcy fanów powracają</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f450e97f272f"><source>Fast setup</source><target state="final">Szybka konfiguracja</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ad565d9d01d0"><source>Feature</source><target state="final">Funkcja</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_29aadab076a2"><source>Feature item</source><target state="final">Element charakterystyczny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_606df28a2def"><source>Featured article</source><target state="final">Artykuł polecany</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_dc50f68b0af0"><source>Featured collection</source><target state="final">Polecana kolekcja</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0219f6fbb7ec"><source>Featured collection banner</source><target state="final">Wyróżniony baner kolekcji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_56820b0d88c1"><source>Featured guide</source><target state="final">Polecany przewodnik</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_69d5c361fb25"><source>Featured promotion row</source><target state="final">Polecany wiersz promocyjny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_df709621c3a2"><source>Feedback could not be sent. Please try again.</source><target state="final">Nie udało się wysłać opinii. Spróbuj ponownie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e15847617a18"><source>Fewest posts first</source><target state="final">Najpierw najmniejsza liczba postów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_49ed8982f5cc"><source>Filter blog posts</source><target state="final">Filtruj wpisy na blogu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0fb72648bc73"><source>Filter categories</source><target state="final">Kategorie filtrów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2300c578229c"><source>Filter CMS pages</source><target state="final">Filtruj strony CMS</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b6c1c5421013"><source>Filter CMS pages by title</source><target state="final">Filtruj strony CMS według tytułu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_72031b2e8f40"><source>Filter latest products by name or reference</source><target state="final">Filtruj najnowsze produkty według nazwy lub referencji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_37d4254243c2"><source>Filter posts by title, intro or slug</source><target state="final">Filtruj posty według tytułu, wstępu lub informacji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_80d042cfee5c"><source>Filter products</source><target state="final">Filtruj produkty</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_cafd789efdca"><source>Filter the category tree</source><target state="final">Filtruj drzewo kategorii</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_38b94d13e8e1"><source>Find the right fit.</source><target state="final">Znajdź odpowiednie dopasowanie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d561f1ac9c8c"><source>Find us</source><target state="final">Znajdź nas</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_03c3a729e886"><source>First item only</source><target state="final">Tylko pierwszy element</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2f2981159a76"><source>Flash deals</source><target state="final">Oferty błyskawiczne</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b5debf18af65"><source>Font Awesome</source><target state="final">Czcionka niesamowita</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_44e1d86d9beb"><source>Footer actions</source><target state="final">Działania w stopce</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ed6ba34ef3ba"><source>Framed prints</source><target state="final">Oprawione wydruki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_75f527181b57"><source>Free</source><target state="final">Free</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_292d28ab7a48"><source>Free features are available. Pro features require CCI Nice Menu Pro.</source><target state="final">Funkcje wersji bezpłatnej są dostępne. Funkcje Pro wymagają CCI Nice Menu Pro.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d39e067c5a77"><source>Free menu tools are enabled for this site.</source><target state="final">Dla tej witryny włączone są bezpłatne narzędzia menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_761fe057c082"><source>Free shipping offers</source><target state="final">Oferty bezpłatnej wysyłki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_04936c25225f"><source>from CCI Nice Menu.</source><target state="final">z CCI Nice Menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4c330f265e65"><source>From our blog</source><target state="final">Z naszego bloga</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9acc314b017c"><source>Frontend runtime</source><target state="final">Zasoby frontu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_eb65e2cecfe8"><source>Full page</source><target state="final">Pełna strona</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c666f680a013"><source>Full-width shortcut strip for helpful links.</source><target state="final">Pasek skrótów o pełnej szerokości do przydatnych linków.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_88371760721c"><source>Gallery wall sets</source><target state="final">Zestawy ścienne z galeriami</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ed61ba1d47ce"><source>General purpose card list for mixed content rows.</source><target state="final">Lista kart ogólnego przeznaczenia dla wierszy o mieszanej zawartości.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f38ca4187988"><source>Gift bundle builder</source><target state="final">Kreator pakietów prezentów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_538d583ebdda"><source>Gift-ready sets</source><target state="final">Zestawy gotowe na prezent</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d080af3cd393"><source>Go to available extensions</source><target state="final">Przejdź do dostępnych rozszerzeń</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f8e1212b9b38"><source>Grid can be switched between available product presets.</source><target state="final">Siatkę można przełączać pomiędzy dostępnymi ustawieniami produktów.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_880863e0c7a5"><source>Grid product tile</source><target state="final">Płytka produktu siatkowego</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8d232c68aeba"><source>Hats &amp; beanies</source><target state="final">Czapki i czapki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_712c41de83a8"><source>Header navigation bar</source><target state="final">Pasek nawigacyjny nagłówka</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d4a8fdd67b90"><source>Heading action icon</source><target state="final">Ikona akcji nagłówka</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_249eb2d23080"><source>Hero promotion with product image, CTA and coupon code.</source><target state="final">Promocja bohatera ze zdjęciem produktu, wezwaniem do działania i kodem kuponu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_41ca2043047c"><source>Hide block heading</source><target state="final">Ukryj nagłówek bloku</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a00fee0d2c54"><source>Hide empty categories</source><target state="final">Ukryj puste kategorie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_59cb4a3f3a2b"><source>Hide on desktop</source><target state="final">Ukryj na pulpicie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_219e03149bad"><source>Hide on mobile</source><target state="final">Ukryj na telefonie komórkowym</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_14d4d0c5a635"><source>Hide on tablet</source><target state="final">Ukryj na tablecie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6662bfe8feba"><source>Hide this element on selected viewport groups without removing it from the menu structure.</source><target state="final">Ukryj ten element w wybranych grupach rzutni bez usuwania go ze struktury menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_94d6fb59bb62"><source>Highlighted link</source><target state="final">Podświetlony link</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_90042cfedc1a"><source>Hoodies &amp; sweatshirts</source><target state="final">Bluzy i bluzy</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b3e0a103daa9"><source>Hook</source><target state="final">Hook</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b47c9810e5a6"><source>Hook block</source><target state="final">Blok hooka</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_22dd92d38093"><source>Hook content is rendered from the module, not copied HTML.</source><target state="final">Treść hooka jest renderowana z modułu, a nie kopiowana z HTML.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_71bb5b8fc1f7"><source>Hook fallback</source><target state="final">Zapasowy hook</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8a0f54d46919"><source>Hook reference</source><target state="final">Hook referencyjny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4bd8f3f03a57"><source>Hooks</source><target state="final">Hooki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4f57a1ce99e6"><source>Horizontal</source><target state="final">Poziomy</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c742ef946194"><source>Horizontal banner</source><target state="final">Baner poziomy</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_189cb62aed91"><source>Horizontal banner component for wide content zones.</source><target state="final">Poziomy komponent banera dla szerokich stref treści.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8502dfa5ac0e"><source>Horizontal editor scroll</source><target state="final">Poziome przewijanie edytora</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_be2f7fd6960f"><source>Horizontal navigation</source><target state="final">Nawigacja pozioma</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9f4d460e93bd"><source>Horizontal promo banner</source><target state="final">Poziomy baner promocyjny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8c2e4cc1792a"><source>Horizontal tabs</source><target state="final">Zakładki poziome</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8c948d7947e0"><source>Hot</source><target state="final">Gorący</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_de7d6618ba35"><source>Hover category</source><target state="final">Kategoria otwierana po najechaniu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_14d5931c832a"><source>Hovering a main category opens its panel on the right, like the shop example.</source><target state="final">Najechanie na kategorię główną otwiera jej panel po prawej stronie, jak w przykładzie sklepu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_133646d50dc4"><source>How is CCI Nice Menu working for you?</source><target state="final">Jak działa u Ciebie CCI Nice Menu?</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8ed864616f52"><source>How to care for prints.</source><target state="final">Jak dbać o nadruki.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e4e6fa479b2c"><source>Hummingbird printed sweater</source><target state="final">Sweter z nadrukiem kolibra</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_65932bad3662"><source>Hummingbird printed t-shirt</source><target state="final">T-shirt z nadrukiem kolibra</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_dd2228856e2f"><source>Icon color</source><target state="final">Kolor ikony</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e0867fdee052"><source>Icon library</source><target state="final">Biblioteka ikon</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_97ecec4eed3a"><source>Icon only</source><target state="final">Tylko ikona</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c1be2cd58975"><source>Icon plus short value proposition.</source><target state="final">Ikona plus krótka propozycja wartości.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ff682063a7ca"><source>Icon source</source><target state="final">Źródło ikony</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4079575670c0"><source>Icon, label, description and chevron in one row.</source><target state="final">Ikona, etykieta, opis i jodełka w jednym rzędzie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_24c4f9846f85"><source>Icon, title and supporting copy for short guidance.</source><target state="final">Ikona, tytuł i kopia uzupełniająca zawierająca krótkie wskazówki.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7d0cb5b22f07"><source>Ideas, trends and interviews.</source><target state="final">Pomysły, trendy i wywiady.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5d5ed476002a"><source>If a custom embed URL is empty, the storefront builds a map iframe from the location field. The fallback image is used only when no location is provided.</source><target state="final">Jeśli adres osadzonej mapy jest pusty, moduł utworzy mapę na podstawie pola lokalizacji. Obraz zastępczy zostanie użyty tylko wtedy, gdy lokalizacja nie jest podana.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b8efb376f615"><source>If checked, we will open the public review page after saving your feedback.</source><target state="final">Jeśli zaznaczysz tę opcję, po zapisaniu opinii otworzymy publiczną stronę recenzji.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c8f70f41a320"><source>If this module helps your store, a short review helps us keep improving it.</source><target state="final">Jeśli moduł pomaga w Twoim sklepie, krótka opinia pomoże nam dalej go rozwijać.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6fd70f1f3247"><source>Image and video stack</source><target state="final">Stos obrazów i wideo</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5e8363277fad"><source>Image block</source><target state="final">Blok obrazu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_77c15edb6c15"><source>Image content can be used as a visual shortcut.</source><target state="final">Treści obrazu można używać jako skrótu wizualnego.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1ea58241c031"><source>Image item</source><target state="final">Element obrazu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_35c80f964568"><source>Image URL</source><target state="final">Adres URL obrazu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a6ebeec3d7f2"><source>Image, banner and video content in one media stack.</source><target state="final">Obraz, baner i treść wideo w jednym stosie multimediów.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b0aebea5dde8"><source>Image, gradient background, copy and CTA.</source><target state="final">Obraz, tło gradientowe, kopia i wezwanie do działania.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5d00bf0ae137"><source>Import and save</source><target state="final">Importuj i zapisuj</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_18f99833bb42"><source>Inherit</source><target state="final">Dziedziczyć</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_07bb42b24933"><source>Insert failed</source><target state="final">Dodanie rekordu nie powiodło się</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e317f212afe6"><source>Inspiration and blog</source><target state="final">Inspiracje i blog</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_841552b30900"><source>Inspiration library</source><target state="final">Biblioteka inspiracji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f16411ed4f1c"><source>Install and activate CCI Nice Menu Pro before managing a Pro license.</source><target state="final">Zainstaluj i włącz CCI Nice Menu Pro, zanim zaczniesz zarządzać licencją Pro.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_67ab5c8d7cd8"><source>Install and activate CCI Nice Menu Pro to unlock paid features.</source><target state="final">Zainstaluj i aktywuj CCI Nice Menu Pro, aby odblokować płatne funkcje.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_07932be955af"><source>Install and enable CCI Nice Menu Pro before activating a license on this site.</source><target state="final">Zainstaluj i włącz CCI Nice Menu Pro przed aktywacją licencji w tym sklepie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6eb78ec3022e"><source>Install or activate CCI Nice Menu Pro to save:</source><target state="final">Zainstaluj albo włącz CCI Nice Menu Pro, aby zapisać:</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4151413db703"><source>Install or activate CCI Nice Menu Pro to use this extension.</source><target state="final">Zainstaluj albo włącz CCI Nice Menu Pro, aby użyć tego rozszerzenia.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7bb4405cdfc9"><source>Installed</source><target state="final">Zainstalowane</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_749ba7d51faf"><source>Installed extensions</source><target state="final">Zainstalowane rozszerzenia</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_df36251e0202"><source>Invalid hook name at %path%[%index%].</source><target state="final">Nieprawidłowa nazwa hooka w %path%[%index%].</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4f0de14d16fc"><source>Invalid hook name.</source><target state="final">Nieprawidłowa nazwa hooka.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6870bc3d457e"><source>Invalid import payload</source><target state="final">Nieprawidłowe dane importu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_741cc929de53"><source>Invalid item at %path%[%index%].</source><target state="final">Nieprawidłowy element w %path%[%index%].</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_384b528ef71d"><source>Invalid link at %path%[%index%].</source><target state="final">Nieprawidłowy link w %path%[%index%].</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6e62cbb127ba"><source>Invalid menu id</source><target state="final">Nieprawidłowy identyfikator menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e261b29a7d99"><source>Item count</source><target state="final">Liczba elementów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_23911108855a"><source>item gap</source><target state="final">luka w przedmiotach</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_12c772b0e991"><source>Item gap</source><target state="final">Luka w przedmiocie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_bcaf20cafd17"><source>Item image URL</source><target state="final">Adres URL obrazu przedmiotu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_89833e302102"><source>Items outside columns</source><target state="final">Elementy poza kolumnami</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_67cc59b44db1"><source>Items outside nested columns</source><target state="final">Elementy poza zagnieżdżonymi kolumnami</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_26ddd50d39b5"><source>JSON export snapshot</source><target state="final">Migawka eksportu JSON</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_43fdd580844b"><source>JSON import</source><target state="final">Import JSON</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_96648e7d0730"><source>KATALOG PRODUKTOW</source><target state="final">KATALOG PRODUKTÓW</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_74043961edc4"><source>Keep the core module lighter and extend it only when needed.</source><target state="final">Zostaw główny moduł lżejszy i rozszerzaj go tylko wtedy, gdy tego potrzebujesz.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f721e02c81a9"><source>Kids apparel</source><target state="final">Odzież dziecięca</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_10e6b486c9ba"><source>Label and description come from data.</source><target state="final">Etykieta i opis pochodzą z danych.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b944d9785b56"><source>Last chance</source><target state="final">Ostatnia szansa</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f4b50527b090"><source>Last check</source><target state="final">Ostatnie sprawdzenie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_decd7ca80010"><source>Latest</source><target state="final">Najnowsza</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2790f215f7dd"><source>Latest articles</source><target state="final">Najnowsze artykuły</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4d8dd9463c77"><source>Latest blog list</source><target state="final">Najnowsza lista blogów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a658286987d2"><source>Latest products</source><target state="final">Najnowsze produkty</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a1dd52039390"><source>Layout details</source><target state="final">Szczegóły układu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_113293b614cb"><source>Leave empty to use the current blog cover image</source><target state="final">Pozostaw puste, aby użyć bieżącego obrazu okładki bloga</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3587c85f887e"><source>Leave empty to use the current catalog image</source><target state="final">Pozostaw puste, aby użyć bieżącego obrazu katalogu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b2abad9a600e"><source>Leave empty to use the current shop price</source><target state="final">Pozostaw puste, aby użyć aktualnej ceny sklepowej</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0e7b24cc5684"><source>License activation</source><target state="final">Aktywacja licencji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3d0d84a13985"><source>License active</source><target state="final">Licencja aktywna</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_081f6d27c72d"><source>License inactive</source><target state="final">Licencja nieaktywna</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f0bd1434fc27"><source>License key</source><target state="final">Klucz licencji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_790d9e97473e"><source>License key looks too short.</source><target state="final">Klucz licencji wygląda na zbyt krótki.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f5795392ffb3"><source>License request failed.</source><target state="final">Żądanie licencji nie powiodło się.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f191de9f913b"><source>License server is temporarily unavailable. Please try again later.</source><target state="final">Serwer licencji jest chwilowo niedostępny. Spróbuj ponownie później.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9c9c030552d9"><source>License status</source><target state="final">Status licencji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9661c63c46a3"><source>License status was refreshed.</source><target state="final">Status licencji został odświeżony.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_90814917de08"><source>Lightweight product card outside product grids.</source><target state="final">Lekka karta produktu poza siatkami produktów.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_accb4138099a"><source>Limited apparel offer</source><target state="final">Limitowana oferta odzieży</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2a181f622876"><source>Link list</source><target state="final">Lista linków</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3185d6a9e37f"><source>Link with badge</source><target state="final">Link z odznaką</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_70adec67d0fe"><source>Linked image tile</source><target state="final">Połączony kafelek obrazu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e2118418bf21"><source>Links and sources</source><target state="final">Linki i źródła</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9d13fcd81e04"><source>Lists row</source><target state="final">Wiersz list</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ab67e8702919"><source>Load from module</source><target state="final">Ładuj z modułu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_14d6f43caca3"><source>Load frontend CSS</source><target state="final">Załaduj CSS frontendu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_400d874cc872"><source>Load frontend JavaScript</source><target state="final">Załaduj interfejs JavaScript</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_15799843a847"><source>Load showcase</source><target state="final">Załaduj prezentację</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_66016d41fe8c"><source>Loaded from your store</source><target state="final">Załadowane ze sklepu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5f7cbab3271b"><source>Loading categories...</source><target state="final">Ładowanie kategorii...</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_43f14c67969e"><source>Loading CCI Nice Menu...</source><target state="final">Ładowanie CCI Nice Menu...</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1c491c38a7e8"><source>Loading diagnostics...</source><target state="final">Ładowanie diagnostyki...</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a3717f30a169"><source>Loading store extensions...</source><target state="final">Ładowanie rozszerzeń ze sklepu...</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3e58550ec999"><source>Loading strategy</source><target state="final">Strategia ładowania</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7645f718f4fe"><source>Loading suggestions...</source><target state="final">Ładowanie sugestii...</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_672def04f58c"><source>Loading updates...</source><target state="final">Ładowanie aktualizacji...</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b04ba49f8486"><source>Loading...</source><target state="final">Ładowanie...</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1857bfebf45d"><source>Local files from module</source><target state="final">Pliki lokalne z modułu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8bf95ea37256"><source>Log</source><target state="final">Dziennik</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1af5a74ec1a4"><source>Loved by thousands. Chosen by you.</source><target state="final">Kochany przez tysiące. Wybrany przez Ciebie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_376466506026"><source>Main menu</source><target state="final">Menu główne</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e3ac12d51d9e"><source>Manage installed menu extensions and browse add-ons from your store.</source><target state="final">Zarządzaj rozszerzeniami menu i sprawdzaj dodatki dostępne w sklepie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a89ef9c81204"><source>Manage Pro access</source><target state="final">Zarządzaj dostępem Pro</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_eb836116b267"><source>Manage the first storefront menu.</source><target state="final">Zarządzaj pierwszym menu widocznym w sklepie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2e9993ffdca4"><source>Manual cards</source><target state="final">Karty ręczne</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_fc9ff435937f"><source>Manual collection link</source><target state="final">Ręczny link do zbiórki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2fb6d896d1bb"><source>Manual label, icon, badge, URL and optional description.</source><target state="final">Ręczna etykieta, ikona, znaczek, adres URL i opcjonalny opis.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8b22c2403700"><source>Manual link can sit next to product content.</source><target state="final">Link ręczny może znajdować się obok treści produktu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e8848a4821a1"><source>Manual product cards</source><target state="final">Ręczne karty produktów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3cda4735d731"><source>Manual, CMS and catalog-backed navigation entries.</source><target state="final">Wpisy nawigacyjne ręczne, CMS i oparte na katalogu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_302b50118b85"><source>Manual, CMS, category and product links.</source><target state="final">Linki ręczne, CMS, kategorii i produktów.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_63a979f9e1d8"><source>Map and action link without the full store card wrapper.</source><target state="final">Link do mapy i akcji bez pełnego opakowania karty sklepu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_01764a4389e0"><source>Map block</source><target state="final">Blok mapy</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c19ba7bef547"><source>Map card</source><target state="final">Karta mapy</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7196143b0714"><source>Map placeholder from a query, address or configured embed URL.</source><target state="final">Zamapuj symbol zastępczy na podstawie zapytania, adresu lub skonfigurowanego adresu URL do umieszczenia na stronie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2452d3f589e2"><source>Map spans the card width and keeps contact data grouped.</source><target state="final">Mapa rozciąga się na szerokość karty i grupuje dane kontaktowe.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f16130e52e5f"><source>Map, address, contact links and status in one shared store block.</source><target state="final">Mapa, adres, linki kontaktowe i status w jednym udostępnionym bloku sklepu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_11561aec1797"><source>Match the menu container, spacing and mobile breakpoint.</source><target state="final">Dopasuj kontener menu, odstępy i mobilny punkt przerwania.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_27ad1d833422"><source>Maybe later</source><target state="final">Może później</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5da62c84cbf3"><source>Media and promos</source><target state="final">Media i promocje</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2e5709c04f2a"><source>Media caption</source><target state="final">Podpis multimedialny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d41d33cf15bd"><source>Media content</source><target state="final">Treści multimedialne</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a76ead518cfc"><source>Media types</source><target state="final">Typy mediów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a9aac2a413bb"><source>Mega grid</source><target state="final">Duża siatka</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6ba60afa7c00"><source>Mega menu tabs</source><target state="final">Mega zakładki menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_57f5f5efbc59"><source>Menu</source><target state="final">Menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8e009a950e61"><source>Menu actions</source><target state="final">Działania menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4b2547b8b3aa"><source>Menu appearance</source><target state="final">Wygląd menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2310a1ac9594"><source>Menu depth exceeded.</source><target state="final">Przekroczono dozwoloną głębokość menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7a1ecf97447e"><source>Menu extension.</source><target state="final">Rozszerzenie menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8ad7d77e6ed7"><source>Menu extensions</source><target state="final">Rozszerzenia menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f23d4cbe2896"><source>Menu item</source><target state="final">Pozycja menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9c06fae6de2f"><source>Menu name</source><target state="final">Nazwa menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6619d1073efd"><source>Menu name is required.</source><target state="final">Nazwa menu jest wymagana.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_579b4ac2971a"><source>Menu not found</source><target state="final">Nie znaleziono menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4ead3134faa0"><source>Menu settings</source><target state="final">Ustawienia menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2fab5a165421"><source>Menu table</source><target state="final">Tabela menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9b9f2daeeac9"><source>Menu table is missing. Reinstall or repair the module schema.</source><target state="final">Brakuje tabeli menu. Zainstaluj moduł ponownie albo napraw schemat bazy.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e7c3800e31ff"><source>Menus</source><target state="final">Menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_025353ab01f2"><source>Merchandising row</source><target state="final">Rząd handlowy</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_fecdff3eb99f"><source>Metal prints</source><target state="final">Metalowe nadruki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_92185dc52f71"><source>Missing</source><target state="final">Brakuje</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b8ff02892916"><source>Module</source><target state="final">Moduł</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7178b3f11e0c"><source>Module settings saved</source><target state="final">Ustawienia modułu zostały zapisane</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8e78c3c6d346"><source>Module settings saved.</source><target state="final">Ustawienia modułu zostały zapisane.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e47d7a459f1b"><source>Module status</source><target state="final">Status modułu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_26765277705c"><source>More from the blog</source><target state="final">Więcej z bloga</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e90d658d8239"><source>Most posts first</source><target state="final">Większość postów jest pierwsza</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_182fda0fea23"><source>Most purchased</source><target state="final">Najczęściej kupowane</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a4d87c46e89c"><source>Mug deal</source><target state="final">Oferta na kubki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_44ee33f7d666"><source>Mugs &amp; drinkware</source><target state="final">Kubki i naczynia do napojów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c98dd4557a59"><source>Multistore</source><target state="final">Multistore</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_88fff1e4770e"><source>Native hook</source><target state="final">Natywny hook</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8e62e1ec4de9"><source>Native module output</source><target state="final">Natywne wyjście modułu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_64e53a434de4"><source>Native PrestaShop reassurance module output.</source><target state="final">Natywne dane wyjściowe modułu pewności PrestaShop.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d64d1c45cac9"><source>Native PrestaShop search output from displaySearch / ps_searchbar.</source><target state="final">Natywne wyniki wyszukiwania PrestaShop z displaySearch / ps_searchbar.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_87901ee45055"><source>Navigation sources</source><target state="final">Źródła nawigacji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8ca3048a75d3"><source>Need more menu options?</source><target state="final">Potrzebujesz więcej opcji menu?</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6403f2b7eb2a"><source>New</source><target state="final">Nowy</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e467430aac79"><source>New deals every 24h</source><target state="final">Nowe oferty co 24h</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_46cc0f841e2e"><source>New version available</source><target state="final">Dostępna nowa wersja</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8d447bcea309"><source>Newest active blog posts from CCI Blog.</source><target state="final">Najnowsze aktywne wpisy na blogu CCI Blog.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_34c808d0a63f"><source>News</source><target state="final">Wiadomości</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_75d4a702957a"><source>Next check</source><target state="final">Następne sprawdzenie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0941c5f45813"><source>Nice Menu loads Owl Carousel JS and CSS from the Blog module when a menu contains an article carousel.</source><target state="final">Nice Menu ładuje Owl Carousel JS i CSS z modułu Blog, gdy menu zawiera karuzelę artykułów.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5152bde65d32"><source>No active menu is currently visible on the storefront.</source><target state="final">Żadne aktywne menu nie jest teraz widoczne w sklepie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_55b5b683b5ba"><source>No asset diagnostics were returned.</source><target state="final">Nie zwrócono żadnej diagnostyki zasobów.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e6c237ced737"><source>No categories found.</source><target state="final">Nie znaleziono żadnych kategorii.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5831397aee60"><source>No columns for this item yet</source><target state="final">Nie ma jeszcze kolumn dla tego elementu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0db3b2e6b364"><source>No extensions found.</source><target state="final">Nie znaleziono rozszerzeń.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_06999bab92bf"><source>No hook diagnostics were returned.</source><target state="final">Brak danych diagnostycznych hooków.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_454296004675"><source>No icon font is loaded. Choose Font Awesome or Tabler before adding menu icons.</source><target state="final">Żadna czcionka ikony nie jest załadowana. Wybierz opcję Font Awesome lub Tabler przed dodaniem ikon menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c1fabd36c33d"><source>No icons</source><target state="final">Brak ikon</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_86eaf6b0a610"><source>No media</source><target state="final">Brak mediów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d0120d9400b1"><source>No menu configuration exists yet.</source><target state="final">Nie ma jeszcze żadnej konfiguracji menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3b6a02c1c674"><source>No menu extensions are installed for this site yet.</source><target state="final">W tym sklepie nie ma jeszcze zainstalowanych rozszerzeń menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d78357671fe4"><source>No menus yet.</source><target state="final">Nie ma jeszcze menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b4d8472f006c"><source>No product updates yet.</source><target state="final">Nie ma jeszcze aktualizacji produktu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a4edfeab8003"><source>No recent module warnings were recorded.</source><target state="final">Nie zarejestrowano żadnych ostatnich ostrzeżeń modułu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7e615a28cd71"><source>No suggestions yet. Try filtering by name.</source><target state="final">Nie ma jeszcze żadnych sugestii. Spróbuj filtrować według nazwy.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_09e14e820b52"><source>Non-clickable opening status.</source><target state="final">Stan otwarcia niemożliwy do kliknięcia.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5a1958fe4429"><source>Non-clickable status pill used for opening hours or timers.</source><target state="final">Nieklikalna pigułka stanu używana do podawania godzin otwarcia lub timerów.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0f7147096f73"><source>Normal flow</source><target state="final">Normalny przepływ</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_998516e65e40"><source>Not registered</source><target state="final">Niezarejestrowany</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_251ce0b06703"><source>Notebooks</source><target state="final">Notatniki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2250a19952f4"><source>Notes for native module blocks available in the builder.</source><target state="final">Uwagi dotyczące natywnych bloków modułów dostępnych w kreatorze.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_dfdf15a7b894"><source>of 12</source><target state="final">z 12</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9ce3bd4224c8"><source>OK</source><target state="final">OK</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_091a30bd939c"><source>On orders over 150 zł</source><target state="final">Przy zamówieniach powyżej 150 zł</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_eb985aff8183"><source>One or more frontend assets are disabled in module settings.</source><target state="final">Co najmniej jeden zasób frontu jest wyłączony w ustawieniach modułu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_751e1497a54f"><source>Only when menu hook is used</source><target state="final">Tylko gdy używany jest hook menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_bd9746f6378d"><source>Open 9:00 - 17:00</source><target state="final">Otwarte 9:00 - 17:00</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f876ef51db83"><source>Open banner</source><target state="final">Otwórz baner</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7d1a81a792ee"><source>Open campaign landing</source><target state="final">Otwórz lądowanie kampanii</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b5b691da840d"><source>Open card list</source><target state="final">Otwórz listę kart</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_32b3d7c21fa3"><source>Open icon catalog</source><target state="final">Otwórz katalog ikon</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e56f29da2af3"><source>Open map</source><target state="final">Otwórz mapę</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_964a03fdfb17"><source>Open review page</source><target state="final">Otwórz stronę opinii</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_134635e9a2a6"><source>Open Settings</source><target state="final">Otwórz Ustawienia</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_af879fd5f94a"><source>Opening the review page.</source><target state="final">Otwieram stronę opinii.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0c6c4102d4df"><source>Optional</source><target state="final">Optional</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_cdca5266607c"><source>Optional custom thumbnail</source><target state="final">Opcjonalna niestandardowa miniatura</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f32a7ebb2f93"><source>Optional Google Maps or OpenStreetMap embed URL</source><target state="final">Opcjonalny adres URL do umieszczenia w Mapach Google lub OpenStreetMap</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_cd6cf4128c3d"><source>Optional media shown next to the item label. It is not the click target URL.</source><target state="final">Opcjonalne nośniki pokazane obok etykiety elementu. Nie jest to docelowy adres URL kliknięcia.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_90df3709d5d5"><source>Optional. Leave empty for natural height. When set, the tab content area scrolls within that height on the matching breakpoint.</source><target state="final">Fakultatywny. Pozostaw puste, aby uzyskać naturalną wysokość. Po ustawieniu obszar zawartości karty będzie przewijany w obrębie tej wysokości w pasującym punkcie przerwania.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_27ba4e4f2dcc"><source>Our top-rated products, all in one place.</source><target state="final">Nasze najwyżej oceniane produkty, wszystko w jednym miejscu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d26f2cc9ca58"><source>Our top-selling items</source><target state="final">Nasze najlepiej sprzedające się produkty</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_dc0f00f45abd"><source>Outlet picks</source><target state="final">Wybór outletów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b13efaf7b13b"><source>Owl Carousel assets</source><target state="final">Zasoby Owl Carousel</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_feab7d54f841"><source>Pair with apparel and save</source><target state="final">Połącz z odzieżą i oszczędzaj</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_bd6f1035d281"><source>Palette</source><target state="final">Paleta</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5da14e91a3c1"><source>Paste exported JSON here</source><target state="final">Wklej tutaj wyeksportowany plik JSON</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f203458ed70f"><source>Personalization</source><target state="final">Personalizacja</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_690e968d5023"><source>Phone cases</source><target state="final">Etui na telefony</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7daf403c7589"><source>PHP</source><target state="final">PHP</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e08d15ccec2d"><source>Pick the source category. On the storefront, its direct child categories become vertical tabs, and each hovered category builds its right-side columns from live subcategories.</source><target state="final">Wybierz kategorię źródłową. Jej bezpośrednie podkategorie staną się na froncie pionowymi zakładkami, a po najechaniu moduł zbuduje po prawej stronie kolumny z aktualnych podkategorii.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f127c4a70a5d"><source>Place products and categories inside menus</source><target state="final">Umieść produkty i kategorie w menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_bed893be8c9a"><source>Placement and storefront behaviour.</source><target state="final">Umiejscowienie i zachowanie w froncie sklepu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9f06242fecae"><source>Please accept the required consent before sending your review.</source><target state="final">Zaakceptuj wymaganą zgodę przed wysłaniem opinii.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a18e6d7f79de"><source>Please select a rating before saving feedback.</source><target state="final">Wybierz ocenę przed zapisaniem opinii.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a917db7af2ab"><source>Please try again in a moment.</source><target state="final">Spróbuj ponownie za chwilę.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1aecc8996bde"><source>Popular accessories</source><target state="final">Popularne akcesoria</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_02df05a71695"><source>Popular articles ordered by the blog view counter.</source><target state="final">Popularne artykuły uporządkowane według licznika wyświetleń bloga.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_fac5b8c21470"><source>Popular posts</source><target state="final">Popularne posty</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7d032329aaec"><source>Popular reads</source><target state="final">Popularne lektury</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c6970c43626c"><source>Poster add-on</source><target state="final">Dodatek do plakatu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_dbae9a8870b7"><source>Poster image URL</source><target state="final">Adres URL obrazu plakatu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b1c94c6a9948"><source>Poster product row</source><target state="final">Wiersz produktów plakatowych</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8cf870a117a8"><source>Posters</source><target state="final">Plakaty</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_90eceb016c51"><source>Prefix</source><target state="final">Prefiks</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ba1b29e2fde3"><source>Premium features are active on this site.</source><target state="final">Funkcje premium są aktywne w tym sklepie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4e9f7a31eef4"><source>Present</source><target state="final">Obecny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c8ee206285ed"><source>PrestaShop</source><target state="final">PrestaShop</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6e0ece0da541"><source>PrestaShop CMS page selected from catalog data.</source><target state="final">Strona CMS PrestaShop wybrana z danych katalogowych.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_850ef0a54e15"><source>PrestaShop hook output</source><target state="final">Treść hooka PrestaShop</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_add47f620f69"><source>PrestaShop module output rendered by hook name.</source><target state="final">Treść modułu PrestaShop wyświetlana na podstawie nazwy hooka.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_365a97d2d332"><source>Primary link</source><target state="final">Link główny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3b9fa15f06a6"><source>Primary links</source><target state="final">Podstawowe linki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d36dad20338f"><source>Primary navigation</source><target state="final">Podstawowa nawigacja</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d542c06dbf94"><source>Printed t-shirt deal</source><target state="final">Oferta na koszulki z nadrukiem</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3bc1e6441db0"><source>Printed t-shirts</source><target state="final">T-shirty z nadrukiem</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_66d0c5e6b170"><source>Pro</source><target state="final">Pro</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e97b3a674abb"><source>Pro access is active and premium features can be used on this site.</source><target state="final">Dostęp Pro jest aktywny i funkcje premium mogą być używane w tym sklepie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a9c353318fb1"><source>Pro feature</source><target state="final">Funkcja Pro</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6446af92c9f8"><source>Pro features will stop working on this site until the license is activated again.</source><target state="final">Funkcje Pro przestaną działać w tym sklepie, dopóki licencja nie zostanie ponownie aktywowana.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_64820c296d32"><source>Pro license was activated.</source><target state="final">Licencja Pro została aktywowana.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_661071e2d3a8"><source>Pro license was deactivated.</source><target state="final">Licencja Pro została dezaktywowana.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7c5dba57b133"><source>Pro upgrade</source><target state="final">Upgrade Pro</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4e8237693e7b"><source>Product bundles, timed campaigns and discount-driven merchandising blocks.</source><target state="final">Pakiety produktów, kampanie czasowe i bloki handlowe oparte na rabatach.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e49ff702c527"><source>Product grid</source><target state="final">Siatka produktów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1d82a1407c7a"><source>Product grids, compact rows and manual product cards.</source><target state="final">Siatki produktów, rzędy kompaktowe i ręczne karty produktów.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_93e8912bf1cd"><source>Product image URL</source><target state="final">Adres URL obrazu produktu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2b1b6ea20a71"><source>Product link</source><target state="final">Link do produktu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0d866bd0405e"><source>Product link, fallback tile and manual merchandising link.</source><target state="final">Link do produktu, kafelek zastępczy i link do ręcznej sprzedaży.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_650f0fe358f3"><source>Product price</source><target state="final">Cena produktu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0ca8b3e27889"><source>Product promotion examples, bundles and limited-time campaign blocks.</source><target state="final">Przykłady promocji produktów, pakiety i bloki kampanii o ograniczonym czasie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9b4787da4ad8"><source>Product row with price</source><target state="final">Wiersz produktów z ceną</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1ff9cad38031"><source>Product tile fallback</source><target state="final">Rozwiązanie zastępcze kafelka produktu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_323f2957835f"><source>Product tile rendered by the shop theme inside product grids.</source><target state="final">Kafelek produktu renderowany przez motyw sklepu wewnątrz siatek produktów.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e95a88062d51"><source>Product updates could not be loaded.</source><target state="final">Nie udało się załadować aktualizacji produktu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_bb20437a0712"><source>Products: %count%</source><target state="final">Produkty: %count%</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e485cc084128"><source>Promoted products</source><target state="final">Promowane produkty</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7f26a405f2e0"><source>Promotion intro</source><target state="final">Wprowadzenie do promocji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d47990a16686"><source>Promotion media</source><target state="final">Nośniki promocyjne</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_592426c924f1"><source>Promotion shortcuts</source><target state="final">Skróty promocyjne</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_663d091b5f9c"><source>Promotion shortcuts row</source><target state="final">Wiersz skrótów promocyjnych</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_56a301be104c"><source>Promotion studio</source><target state="final">Pracownia promocji</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_95a218826d34"><source>Promotions and deals</source><target state="final">Promocje i okazje</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9aab9918a984"><source>Published posts</source><target state="final">Opublikowane posty</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c052966a7bed"><source>Push to right</source><target state="final">Pchnij w prawo</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8b28830a9845"><source>Quick feedback</source><target state="final">Szybka opinia</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_bb98c3e41fc9"><source>Quieter link list for supporting navigation.</source><target state="final">Cichsza lista linków do obsługi nawigacji.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3126a799a70b"><source>Rail service cards</source><target state="final">Karty usług kolejowych</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f4770892b28b"><source>Rail service item pattern used by tab support content.</source><target state="final">Wzorzec elementu usługi kolejowej używany w treści obsługi kart.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2af5ffb28dba"><source>Rail services</source><target state="final">Usługi kolejowe</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6437b7bf6558"><source>Rating</source><target state="final">Ocena</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_559d122fe2cc"><source>Raw diagnostic report</source><target state="final">Surowy raport diagnostyczny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_eb8203d79e04"><source>Recent logs</source><target state="final">Najnowsze logi</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_476d96e1990f"><source>Recommended for self-hosted videos</source><target state="final">Zalecane w przypadku filmów hostowanych samodzielnie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_56e3badc4e6c"><source>Refresh</source><target state="final">Odśwież</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5b7bdb61fdbc"><source>Refreshing...</source><target state="final">Odświeżanie...</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a844fcf834e7"><source>Registered</source><target state="final">Zarejestrowany</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a19352960244"><source>Registered through installed add-ons</source><target state="final">Zarejestrowano poprzez zainstalowane dodatki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_31e042976804"><source>Remote CDN from vendor</source><target state="final">Zdalny CDN od dostawcy</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7215bfadb027"><source>Render the menu in the main storefront header hook.</source><target state="final">Wyświetl menu w głównym hooku nagłówka sklepu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f014a965bd7d"><source>Renders a clickable anchor on the storefront.</source><target state="final">Wyświetla na froncie klikalny link.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ec965c5bddd2"><source>Renders a non-clickable span on the storefront.</source><target state="final">Renderuje nieklikalny obszar w froncie sklepu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0906acc70568"><source>Required consent</source><target state="final">Wymagana zgoda</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_76076ebbae62"><source>Requires Pro</source><target state="final">Wymaga Pro</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_74affc4f82b9"><source>Reset from theme</source><target state="final">Resetuj z motywu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_242849353204"><source>Resource link</source><target state="final">Link do zasobów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_84ce86ee95b5"><source>Retry now</source><target state="final">Spróbuj teraz</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ee27480a6181"><source>Reusable blocks</source><target state="final">Bloki wielokrotnego użytku</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_53764818ab2d"><source>Reusable for manuals, guides and collections.</source><target state="final">Możliwość wielokrotnego wykorzystania w podręcznikach, przewodnikach i kolekcjach.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_505185eced0c"><source>Reusable for reassurance and highlights.</source><target state="final">Nadaje się do wielokrotnego użytku dla zapewnienia pewności i podkreślenia.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_eae681dfb03d"><source>Reusable list, card, strip and rail block variants.</source><target state="final">Warianty list wielokrotnego użytku, kart, pasków i bloków szynowych.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e541e8fa023b"><source>Reusable style</source><target state="final">Styl wielokrotnego użytku</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3dbf690fa8d1"><source>Reuse menus across stores</source><target state="final">Wykorzystuj ponownie menu w różnych sklepach</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6a7820c345b5"><source>Review and install the latest release when you are ready.</source><target state="final">Sprawdź i zainstaluj najnowsze wydanie, gdy będziesz gotowy.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_894be998ab2f"><source>Rich media stack</source><target state="final">Bogaty stos multimediów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_52d0b35277ee"><source>Rows</source><target state="final">Wiersze</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_21903b084453"><source>Rows hold columns. Add reusable blocks inside columns, then add categories, products, banners or links.</source><target state="final">Wiersze zawierają kolumny. Dodaj bloki wielokrotnego użytku w kolumnach, a następnie dodaj kategorie, produkty, banery lub linki.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b6516ea1faff"><source>Same block with reduced visual weight.</source><target state="final">Ten sam blok ze zmniejszoną wagą wizualną.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4bd4811321ea"><source>Same compact component works for other catalog products.</source><target state="final">Ten sam kompaktowy komponent działa z innymi produktami katalogowymi.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8c695f717679"><source>Same component in different menu sections.</source><target state="final">Ten sam komponent w różnych sekcjach menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_179359b39edb"><source>Save changes</source><target state="final">Zapisz zmiany</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_fcc8deacaeda"><source>Save feedback</source><target state="final">Zapisz opinię</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9205302197d0"><source>Save more</source><target state="final">Oszczędzaj więcej</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_913aba9f96cf"><source>Save settings</source><target state="final">Zapisz ustawienia</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_61b9f982c0f2"><source>Save this menu before copying it to another shop.</source><target state="final">Zapisz to menu przed skopiowaniem go do innego sklepu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ae7e887517b0"><source>Saving...</source><target state="final">Zapisywanie...</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b5230ecdf4e7"><source>Schema</source><target state="final">Schemat</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_49ef07420c6f"><source>Search bar hook</source><target state="final">Hook wyszukiwarki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_32d607b50a13"><source>Search categories by title or slug</source><target state="final">Szukaj w kategoriach według tytułu lub ślimaka</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4412bfe59cdf"><source>Search products</source><target state="final">Szukaj produktów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_496ace29e3cf"><source>Second product tile proves the shared grid layout.</source><target state="final">Druga płytka produktu potwierdza wspólny układ siatki.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_13acdb02b75a"><source>Second promoted product in the same visual grid.</source><target state="final">Drugi promowany produkt w tej samej siatce wizualnej.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_afff988f05c6"><source>Secondary link</source><target state="final">Link wtórny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d2b366ee3226"><source>Secondary link block uses the same list mechanics.</source><target state="final">Dodatkowy blok łączy wykorzystuje tę samą mechanikę list.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_88f09d390974"><source>Secondary link list</source><target state="final">Lista linków pomocniczych</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2f4f5a443e37"><source>Secondary links</source><target state="final">Linki wtórne</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7f49871b19a1"><source>See CCI Nice Menu Pro</source><target state="final">Zobacz CCI Nice Menu Pro</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_706e162b1b05"><source>Select a left item</source><target state="final">Wybierz lewy element</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b4d98901f420"><source>Select a tab</source><target state="final">Wybierz kartę</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b05d234fc746"><source>Select at least one category or switch the source back to automatic.</source><target state="final">Wybierz przynajmniej jedną kategorię lub przełącz źródło z powrotem na automatyczne.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e3479c72c207"><source>Select blog categories</source><target state="final">Wybierz kategorie bloga</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_63e605a0757b"><source>Selected categories only</source><target state="final">Tylko wybrane kategorie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6b8b4f3f5611"><source>Selected categories stay in their tree position.</source><target state="final">Wybrane kategorie pozostają w swoim drzewie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6d8977a1723c"><source>Selected ID: #</source><target state="final">Wybrany identyfikator: #</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1e3f4ecde15b"><source>Selected products demo; replace with dynamic product data later.</source><target state="final">Demo wybranych produktów; zastąpić później dynamicznymi danymi produktu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8dc0333c7cfb"><source>Self-hosted file</source><target state="final">Plik z własnego serwera</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_cb0cb170d106"><source>Server</source><target state="final">Serwer</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2dbc04c61214"><source>Service item</source><target state="final">Przedmiot usługi</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_acdfea382eff"><source>Set rating</source><target state="final">Ustaw ocenę</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a29ebabcdc4e"><source>Settings must be an object.</source><target state="final">Ustawienia muszą być obiektem.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2e7109bda2f0"><source>Settings sections</source><target state="final">Sekcje ustawień</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4fdd3d3b450b"><source>Share your CCI Nice Menu feedback</source><target state="final">Podziel się opinią o CCI Nice Menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_538cd583f8e1"><source>Shared media stack for images, video and supporting copy.</source><target state="final">Udostępniony stos multimediów dla obrazów, wideo i kopii pomocniczej.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0fda837275cf"><source>Shop bestsellers</source><target state="final">Kupuj bestsellery</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f26c02d86294"><source>Shop categories</source><target state="final">Kategorie sklepu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ae22ac847f07"><source>Shop ID</source><target state="final">ID sklepu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6a5cc02ee49e"><source>Shop name</source><target state="final">Nazwa sklepu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4ddc74545e01"><source>Shop the kit</source><target state="final">Kup zestaw</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0d6db4fb3a57"><source>Shopping information</source><target state="final">Informacje o zakupach</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a19b70ffe9dc"><source>Short review</source><target state="final">Krótka opinia</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3f0b644b550d"><source>Short service item for tab rails.</source><target state="final">Krótka informacja usługowa do listy zakładek.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_fd52f04d722b"><source>Show blog posts and media blocks</source><target state="final">Pokaż posty na blogu i bloki multimediów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0aeccc4da777"><source>Show post count</source><target state="final">Pokaż liczbę postów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1c9b17e1ac03"><source>Show products, blog posts and media directly in the menu. Reuse the same setup across stores.</source><target state="final">Pokaż produkty, wpisy na blogu i media bezpośrednio w menu. Użyj tej samej konfiguracji w różnych sklepach.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_505cba475760"><source>Simple links</source><target state="final">Proste linki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_02cb5e05aac7"><source>Single category link with live URL and product count fallback.</source><target state="final">Link do jednej kategorii z aktywnym adresem URL i zastępczą liczbą produktów.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_960780cdbf8a"><source>Single menu</source><target state="final">Jedno menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2f1ae634862d"><source>Single selected article block for editorial navigation.</source><target state="final">Pojedynczy wybrany blok artykułu do nawigacji redakcyjnej.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5b6825d3c67a"><source>Site</source><target state="final">Strona</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ef508bfe9187"><source>Size guide</source><target state="final">Przewodnik po rozmiarach</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3aa2fba477b8"><source>Small product row with image, description and price.</source><target state="final">Mały rząd produktów ze zdjęciem, opisem i ceną.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2b04deb63a1b"><source>Sort categories</source><target state="final">Sortuj kategorie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e761766aa549"><source>Source category #</source><target state="final">Kategoria źródłowa nr</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d8d1132691b6"><source>Standalone image with optional caption and link.</source><target state="final">Samodzielny obraz z opcjonalnym podpisem i linkiem.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9f3aa3946a39"><source>Standalone map</source><target state="final">Samodzielna mapa</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_29d8bbfb8819"><source>Standalone map block for contact or pickup sections.</source><target state="final">Samodzielny blok mapy dla sekcji kontaktowych lub odbiorczych.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b725374c364d"><source>Start with a row</source><target state="final">Zacznij od rzędu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_31e3325a338d"><source>Static text (span)</source><target state="final">Tekst statyczny (rozpiętość)</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8fef14676b1b"><source>Status badge</source><target state="final">Odznaka stanu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9dca595b1a9c"><source>Stickers</source><target state="final">Naklejki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8ef61d4f5276"><source>Still being prepared</source><target state="final">Wciąż w przygotowaniu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0d8a7046c8d3"><source>Store</source><target state="final">Sklep</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_97f8b98af443"><source>Store and hooks</source><target state="final">Sklep i hooki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9990ffadf20c"><source>Store card</source><target state="final">Karta sklepu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f38d228485a7"><source>Store card, map blocks and native PrestaShop hooks.</source><target state="final">Karta sklepu, bloki map i natywne hooki PrestaShop.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_209f9ebad53d"><source>Store data is temporarily unavailable.</source><target state="final">Dane sklepu są chwilowo niedostępne.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4535e3a04b8c"><source>Store map</source><target state="final">Mapa sklepu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_86c1a07cfe4c"><source>Storefront visibility</source><target state="final">Widoczność w sklepie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3ae801a0ca17"><source>Strips row</source><target state="final">Rząd pasków</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_de1ee7b94d57"><source>Structure presets</source><target state="final">Gotowe układy</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d9d329f92083"><source>Subcategories become grouped columns. You do not maintain these generated columns manually.</source><target state="final">Podkategorie stają się zgrupowanymi kolumnami. Tych wygenerowanych kolumn nie obsługuje się ręcznie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b70e20752f64"><source>Summer print kit</source><target state="final">Letni zestaw do nadruku</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_42f221d6a32b"><source>Support link</source><target state="final">Link do wsparcia</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c2154baf590c"><source>Support note</source><target state="final">Notatka wsparcia</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_aef3ee10b22c"><source>Sweater campaign</source><target state="final">Kampania sweterkowa</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_733a1b8be6c1"><source>T-shirt, mug and poster bundle with limited campaign pricing.</source><target state="final">Pakiet T-shirt, kubek i plakat w ograniczonej cenie kampanii.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_414587a74da2"><source>Tabler Icons</source><target state="final">Ikony Tablera</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2a4d562b1d9a"><source>Tabs</source><target state="final">Zakładki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_35a374e1e7b5"><source>Tabs - horizontal</source><target state="final">Zakładki - poziome</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c89b05934959"><source>Tabs - vertical</source><target state="final">Zakładki - pionowe</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5510a0439aa8"><source>Tabs group</source><target state="final">Grupa zakładek</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_848eed0fbd54"><source>Tags</source><target state="final">Tagi</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_fc04b03e0b2a"><source>Tall banner variant using the same banner CTA and hover styles.</source><target state="final">Wysoki wariant banera z tym samym przyciskiem i efektem po najechaniu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_38d22045f777"><source>Tank tops</source><target state="final">Tank topy</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2dc5db7476c8"><source>Text and utility blocks</source><target state="final">Bloki tekstowe i użytkowe</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e7692ae47251"><source>Text card</source><target state="final">Karta tekstowa</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_522b184ae7f2"><source>Text cards can explain media content without custom markup.</source><target state="final">Karty tekstowe mogą wyjaśniać zawartość multimedialną bez niestandardowych znaczników.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b237d4e5642c"><source>Text, status, map and native module content.</source><target state="final">Tekst, status, mapa i natywna zawartość modułu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d22da675b52c"><source>Thank you for your feedback.</source><target state="final">Dziękujemy za opinię.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e1bad254c0eb"><source>That is all for now. Create your next menu or edit an existing storefront navigation.</source><target state="final">To wszystko na teraz. Utwórz kolejne menu lub edytuj istniejącą nawigację w froncie sklepu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8ff0ac15d279"><source>The module will retry automatically. No bundled module features will be shown as installed extensions.</source><target state="final">Moduł spróbuje ponownie automatycznie. Wbudowane funkcje modułu nie będą pokazane jako zainstalowane rozszerzenia.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ed4607d02f98"><source>The plugin will retry automatically. Installed items remain available.</source><target state="final">Moduł spróbuje ponownie automatycznie. Zainstalowane elementy pozostaną dostępne.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_62294e3057b8"><source>News from Cool Cat Ideas is temporarily unavailable. Please try again.</source><target state="final">Aktualności Cool Cat Ideas są chwilowo niedostępne. Spróbuj ponownie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_cc9e3c2fae6c"><source>The selected icon library will be loaded from files shipped with this module.</source><target state="final">Wybrana biblioteka ikon zostanie załadowana z plików dostarczonych z tym modułem.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_745f2c1269eb"><source>The selected icon library will be loaded from the vendor CDN on the storefront.</source><target state="final">Wybrana biblioteka ikon zostanie załadowana na froncie z CDN dostawcy.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0fb98241ca80"><source>The storefront renders modules currently attached to this hook. Menu display hooks are blocked to avoid recursive menu rendering.</source><target state="final">Front wyświetla moduły aktualnie podpięte do tego hooka. Hooki wyświetlające menu są blokowane, aby menu nie renderowało się rekurencyjnie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c8edc906db86"><source>the top menu item</source><target state="final">górna pozycja menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f41e2a2ed70a"><source>Theme product tile</source><target state="final">Płytka produktu tematycznego</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f62dda723db2"><source>Theme-rendered product cards for discount campaigns.</source><target state="final">Renderowane tematycznie karty produktów do kampanii rabatowych.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_34fa6d7e8b0a"><source>Theme-rendered product cards for visual merchandising.</source><target state="final">Renderowane tematycznie karty produktów do merchandisingu wizualnego.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ccd9b99d2eee"><source>These came from the older structure. Rebuild them into columns when needed.</source><target state="final">Pochodziły one ze starszej konstrukcji. W razie potrzeby przebuduj je na kolumny.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_795fbaf4fe21"><source>These items are inside the row wrapper but not inside a column.</source><target state="final">Te elementy znajdują się wewnątrz opakowania wiersza, ale nie w kolumnie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d0b9c858c174"><source>This catalog dropdown is generated from live PrestaShop categories.</source><target state="final">To menu rozwijane katalogu jest generowane na podstawie aktywnych kategorii PrestaShop.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8a703df8e613"><source>This extension requires an active CCI Nice Menu Pro license for this domain.</source><target state="final">To rozszerzenie wymaga aktywnej licencji CCI Nice Menu Pro dla tej domeny.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0c8e72806d37"><source>This is the content opened by the selected tab.</source><target state="final">To jest zawartość otwierana przez wybraną kartę.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_973c239ffbd8"><source>this item</source><target state="final">ten element</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f0e0cf8e2fd1"><source>this menu</source><target state="final">to menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5d0e66a62a8e"><source>This menu uses Pro features.</source><target state="final">To menu używa funkcji Pro.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_514737cc8ea8"><source>This permanently removes</source><target state="final">To trwale usuwa</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8c2f932d7c03"><source>This removes</source><target state="final">To usunie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f0972b650635"><source>This report verifies versions, shop context, hooks, menu data, asset files and module settings without exposing private license keys.</source><target state="final">Raport sprawdza wersje, kontekst sklepu, hooki, dane menu, pliki i ustawienia modułu bez ujawniania klucza licencji.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_93c64551e5e4"><source>This shop is using the base module. After you install CCI Nice Menu Pro, license activation will appear here.</source><target state="final">Ten sklep używa podstawowej wersji modułu. Po instalacji CCI Nice Menu Pro w tym miejscu pojawi się aktywacja licencji.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ed803fe1c8a7"><source>Title A-Z</source><target state="final">Tytuł A-Z</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_68cf68f17f84"><source>Title Z-A</source><target state="final">Tytuł Z-A</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d8368ba5460b"><source>Today only</source><target state="final">Tylko dzisiaj</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_64386239cff6"><source>Today&apos;s deals</source><target state="final">Dzisiejsze oferty</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_32fa7e9a2608"><source>Top apparel</source><target state="final">Najpopularniejsza odzież</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_171723da1a2e"><source>Top navigation row</source><target state="final">Górny wiersz nawigacyjny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_fa4059562d0e"><source>Top rated</source><target state="final">Najwyżej oceniane</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_241be07aff15"><source>Top-level menu layout</source><target state="final">Układ menu najwyższego poziomu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a41518adbc9d"><source>Top-level placement</source><target state="final">Umiejscowienie na najwyższym poziomie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_72e08ce93a9b"><source>Top-level width</source><target state="final">Szerokość najwyższego poziomu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_db78b8d149d7"><source>Total menus</source><target state="final">Razem menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_349be2e96041"><source>Tote bags</source><target state="final">Torby materiałowe</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_cba2e8a4e6eb"><source>Tree structure must be an array.</source><target state="final">Struktura drzewa musi być tablicą.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1829279669ff"><source>Trending now</source><target state="final">Trendy teraz</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b7a138b0646f"><source>Trust item</source><target state="final">Zaufaj przedmiotowi</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_732f44918f49"><source>Trying again in the background without interrupting your work.</source><target state="final">Ponawiam w tle bez przerywania pracy.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_5c41384fa4f4"><source>Two-column product grid</source><target state="final">Dwukolumnowa siatka produktów</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_321eb2c3f8ef"><source>Unique designs that say more than words.</source><target state="final">Unikalne projekty, które mówią więcej niż słowa.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f7317a504e7d"><source>Unlock installed and store add-ons for this domain.</source><target state="final">Odblokuj dodatki zainstalowane i dostępne w sklepie dla tej domeny.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_bbf103c76833"><source>Untitled extension</source><target state="final">Rozszerzenie bez tytułu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ee859bd3b3be"><source>Up to 50% off</source><target state="final">Do 50% zniżki</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4de04cd91a3d"><source>Update failed</source><target state="final">Aktualizacja nie powiodła się</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_23967e9d38c0"><source>Upgrade CCI Nice Menu to unlock this workflow in the menu builder.</source><target state="final">Przejdź na CCI Nice Menu Pro, aby odblokować ten tryb pracy w kreatorze menu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_cd08702ad387"><source>Use 0 for auto width. Example: 6, 3, 3 fills one 12-column row.</source><target state="final">Użyj 0 dla szerokości automatycznej. Przykład: 6, 3, 3 wypełnia jeden wiersz składający się z 12 kolumn.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2367ebace941"><source>Use 0 for automatic placement.</source><target state="final">Użyj 0, aby umieścić automatycznie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b5d1f1b2d2fc"><source>Use 0 for automatic width.</source><target state="final">Użyj 0, aby ustawić szerokość automatyczną.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e11754e74c42"><source>Use 12 for a full-width row. Nested rows can use a smaller width when needed.</source><target state="final">Użyj 12, aby uzyskać rząd o pełnej szerokości. W razie potrzeby zagnieżdżone wiersze mogą mieć mniejszą szerokość.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_bfb9c25d14e3"><source>Use an icon token from the configured icon source.</source><target state="final">Użyj tokenu ikony ze skonfigurowanego źródła ikon.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a28fe21fd7a5"><source>Use displaySearch / ps_searchbar as a hook block when search is needed.</source><target state="final">Gdy potrzebujesz wyszukiwarki, użyj displaySearch / ps_searchbar jako bloku hooka.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_cd911ebb24c3"><source>Use editable product card</source><target state="final">Użyj edytowalnej karty produktu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f15c6a0ea25f"><source>Use existing site assets</source><target state="final">Użyj istniejących zasobów strony</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0274a5203778"><source>Use Font Awesome names in menu items, for example user, house or cart-shopping.</source><target state="final">Używaj nazw Font Awesome w pozycjach menu, na przykład podczas zakupów użytkownika, domu lub koszyka.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_18f7f65dbd59"><source>Use icon tokens already exposed by the active theme or another installed asset.</source><target state="final">Użyj tokenów ikon już udostępnionych przez aktywny motyw lub inny zainstalowany zasób.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_0433a4d5b0b4"><source>Use Tabler icon names in menu items, for example user, home or shopping-cart.</source><target state="final">Używaj nazw ikon Tablera w pozycjach menu, na przykład użytkownik, dom lub koszyk.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c8614996e2da"><source>Use theme icons if available</source><target state="final">Użyj ikon motywu, jeśli są dostępne</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8230a3c6426f"><source>Use this when the active theme or another module already loads Owl Carousel JS and CSS on the storefront.</source><target state="final">Wybierz tę opcję, gdy aktywny motyw lub inny moduł już ładuje Owl Carousel JS i CSS na froncie sklepu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_476cb267ed9d"><source>Useful for bestsellers, new arrivals and manual selections.</source><target state="final">Przydatne w przypadku bestsellerów, nowości i ręcznych selekcji.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9788ca29b22d"><source>Utility content</source><target state="final">Treść użytkowa</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b606ea648c42"><source>Version feed is unavailable</source><target state="final">Kanał wersji jest niedostępny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4b937cc841d8"><source>Vertical</source><target state="final">Pionowy</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8ff940216a66"><source>Vertical banner</source><target state="final">Pionowy baner</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_fb30394cde0d"><source>Vertical feature</source><target state="final">Funkcja pionowa</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7b396eeb7169"><source>Vertical layout of the same shared banner block.</source><target state="final">Pionowy układ tego samego udostępnionego bloku banerów.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_3074ce4a81e5"><source>Vertical navigation</source><target state="final">Nawigacja pionowa</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_9c2683bcda13"><source>Vertical promo banner</source><target state="final">Pionowy baner promocyjny</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_69c50fc55d94"><source>Vertical promotion banner using the shared banner component.</source><target state="final">Pionowy baner promocyjny wykorzystujący udostępniony komponent banera.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e68a7f3a5585"><source>Vertical tabs</source><target state="final">Zakładki pionowe</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a850b6bb2b48"><source>Video behaviour</source><target state="final">Zachowanie wideo</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_24562906364b"><source>Video block</source><target state="final">Blok wideo</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4d02f8818d1e"><source>Video feature</source><target state="final">Funkcja wideo</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_74abf378458f"><source>Video file URL</source><target state="final">Adres URL pliku wideo</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_931e1a4b152a"><source>View all</source><target state="final">Zobacz wszystko</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_c5f7f2a2831c"><source>View all accessories</source><target state="final">Zobacz wszystkie akcesoria</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a66dee301f5f"><source>View all apparel</source><target state="final">Zobacz całą odzież</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_80f27f0cb9cf"><source>View all deals</source><target state="final">Zobacz wszystkie oferty</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8326078e656d"><source>View all wall art</source><target state="final">Zobacz wszystkie grafiki ścienne</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1e8d89de0f15"><source>View collection</source><target state="final">Zobacz kolekcję</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_843227c3ccad"><source>View discounted products</source><target state="final">Zobacz przecenione produkty</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_fdc8bfc40710"><source>View in store</source><target state="final">Zobacz w sklepie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_93d4ef61a72f"><source>View link list</source><target state="final">Zobacz listę linków</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_8109d6c7d6a9"><source>View product page</source><target state="final">Zobacz stronę produktu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_86ba79714597"><source>View resources</source><target state="final">Zobacz zasoby</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1039cd9e38dd"><source>View store</source><target state="final">Zobacz sklep</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_6fcad34c9e5b"><source>View update</source><target state="final">Zobacz aktualizację</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_b65fe723c3a8"><source>Visible on your store</source><target state="final">Widoczne w Twoim sklepie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1fa8032774e8"><source>Visible under</source><target state="final">Widoczne pod</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1430f976c596"><source>Warnings</source><target state="final">Ostrzeżenia</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d91ebf5887cf"><source>Watch</source><target state="final">Oglądać</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_550123d39663"><source>Watch guide</source><target state="final">Obejrzyj przewodnik</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_f7412f67b425"><source>What worked well? What should we improve?</source><target state="final">Co działa dobrze? Co powinniśmy poprawić?</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_2763eff2f196"><source>What&apos;s hot this week</source><target state="final">Co jest na topie w tym tygodniu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_61a0d6145e3e"><source>Product news from Cool Cat Ideas will appear here.</source><target state="final">Tutaj pojawią się aktualności produktu od Cool Cat Ideas.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_74757807a489"><source>Wide banner with shared CTA, media and gradient logic.</source><target state="final">Szeroki baner ze wspólnym CTA, multimediami i logiką gradientu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_e482f3ac75f9"><source>Widget modules can render through a conscious hook fallback.</source><target state="final">Moduły widgetowe mogą być wyświetlane przez świadomie wybrany hook zastępczy.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_51513ed4a032"><source>Works as a horizontal supporting strip.</source><target state="final">Pełni funkcję poziomej listwy nośnej.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_17e68c3cf295"><source>You are up to date</source><target state="final">Masz aktualną wersję</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_7179d49af3ae"><source>Your menus</source><target state="final">Twoje menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_125457e97da2"><source>Your Pro license is active for this site.</source><target state="final">Twoja licencja Pro jest aktywna dla tego sklepu.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_ae29cced7d71"><source>Your review will be sent for moderation. It will not be published automatically.</source><target state="final">Twoja opinia zostanie wysłana do moderacji. Nie opublikujemy jej automatycznie.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_a1d06ed285b8"><source>YouTube or file video with poster, aspect ratio and lazy loading.</source><target state="final">YouTube lub plik wideo z plakatem, proporcjami i leniwym ładowaniem.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_1aad3f56b507"><source>YouTube URL or ID</source><target state="final">Adres URL lub identyfikator YouTube</target></trans-unit>
+      <trans-unit id="cci_license_expiry_0"><source>Pro license expired</source><target state="final">Licencja Pro wygasła</target></trans-unit>
+      <trans-unit id="cci_license_expiry_1"><source>Renew your Pro license</source><target state="final">Odnów licencję Pro</target></trans-unit>
+      <trans-unit id="cci_license_expiry_2"><source>Published content remains visible. Renew your license to save Pro settings.</source><target state="final">Opublikowane treści pozostają widoczne. Odnów licencję, aby zapisywać ustawienia Pro.</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_12e248242471"><source>Build the dropdown panel for the selected top navigation item.</source><target state="final">Ułóż zawartość rozwijanego panelu wybranej pozycji menu.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

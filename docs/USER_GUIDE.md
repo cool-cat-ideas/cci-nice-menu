@@ -5,13 +5,15 @@ work on desktop and mobile.
 
 ## Requirements
 
-- PrestaShop 9.1-9.1.5.
+- PrestaShop 9.0.0-9.1.5.
 - PHP version supported by the target PrestaShop installation.
 - PrestaShop Search Bar enabled when you want native search in the top menu.
 - PrestaShop reassurance module enabled when you want native reassurance links
   in dropdowns.
 
 ## Installation
+
+Download the module ZIP from the [Cool Cat Ideas product page](https://coolcatideas.com/products/cci-nice-menu/).
 
 1. Make a backup of the shop files and database.
 2. Open **Modules > Module Manager > Upload a module**.
@@ -115,3 +117,32 @@ Support entry point:
 ```text
 https://coolcatideas.com/support
 ```
+
+## Menu settings: what to change and how to check it
+
+Open the menu in the visual editor and expand its layout/settings controls.
+The settings below affect the selected menu, not every menu in the shop.
+
+| Field | Effect | Practical check |
+| --- | --- | --- |
+| Container mode | Boxed content or a full-width menu container | Match the header area provided by the theme. It cannot create a missing hook. |
+| Container width | Width limit in pixels for a boxed menu | Start with the theme content width; 1320 is the module default. |
+| Item gap | Spacing between top-level entries, in pixels | Default 8. Increase only while the last item still fits before the mobile breakpoint. |
+| Mobile breakpoint | Viewport width where mobile navigation takes over | Default 900 px; server range 600–1400. Test immediately above and below the selected value. |
+| Top-level icons | First item only, all items or no icons | This affects top-level navigation, not product images in dropdowns. |
+| Animation | Dropdown transition style | Check opening and closing on desktop and mobile. |
+| Theme and colors | Menu palette and saved color values | Prefer these controls for colors rather than overriding generated inline variables with CSS. Some presets require Pro. |
+| Per-device visibility | Hides selected content on a device class | Requires Pro. Keep a usable route to the same destination on mobile. |
+
+For a first menu, keep one placement, the default breakpoint and a short first
+level. Add one dropdown row containing two columns, then put destination links
+inside each column. Save and confirm that the hierarchy and all links work.
+Only then add images, tabs or product panels.
+
+Use **Link or label** for navigation behavior. An empty destination should be a
+group heading, not a fake link to the top of the page. If a saved change appears
+only in the editor, clear PrestaShop/theme caches and confirm the active shop.
+
+### Editing the menu layout
+
+The header bar and dropdown editors fill the available workspace. Column labels such as **9/12** show their share of the row. On a smaller desktop or a phone, scroll inside the editor to reach the remaining columns. This does not change their widths in the shop. Use **Container width** in the menu settings to change the storefront width.

@@ -1834,7 +1834,7 @@
                                                                             }
                                                                         ],
                                                                         "component_variant": "showcase_card_list",
-                                                                        "icon": "settings",
+                                                                        "icon": "gear",
                                                                         "description": "Text, status, map and native module content."
                                                                     }
                                                                 ],
@@ -1911,7 +1911,7 @@
                                                     }
                                                 ],
                                                 "columns": 1,
-                                                "icon": "layout-grid",
+                                                "icon": "table-cells-large",
                                                 "description": "All base content nodes available in the builder.",
                                                 "link_mode": "span"
                                             },
@@ -2136,7 +2136,7 @@
                                                                                 "link": "#",
                                                                                 "target": false,
                                                                                 "children": [],
-                                                                                "icon": "sparkles",
+                                                                                "icon": "wand-magic-sparkles",
                                                                                 "badge": "New",
                                                                                 "description": "Manual link can sit next to product content."
                                                                             }
@@ -2488,7 +2488,7 @@
                                                                             }
                                                                         ],
                                                                         "component_variant": "showcase_card_list",
-                                                                        "icon": "sparkles",
+                                                                        "icon": "wand-magic-sparkles",
                                                                         "description": "Campaign links with badges and clear calls to action."
                                                                     }
                                                                 ],
@@ -2755,7 +2755,7 @@
                                                                                 "target": false,
                                                                                 "children": [],
                                                                                 "description": "Text cards can explain media content without custom markup.",
-                                                                                "icon": "captions"
+                                                                                "icon": "closed-captioning"
                                                                             }
                                                                         ],
                                                                         "component_variant": "showcase_media_block",
@@ -2960,7 +2960,7 @@
                                                                             }
                                                                         ],
                                                                         "component_variant": "showcase_card_list",
-                                                                        "icon": "layout-list",
+                                                                        "icon": "table-list",
                                                                         "description": "General purpose card list for mixed content rows."
                                                                     }
                                                                 ],
@@ -2999,7 +2999,7 @@
                                                                                 "link": "#",
                                                                                 "target": false,
                                                                                 "children": [],
-                                                                                "icon": "edit-3",
+                                                                                "icon": "pen",
                                                                                 "description": "Label and description come from data.",
                                                                                 "component_variant": "showcase_rail_service"
                                                                             },
@@ -3010,13 +3010,13 @@
                                                                                 "link": "#",
                                                                                 "target": false,
                                                                                 "children": [],
-                                                                                "icon": "refresh-cw",
+                                                                                "icon": "arrows-rotate",
                                                                                 "description": "Same component in different menu sections.",
                                                                                 "component_variant": "showcase_rail_service"
                                                                             }
                                                                         ],
                                                                         "component_variant": "showcase_card_list",
-                                                                        "icon": "sparkles",
+                                                                        "icon": "wand-magic-sparkles",
                                                                         "description": "Rail service item pattern used by tab support content."
                                                                     }
                                                                 ],
@@ -3164,7 +3164,7 @@
                                                     }
                                                 ],
                                                 "columns": 2,
-                                                "icon": "blocks",
+                                                "icon": "cubes",
                                                 "description": "Reusable list, card, strip and rail block variants.",
                                                 "link_mode": "span"
                                             },
@@ -3235,7 +3235,7 @@
                                                                                 "link": "mailto:hello@coolcatideas.com",
                                                                                 "target": false,
                                                                                 "children": [],
-                                                                                "icon": "mail",
+                                                                                "icon": "envelope",
                                                                                 "description": "Email link rendered from menu data."
                                                                             },
                                                                             {
