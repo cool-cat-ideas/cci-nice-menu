@@ -1592,14 +1592,6 @@ body.mobile.adminccinicemenuconfiguration #content.bootstrap {
   white-space: nowrap;
 }
 
-.cci-nice-menu-storefront-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.375rem;
-  margin-top: 0.625rem;
-}
-
-.cci-nice-menu-storefront-meta span,
 .cci-nice-menu-mm-column-size {
   display: inline-flex;
   align-items: center;

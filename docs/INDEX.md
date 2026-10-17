@@ -46,3 +46,7 @@ when they expose paid behavior, the Pro layer.
   with exact parameters, return semantics and a working example.
 - Built-in presets are not installed extensions. The Extensions screen should
   list only modules that register themselves through the extension hooks.
+
+## Ask for help
+
+[Support](SUPPORT.md) explains where to ask a question and how to follow the reply.

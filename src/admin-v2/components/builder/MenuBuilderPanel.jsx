@@ -3454,10 +3454,6 @@ function TopLevelLayoutPanel({ tree = [], entries = [], activeIndex, selectedPat
                 <div className='tw-min-w-0'>
                     <h3 className='cci-nice-menu-menu-items-title'>{__('Header navigation bar', 'cci-nice-menu')}</h3>
                     <p className='cci-nice-menu-menu-items-description'>{__('Build the first storefront navigation row with columns, links and native hooks.', 'cci-nice-menu')}</p>
-                    <div className='cci-nice-menu-storefront-meta'>
-                        <span>{__('12-column grid', 'cci-nice-menu')}</span>
-                        <span>{itemGap}px {__('item gap', 'cci-nice-menu')}</span>
-                    </div>
                 </div>
                 <Button
                     variant='add'
@@ -4491,12 +4487,6 @@ function MegaCanvas({ activeTop, activeTopPath = [], selectedPath, onSelect, onE
                             ? __( 'This catalog dropdown is generated from live PrestaShop categories.', 'cci-nice-menu' )
                             : __( 'Build the dropdown panel for the selected top navigation item.', 'cci-nice-menu' )}
                     </p>
-                    {!dynamicCategoryFlyout ? (
-                        <div className='cci-nice-menu-storefront-meta'>
-                            <span>{ __( '12-column grid', 'cci-nice-menu' ) }</span>
-                            <span>{EDITOR_GRID_GAP}px gap</span>
-                        </div>
-                    ) : null}
                 </div>
                 {dynamicCategoryFlyout ? (
                     <div className='tw-flex tw-flex-wrap tw-justify-end tw-gap-2'>

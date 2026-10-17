@@ -95,28 +95,10 @@ If you already own a license, activate it in the same sidebar panel.
 
 ## Support
 
-When requesting support, include:
-
-- product name and version,
-- PrestaShop version,
-- PHP version,
-- shop domain and whether it is production or staging,
-- whether CCI Nice Menu Pro is installed,
-- screenshots of the admin view and storefront issue,
-- exported menu JSON from **Import / Export**,
-- browser console errors, if any.
-
-Product page:
-
-```text
-https://coolcatideas.com/products/cci-nice-menu
-```
-
-Support entry point:
-
-```text
-https://coolcatideas.com/support
-```
+If a step is unclear or something is not working, we are happy to help.
+See [Support](SUPPORT.md) for direct contact links, how to send a request
+and where to read our reply. Your product version and a screenshot are
+a helpful starting point; you do not need to diagnose the cause first.
 
 ## Menu settings: what to change and how to check it
 
