@@ -1,0 +1,3703 @@
+[
+  {
+    "id": "node-1783802301925-96z3hh",
+    "type": "row",
+    "label": "Top navigation row",
+    "link": "",
+    "column_span": 12,
+    "children": [
+      {
+        "id": "node-1783802719077-zlsmdj",
+        "type": "column",
+        "label": "Primary navigation",
+        "link": "",
+        "column_span": 9,
+        "children": [
+          {
+            "id": "seed-110",
+            "type": "custom",
+            "label": "Product catalog",
+            "link": "#",
+            "target": false,
+            "column_span": 0,
+            "children": [
+              {
+                "id": "seed-82",
+                "type": "column",
+                "label": "Store categories",
+                "link": "",
+                "target": false,
+                "children": [
+                  {
+                    "id": "seed-81",
+                    "type": "block",
+                    "label": "Store categories",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-35",
+                        "type": "category",
+                        "label": "Clothes",
+                        "link": "#",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-34",
+                            "type": "row",
+                            "label": "Clothes row",
+                            "link": "",
+                            "target": false,
+                            "children": [
+                              {
+                                "id": "seed-17",
+                                "type": "column",
+                                "label": "Clothing",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-6",
+                                    "type": "block",
+                                    "label": "Clothing",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-1",
+                                        "type": "custom",
+                                        "label": "T-shirts",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "component_variant": "showcase_current_link"
+                                      },
+                                      {
+                                        "id": "seed-2",
+                                        "type": "custom",
+                                        "label": "Sweatshirts and hoodies",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": []
+                                      },
+                                      {
+                                        "id": "seed-3",
+                                        "type": "custom",
+                                        "label": "Polo shirts",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": []
+                                      },
+                                      {
+                                        "id": "seed-4",
+                                        "type": "custom",
+                                        "label": "Shirts",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": []
+                                      },
+                                      {
+                                        "id": "seed-5",
+                                        "type": "custom",
+                                        "label": "Tank tops",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": []
+                                      }
+                                    ],
+                                    "component_variant": "showcase_link_block"
+                                  },
+                                  {
+                                    "id": "seed-12",
+                                    "type": "block",
+                                    "label": "Accessories",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-7",
+                                        "type": "custom",
+                                        "label": "Caps and beanies",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": []
+                                      },
+                                      {
+                                        "id": "seed-8",
+                                        "type": "custom",
+                                        "label": "Bags and backpacks",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": []
+                                      },
+                                      {
+                                        "id": "seed-9",
+                                        "type": "custom",
+                                        "label": "Socks",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": []
+                                      },
+                                      {
+                                        "id": "seed-10",
+                                        "type": "custom",
+                                        "label": "Jewelry",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": []
+                                      },
+                                      {
+                                        "id": "seed-11",
+                                        "type": "custom",
+                                        "label": "Cases and accessories",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": []
+                                      }
+                                    ],
+                                    "component_variant": "showcase_secondary_link_block"
+                                  },
+                                  {
+                                    "id": "seed-16",
+                                    "type": "block",
+                                    "label": "Special collections",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-13",
+                                        "type": "custom",
+                                        "label": "New arrivals",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": []
+                                      },
+                                      {
+                                        "id": "seed-14",
+                                        "type": "custom",
+                                        "label": "Bestsellers",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": []
+                                      },
+                                      {
+                                        "id": "seed-15",
+                                        "type": "custom",
+                                        "label": "Sale",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": []
+                                      }
+                                    ],
+                                    "component_variant": "showcase_secondary_link_block"
+                                  }
+                                ],
+                                "column_span": 2,
+                                "component_variant": "showcase_link_column"
+                              },
+                              {
+                                "id": "seed-28",
+                                "type": "column",
+                                "label": "T-shirts - recommended for you",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-22",
+                                    "type": "block",
+                                    "label": "T-shirts - recommended for you",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-18",
+                                        "type": "product_tile",
+                                        "label": "Hummingbird printed t-shirt",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "1",
+                                        "source_label": "Hummingbird printed t-shirt",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": false
+                                      },
+                                      {
+                                        "id": "seed-19",
+                                        "type": "product_tile",
+                                        "label": "Hummingbird printed sweater",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "2",
+                                        "source_label": "Hummingbird printed sweater",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": false
+                                      },
+                                      {
+                                        "id": "seed-20",
+                                        "type": "product_tile",
+                                        "label": "Mountain fox cushion",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "9",
+                                        "source_label": "Mountain fox cushion",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": false
+                                      },
+                                      {
+                                        "id": "seed-21",
+                                        "type": "product_tile",
+                                        "label": "Hummingbird cushion",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "11",
+                                        "source_label": "Hummingbird cushion",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": false
+                                      }
+                                    ],
+                                    "component_variant": "showcase_product_grid",
+                                    "heading_link": "/",
+                                    "heading_link_label": "View all",
+                                    "heading_link_icon": "arrow-right"
+                                  },
+                                  {
+                                    "id": "seed-27",
+                                    "type": "block",
+                                    "label": "Benefits",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-23",
+                                        "type": "text",
+                                        "label": "Premium quality",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Best materials",
+                                        "icon": "shield"
+                                      },
+                                      {
+                                        "id": "seed-24",
+                                        "type": "text",
+                                        "label": "HD prints",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Long-lasting and vivid",
+                                        "icon": "palette"
+                                      },
+                                      {
+                                        "id": "seed-25",
+                                        "type": "text",
+                                        "label": "Easy returns",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Up to 30 days",
+                                        "icon": "rotate"
+                                      },
+                                      {
+                                        "id": "seed-26",
+                                        "type": "text",
+                                        "label": "Secure payments",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Encrypted transactions",
+                                        "icon": "lock"
+                                      }
+                                    ],
+                                    "component_variant": "benefits_strip",
+                                    "style_radius": "12px",
+                                    "hide_heading": true
+                                  }
+                                ],
+                                "column_span": 7,
+                                "component_variant": "showcase_products_column"
+                              },
+                              {
+                                "id": "seed-33",
+                                "type": "column",
+                                "label": "Campaign",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-32",
+                                    "type": "block",
+                                    "label": "Summer sale",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-29",
+                                        "type": "banner",
+                                        "label": "Summer sale",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "-20% on everything. Until May 31 only",
+                                        "cta_label": "Sale",
+                                        "image_url": "/1-default_lg/hummingbird-printed-t-shirt.jpg",
+                                        "style_background": "#fff2e8",
+                                        "style_background_2": "#ffe2d5"
+                                      },
+                                      {
+                                        "id": "seed-30",
+                                        "type": "banner",
+                                        "label": "New collection 2024",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Stand out. See what is new",
+                                        "cta_label": "Explore",
+                                        "image_url": "/21-default_lg/brown-bear-printed-sweater.jpg",
+                                        "style_background": "#f2fbec",
+                                        "style_background_2": "#e4f7d7"
+                                      },
+                                      {
+                                        "id": "seed-31",
+                                        "type": "video",
+                                        "label": "See how our catalog works",
+                                        "link": "/",
+                                        "target": false,
+                                        "children": [],
+                                        "video_provider": "youtube",
+                                        "video_url": "https://www.youtube.com/watch?v=N_OcJBvvecU&t",
+                                        "video_aspect": "16:9",
+                                        "video_size": "large",
+                                        "video_controls": true,
+                                        "video_lazy": true,
+                                        "video_muted": true,
+                                        "description": "YouTube without leaving the menu",
+                                        "label_override": "",
+                                        "video_poster": "/modules/cci_nice_menu/views/img/demo/catalog-video.jpg"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_media_block"
+                                  }
+                                ],
+                                "column_span": 3,
+                                "component_variant": "showcase_media_column"
+                              }
+                            ],
+                            "column_span": 12
+                          }
+                        ],
+                        "entity_id": "3",
+                        "source_label": "Clothes",
+                        "source_url": "#",
+                        "columns": 1,
+                        "icon": "shirt",
+                        "product_count": 2,
+                        "description": "T-shirts, hoodies, shirts and more",
+                        "link_mode": "span"
+                      },
+                      {
+                        "id": "seed-52",
+                        "type": "category",
+                        "label": "Accessories",
+                        "link": "#",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-51",
+                            "type": "row",
+                            "label": "Accessories row",
+                            "link": "",
+                            "target": false,
+                            "children": [
+                              {
+                                "id": "seed-40",
+                                "type": "column",
+                                "label": "Bestsellers",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-39",
+                                    "type": "block",
+                                    "label": "Bestsellers",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-36",
+                                        "type": "product_tile",
+                                        "label": "Pack Mug + Framed poster",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "15",
+                                        "source_label": "Pack Mug + Framed poster",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": false
+                                      },
+                                      {
+                                        "id": "seed-37",
+                                        "type": "product_tile",
+                                        "label": "Mountain fox notebook",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "16",
+                                        "source_label": "Mountain fox notebook",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": false
+                                      },
+                                      {
+                                        "id": "seed-38",
+                                        "type": "product_tile",
+                                        "label": "Brown bear notebook",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "17",
+                                        "source_label": "Brown bear notebook",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": false
+                                      }
+                                    ],
+                                    "component_variant": "showcase_product_grid_three"
+                                  }
+                                ],
+                                "column_span": 6,
+                                "component_variant": "showcase_products_column"
+                              },
+                              {
+                                "id": "seed-46",
+                                "type": "column",
+                                "label": "Quick actions",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-45",
+                                    "type": "block",
+                                    "label": "Quick actions",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-41",
+                                        "type": "custom",
+                                        "label": "Sale",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "icon": "tag"
+                                      },
+                                      {
+                                        "id": "seed-42",
+                                        "type": "cms_page",
+                                        "label": "Delivery terms",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "1",
+                                        "label_override": "Delivery terms",
+                                        "source_label": "Delivery terms",
+                                        "source_url": "#",
+                                        "icon": "truck"
+                                      },
+                                      {
+                                        "id": "seed-43",
+                                        "type": "cms_page",
+                                        "label": "Secure shopping",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "5",
+                                        "label_override": "Secure shopping",
+                                        "source_label": "Secure shopping",
+                                        "source_url": "#",
+                                        "icon": "shield"
+                                      },
+                                      {
+                                        "id": "seed-44",
+                                        "type": "cms_page",
+                                        "label": "Contact an advisor",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "4",
+                                        "label_override": "Contact an advisor",
+                                        "source_label": "Contact an advisor",
+                                        "source_url": "#",
+                                        "icon": "phone"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_card_list"
+                                  }
+                                ],
+                                "column_span": 3,
+                                "component_variant": "showcase_action_column"
+                              },
+                              {
+                                "id": "seed-50",
+                                "type": "column",
+                                "label": "Featured offer",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-49",
+                                    "type": "block",
+                                    "label": "Featured offer",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-47",
+                                        "type": "banner",
+                                        "label": "Express yourself",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Wear what you love. Unique designs that say more than words.",
+                                        "cta_label": "View collection",
+                                        "image_url": "/1-default_lg/hummingbird-printed-t-shirt.jpg",
+                                        "style_background": "#16266b",
+                                        "style_background_2": "#0d6efd",
+                                        "style_text": "#ffffff"
+                                      },
+                                      {
+                                        "id": "seed-48",
+                                        "type": "product_tile",
+                                        "label": "Customizable mug",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "19",
+                                        "source_label": "Customizable mug",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": false
+                                      }
+                                    ],
+                                    "component_variant": "showcase_media_block"
+                                  }
+                                ],
+                                "column_span": 3,
+                                "component_variant": "showcase_media_column"
+                              }
+                            ],
+                            "column_span": 12
+                          }
+                        ],
+                        "entity_id": "6",
+                        "source_label": "Accessories",
+                        "source_url": "#",
+                        "columns": 1,
+                        "icon": "gift",
+                        "product_count": 11,
+                        "description": "Accessories, gadgets, stickers",
+                        "link_mode": "span"
+                      },
+                      {
+                        "id": "seed-68",
+                        "type": "category",
+                        "label": "Art",
+                        "link": "#",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-67",
+                            "type": "row",
+                            "label": "Art row",
+                            "link": "",
+                            "target": false,
+                            "children": [
+                              {
+                                "id": "seed-55",
+                                "type": "column",
+                                "label": "Video story",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-54",
+                                    "type": "block",
+                                    "label": "Video story",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-53",
+                                        "type": "video",
+                                        "label": "Creative process",
+                                        "link": "/",
+                                        "target": false,
+                                        "children": [],
+                                        "video_provider": "youtube",
+                                        "video_url": "https://www.youtube.com/watch?v=N_OcJBvvecU&t",
+                                        "video_aspect": "16:9",
+                                        "video_size": "large",
+                                        "video_controls": true,
+                                        "video_lazy": true,
+                                        "video_muted": true,
+                                        "description": "Responsive YouTube video with controls and lazy loading.",
+                                        "component_variant": "showcase_video_feature",
+                                        "video_poster": "/modules/cci_nice_menu/views/img/demo/catalog-video.jpg"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_video_block"
+                                  }
+                                ],
+                                "column_span": 5,
+                                "component_variant": "showcase_video_column"
+                              },
+                              {
+                                "id": "seed-61",
+                                "type": "column",
+                                "label": "Poster collection",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-60",
+                                    "type": "block",
+                                    "label": "Poster collection",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-56",
+                                        "type": "product",
+                                        "label": "The best is yet to come' Framed poster",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "3",
+                                        "source_label": "The best is yet to come' Framed poster",
+                                        "source_url": "#",
+                                        "icon": "tag"
+                                      },
+                                      {
+                                        "id": "seed-57",
+                                        "type": "product",
+                                        "label": "The adventure begins Framed poster",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "4",
+                                        "source_label": "The adventure begins Framed poster",
+                                        "source_url": "#",
+                                        "icon": "tag"
+                                      },
+                                      {
+                                        "id": "seed-58",
+                                        "type": "product",
+                                        "label": "Today is a good day Framed poster",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "5",
+                                        "source_label": "Today is a good day Framed poster",
+                                        "source_url": "#",
+                                        "icon": "tag"
+                                      },
+                                      {
+                                        "id": "seed-59",
+                                        "type": "product_tile",
+                                        "label": "Mountain fox - Vector graphics",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "12",
+                                        "source_label": "Mountain fox - Vector graphics",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": false
+                                      }
+                                    ],
+                                    "component_variant": "showcase_card_list"
+                                  }
+                                ],
+                                "column_span": 4,
+                                "component_variant": "showcase_collection_column"
+                              },
+                              {
+                                "id": "seed-66",
+                                "type": "column",
+                                "label": "Quick actions",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-65",
+                                    "type": "block",
+                                    "label": "Quick actions",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-62",
+                                        "type": "custom",
+                                        "label": "Sale",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "icon": "tag"
+                                      },
+                                      {
+                                        "id": "seed-63",
+                                        "type": "cms_page",
+                                        "label": "Contact us",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "4",
+                                        "label_override": "Contact us",
+                                        "source_label": "Contact us",
+                                        "source_url": "#",
+                                        "icon": "phone"
+                                      },
+                                      {
+                                        "id": "seed-64",
+                                        "type": "cms_page",
+                                        "label": "Secure shopping",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "5",
+                                        "label_override": "Secure shopping",
+                                        "source_label": "Secure shopping",
+                                        "source_url": "#",
+                                        "icon": "shield"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_card_list"
+                                  }
+                                ],
+                                "column_span": 3,
+                                "component_variant": "showcase_action_column"
+                              }
+                            ],
+                            "column_span": 12
+                          }
+                        ],
+                        "entity_id": "9",
+                        "source_label": "Art",
+                        "source_url": "#",
+                        "columns": 1,
+                        "icon": "palette",
+                        "product_count": 7,
+                        "description": "Graphics, posters, wall art",
+                        "link_mode": "span"
+                      },
+                      {
+                        "id": "seed-79",
+                        "type": "custom",
+                        "label": "Category Browser",
+                        "link": "#",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-78",
+                            "type": "row",
+                            "label": "Category Browser row",
+                            "link": "",
+                            "target": false,
+                            "children": [
+                              {
+                                "id": "seed-71",
+                                "type": "column",
+                                "label": "Shop categories",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-70",
+                                    "type": "block",
+                                    "label": "Category browser header",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-69",
+                                        "type": "text",
+                                        "label": "Shop categories",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Explore all product groups and find what you love.",
+                                        "icon": "shopping-bag",
+                                        "component_variant": "category_browser_header"
+                                      }
+                                    ],
+                                    "component_variant": "category_browser_header_block",
+                                    "hide_heading": true
+                                  }
+                                ],
+                                "column_span": 12,
+                                "component_variant": "category_browser_header_column"
+                              },
+                              {
+                                "id": "seed-74",
+                                "type": "column",
+                                "label": "Category Browser",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-73",
+                                    "type": "block",
+                                    "label": "Category tree",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-72",
+                                        "type": "category_tree",
+                                        "label": "All categories",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "2",
+                                        "label_override": "All categories",
+                                        "source_label": "All categories",
+                                        "source_url": "#",
+                                        "icon": "folder-tree"
+                                      }
+                                    ],
+                                    "component_variant": "category_browser_tree_block",
+                                    "hide_heading": true
+                                  }
+                                ],
+                                "column_span": 9,
+                                "component_variant": "category_browser_tree_column"
+                              },
+                              {
+                                "id": "seed-77",
+                                "type": "column",
+                                "label": "Featured collection",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-76",
+                                    "type": "block",
+                                    "label": "Featured collection banner",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-75",
+                                        "type": "banner",
+                                        "label": "Express yourself",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Unique designs that say more than words.",
+                                        "cta_label": "View collection",
+                                        "banner_eyebrow": "Featured collection",
+                                        "image_url": "/1-default_lg/hummingbird-printed-t-shirt.jpg",
+                                        "banner_layout": "vertical",
+                                        "style_background": "#f3f8ff",
+                                        "style_background_2": "#eaf4ff",
+                                        "style_text": "#111827"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_media_block",
+                                    "hide_heading": true
+                                  }
+                                ],
+                                "column_span": 3,
+                                "component_variant": "showcase_media_column"
+                              }
+                            ],
+                            "column_span": 12
+                          }
+                        ],
+                        "columns": 1,
+                        "icon": "folder-tree",
+                        "description": "Browse all categories",
+                        "link_mode": "span"
+                      },
+                      {
+                        "id": "seed-80",
+                        "type": "hook",
+                        "label": "Shopping information",
+                        "link": "",
+                        "target": false,
+                        "children": [],
+                        "hook_name": "displayReassurance",
+                        "component_variant": "showcase_rail_hook"
+                      }
+                    ],
+                    "component_variant": "showcase_tabs_block"
+                  }
+                ],
+                "column_span": 12,
+                "layout_role": "tabs",
+                "tabs_orientation": "vertical",
+                "component_variant": "showcase_tabs_column"
+              },
+              {
+                "id": "seed-109",
+                "type": "row",
+                "label": "Bottom row",
+                "link": "",
+                "target": false,
+                "children": [
+                  {
+                    "id": "seed-85",
+                    "type": "column",
+                    "label": "Express yourself",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-84",
+                        "type": "block",
+                        "label": "Express yourself",
+                        "link": "",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-83",
+                            "type": "banner",
+                            "label": "Express yourself",
+                            "link": "#",
+                            "target": false,
+                            "children": [],
+                            "description": "Wear what you love. Unique designs that say more than words.",
+                            "cta_label": "View collection",
+                            "image_url": "/1-default_lg/hummingbird-printed-t-shirt.jpg",
+                            "style_background": "#16266b",
+                            "style_background_2": "#0d6efd",
+                            "style_text": "#ffffff"
+                          }
+                        ],
+                        "component_variant": "hero_strip"
+                      }
+                    ],
+                    "column_span": 4,
+                    "component_variant": "bottom_hero_column"
+                  },
+                  {
+                    "id": "seed-90",
+                    "type": "column",
+                    "label": "Bestsellers",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-89",
+                        "type": "block",
+                        "label": "Bestsellers",
+                        "link": "",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-86",
+                            "type": "product",
+                            "label": "Astronaut graphic tee",
+                            "link": "#",
+                            "target": false,
+                            "children": [],
+                            "entity_id": "2",
+                            "source_label": "Astronaut graphic tee",
+                            "source_url": "#",
+                            "icon": "chevron-right",
+                            "description": "27,90 zł"
+                          },
+                          {
+                            "id": "seed-87",
+                            "type": "product",
+                            "label": "Hummingbird printed t-shirt",
+                            "link": "#",
+                            "target": false,
+                            "children": [],
+                            "entity_id": "1",
+                            "source_label": "Hummingbird printed t-shirt",
+                            "source_url": "#",
+                            "icon": "chevron-right",
+                            "description": "23,52 zł"
+                          },
+                          {
+                            "id": "seed-88",
+                            "type": "product",
+                            "label": "Cool cat t-shirt",
+                            "link": "#",
+                            "target": false,
+                            "children": [],
+                            "entity_id": "14",
+                            "source_label": "Cool cat t-shirt",
+                            "source_url": "#",
+                            "icon": "chevron-right",
+                            "description": "25,90 zł"
+                          }
+                        ],
+                        "component_variant": "showcase_compact_list",
+                        "description": "Demo: selected products",
+                        "heading_link": "/",
+                        "heading_link_label": "View all",
+                        "heading_link_icon": "arrow-right"
+                      }
+                    ],
+                    "column_span": 2,
+                    "component_variant": "showcase_bottom_list_column"
+                  },
+                  {
+                    "id": "seed-95",
+                    "type": "column",
+                    "label": "New arrivals",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-94",
+                        "type": "block",
+                        "label": "New arrivals",
+                        "link": "",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-91",
+                            "type": "product",
+                            "label": "Hummingbird hoodie",
+                            "link": "#",
+                            "target": false,
+                            "children": [],
+                            "entity_id": "18",
+                            "source_label": "Hummingbird hoodie",
+                            "source_url": "#",
+                            "icon": "chevron-right",
+                            "description": "89,90 zł"
+                          },
+                          {
+                            "id": "seed-92",
+                            "type": "product",
+                            "label": "Wave cap",
+                            "link": "#",
+                            "target": false,
+                            "children": [],
+                            "entity_id": "17",
+                            "source_label": "Wave cap",
+                            "source_url": "#",
+                            "icon": "chevron-right",
+                            "description": "49,90 zł"
+                          },
+                          {
+                            "id": "seed-93",
+                            "type": "product",
+                            "label": "Art socks",
+                            "link": "#",
+                            "target": false,
+                            "children": [],
+                            "entity_id": "16",
+                            "source_label": "Art socks",
+                            "source_url": "#",
+                            "icon": "chevron-right",
+                            "description": "19,90 zł"
+                          }
+                        ],
+                        "component_variant": "showcase_compact_list",
+                        "description": "Demo: selected products",
+                        "heading_link": "/",
+                        "heading_link_label": "View all",
+                        "heading_link_icon": "arrow-right"
+                      }
+                    ],
+                    "column_span": 2,
+                    "component_variant": "showcase_bottom_list_column"
+                  },
+                  {
+                    "id": "seed-102",
+                    "type": "column",
+                    "label": "Find us",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-101",
+                        "type": "block",
+                        "label": "Find us",
+                        "link": "",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-96",
+                            "type": "map",
+                            "label": "Store map",
+                            "link": "",
+                            "target": false,
+                            "children": [],
+                            "map_query": "Warsaw, Poland",
+                            "map_zoom": 15,
+                            "image_url": "/modules/cci_nice_menu/views/img/showcase-map.svg",
+                            "component_variant": "showcase_map_card"
+                          },
+                          {
+                            "id": "seed-97",
+                            "type": "text",
+                            "label": "Cool Cat Ideas Store",
+                            "link": "",
+                            "target": false,
+                            "children": [],
+                            "description": "10 Creative Street, 00-001 Warsaw",
+                            "icon": "map-pin"
+                          },
+                          {
+                            "id": "seed-98",
+                            "type": "custom",
+                            "label": "+48 123 456 789",
+                            "link": "tel:+48123456789",
+                            "target": false,
+                            "children": [],
+                            "icon": "phone",
+                            "description": "Customer support"
+                          },
+                          {
+                            "id": "seed-99",
+                            "type": "custom",
+                            "label": "info@coolcatideas.com",
+                            "link": "mailto:info@coolcatideas.com",
+                            "target": false,
+                            "children": [],
+                            "icon": "envelope",
+                            "description": "Email us"
+                          },
+                          {
+                            "id": "seed-100",
+                            "type": "text",
+                            "label": "Open 9:00 - 17:00",
+                            "link": "",
+                            "target": false,
+                            "children": [],
+                            "description": "",
+                            "icon": "clock",
+                            "component_variant": "showcase_store_status"
+                          }
+                        ],
+                        "component_variant": "showcase_store_card",
+                        "columns": 2,
+                        "heading_link": "/",
+                        "heading_link_label": "View store",
+                        "heading_link_icon": "arrow-right"
+                      }
+                    ],
+                    "column_span": 4,
+                    "component_variant": "showcase_store_column"
+                  },
+                  {
+                    "id": "seed-108",
+                    "type": "column",
+                    "label": "Shortcuts",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-107",
+                        "type": "block",
+                        "label": "Shortcuts",
+                        "link": "",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-103",
+                            "type": "custom",
+                            "label": "Size guide",
+                            "link": "#",
+                            "target": false,
+                            "children": [],
+                            "icon": "ruler",
+                            "description": "Find the right fit"
+                          },
+                          {
+                            "id": "seed-104",
+                            "type": "custom",
+                            "label": "Care guide",
+                            "link": "#",
+                            "target": false,
+                            "children": [],
+                            "icon": "scissors",
+                            "description": "How to care for prints"
+                          },
+                          {
+                            "id": "seed-105",
+                            "type": "custom",
+                            "label": "Inspiration and blog",
+                            "link": "#",
+                            "target": false,
+                            "children": [],
+                            "icon": "palette",
+                            "description": "Ideas, trends, interviews"
+                          },
+                          {
+                            "id": "seed-106",
+                            "type": "custom",
+                            "label": "Personalization",
+                            "link": "#",
+                            "target": false,
+                            "children": [],
+                            "icon": "pencil",
+                            "description": "Create your own design"
+                          }
+                        ],
+                        "component_variant": "footer_actions",
+                        "style_radius": "12px"
+                      }
+                    ],
+                    "column_span": 12,
+                    "component_variant": "showcase_footer_column"
+                  }
+                ],
+                "column_span": 12,
+                "component_variant": "showcase_secondary_row"
+              }
+            ],
+            "icon": "list",
+            "component_variant": "showcase_catalog_entry",
+            "top_level_placement": "",
+            "top_level_column_start": 0
+          },
+          {
+            "id": "seed-147",
+            "type": "custom",
+            "label": "Bestsellers",
+            "link": "#",
+            "target": false,
+            "column_span": 0,
+            "children": [
+              {
+                "id": "seed-113",
+                "type": "column",
+                "label": "Bestsellers collection",
+                "link": "",
+                "target": false,
+                "children": [
+                  {
+                    "id": "seed-112",
+                    "type": "block",
+                    "label": "Bestsellers collection",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-111",
+                        "type": "text",
+                        "label": "Bestsellers collection",
+                        "link": "",
+                        "target": false,
+                        "children": [],
+                        "description": "Discover the products customers love most.",
+                        "icon": "trophy",
+                        "component_variant": "showcase_header"
+                      }
+                    ],
+                    "component_variant": "showcase_header_block",
+                    "hide_heading": true
+                  }
+                ],
+                "column_span": 12,
+                "component_variant": "showcase_header_column"
+              },
+              {
+                "id": "seed-121",
+                "type": "column",
+                "label": "Top apparel",
+                "link": "",
+                "target": false,
+                "children": [
+                  {
+                    "id": "seed-120",
+                    "type": "block",
+                    "label": "Top apparel",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-114",
+                        "type": "custom",
+                        "label": "Printed t-shirts",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "image_url": "/1-default_lg/hummingbird-printed-t-shirt.jpg"
+                      },
+                      {
+                        "id": "seed-115",
+                        "type": "custom",
+                        "label": "Hoodies & sweatshirts",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "image_url": "/21-default_lg/brown-bear-printed-sweater.jpg"
+                      },
+                      {
+                        "id": "seed-116",
+                        "type": "custom",
+                        "label": "Tank tops",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "image_url": "/1-default_lg/hummingbird-printed-t-shirt.jpg"
+                      },
+                      {
+                        "id": "seed-117",
+                        "type": "custom",
+                        "label": "Kids apparel",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "image_url": "/21-default_lg/brown-bear-printed-sweater.jpg"
+                      },
+                      {
+                        "id": "seed-118",
+                        "type": "custom",
+                        "label": "Hats & beanies",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "image_url": "/1-default_lg/hummingbird-printed-t-shirt.jpg"
+                      },
+                      {
+                        "id": "seed-119",
+                        "type": "custom",
+                        "label": "View all apparel",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "component_variant": "card_list_action"
+                      }
+                    ],
+                    "component_variant": "showcase_card_list",
+                    "icon": "shirt"
+                  }
+                ],
+                "column_span": 3,
+                "component_variant": "showcase_action_column"
+              },
+              {
+                "id": "seed-129",
+                "type": "column",
+                "label": "Popular accessories",
+                "link": "",
+                "target": false,
+                "children": [
+                  {
+                    "id": "seed-128",
+                    "type": "block",
+                    "label": "Popular accessories",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-122",
+                        "type": "custom",
+                        "label": "Mugs & drinkware",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "image_url": "/6-default_lg/mug-the-best-is-yet-to-come.jpg"
+                      },
+                      {
+                        "id": "seed-123",
+                        "type": "custom",
+                        "label": "Tote bags",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "image_url": "/1-default_lg/hummingbird-printed-t-shirt.jpg"
+                      },
+                      {
+                        "id": "seed-124",
+                        "type": "custom",
+                        "label": "Phone cases",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "image_url": "/21-default_lg/brown-bear-printed-sweater.jpg"
+                      },
+                      {
+                        "id": "seed-125",
+                        "type": "custom",
+                        "label": "Notebooks",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "image_url": "/18-default_lg/mountain-fox-notebook.jpg"
+                      },
+                      {
+                        "id": "seed-126",
+                        "type": "custom",
+                        "label": "Stickers",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "image_url": "/1-default_lg/hummingbird-printed-t-shirt.jpg"
+                      },
+                      {
+                        "id": "seed-127",
+                        "type": "custom",
+                        "label": "View all accessories",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "component_variant": "card_list_action"
+                      }
+                    ],
+                    "component_variant": "showcase_card_list",
+                    "icon": "shopping-bag"
+                  }
+                ],
+                "column_span": 3,
+                "component_variant": "showcase_action_column"
+              },
+              {
+                "id": "seed-137",
+                "type": "column",
+                "label": "Best wall art",
+                "link": "",
+                "target": false,
+                "children": [
+                  {
+                    "id": "seed-136",
+                    "type": "block",
+                    "label": "Best wall art",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-130",
+                        "type": "custom",
+                        "label": "Canvas prints",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "image_url": "/3-default_lg/the-best-is-yet-to-come-framed-poster.jpg"
+                      },
+                      {
+                        "id": "seed-131",
+                        "type": "custom",
+                        "label": "Framed prints",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "image_url": "/1-default_lg/hummingbird-printed-t-shirt.jpg"
+                      },
+                      {
+                        "id": "seed-132",
+                        "type": "custom",
+                        "label": "Metal prints",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "image_url": "/3-default_lg/the-best-is-yet-to-come-framed-poster.jpg"
+                      },
+                      {
+                        "id": "seed-133",
+                        "type": "custom",
+                        "label": "Posters",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "image_url": "/1-default_lg/hummingbird-printed-t-shirt.jpg"
+                      },
+                      {
+                        "id": "seed-134",
+                        "type": "custom",
+                        "label": "Gallery wall sets",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "image_url": "/3-default_lg/the-best-is-yet-to-come-framed-poster.jpg"
+                      },
+                      {
+                        "id": "seed-135",
+                        "type": "custom",
+                        "label": "View all wall art",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "component_variant": "card_list_action"
+                      }
+                    ],
+                    "component_variant": "showcase_card_list",
+                    "icon": "image"
+                  }
+                ],
+                "column_span": 3,
+                "component_variant": "showcase_action_column"
+              },
+              {
+                "id": "seed-140",
+                "type": "column",
+                "label": "Customer favorites",
+                "link": "",
+                "target": false,
+                "children": [
+                  {
+                    "id": "seed-139",
+                    "type": "block",
+                    "label": "Customer favorites",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-138",
+                        "type": "banner",
+                        "label": "Loved by thousands. Chosen by you.",
+                        "link": "#",
+                        "target": false,
+                        "children": [],
+                        "description": "Our top-rated products, all in one place.",
+                        "cta_label": "Shop bestsellers",
+                        "banner_eyebrow": "Customer favorites",
+                        "image_url": "/1-default_lg/hummingbird-printed-t-shirt.jpg",
+                        "banner_layout": "vertical",
+                        "style_background": "#f3f8ff",
+                        "style_background_2": "#eaf4ff",
+                        "style_text": "#111827"
+                      }
+                    ],
+                    "component_variant": "showcase_media_block"
+                  }
+                ],
+                "column_span": 3,
+                "component_variant": "showcase_media_column"
+              },
+              {
+                "id": "seed-146",
+                "type": "column",
+                "label": "Bestsellers highlights",
+                "link": "",
+                "target": false,
+                "children": [
+                  {
+                    "id": "seed-145",
+                    "type": "block",
+                    "label": "Bestsellers highlights",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-141",
+                        "type": "text",
+                        "label": "Top rated",
+                        "link": "",
+                        "target": false,
+                        "children": [],
+                        "description": "4.8+ average rating",
+                        "icon": "star"
+                      },
+                      {
+                        "id": "seed-142",
+                        "type": "text",
+                        "label": "Most purchased",
+                        "link": "",
+                        "target": false,
+                        "children": [],
+                        "description": "Our top-selling items",
+                        "icon": "shopping-bag"
+                      },
+                      {
+                        "id": "seed-143",
+                        "type": "text",
+                        "label": "Trending now",
+                        "link": "",
+                        "target": false,
+                        "children": [],
+                        "description": "What's hot this week",
+                        "icon": "chart-line"
+                      },
+                      {
+                        "id": "seed-144",
+                        "type": "text",
+                        "label": "Back in stock",
+                        "link": "",
+                        "target": false,
+                        "children": [],
+                        "description": "Fan favorites return",
+                        "icon": "cube"
+                      }
+                    ],
+                    "component_variant": "benefits_strip",
+                    "style_radius": "12px",
+                    "hide_heading": true
+                  }
+                ],
+                "column_span": 12,
+                "component_variant": "showcase_footer_column"
+              }
+            ],
+            "icon": "fa fa-trophy",
+            "component_variant": "showcase_entry",
+            "top_level_placement": "",
+            "top_level_column_start": 0
+          },
+          {
+            "id": "seed-299",
+            "type": "custom",
+            "label": "Inspiration",
+            "link": "#",
+            "target": false,
+            "column_span": 0,
+            "children": [
+              {
+                "id": "seed-inspiration-header-column",
+                "type": "column",
+                "label": "Inspiration library",
+                "link": "",
+                "target": false,
+                "children": [
+                  {
+                    "id": "seed-inspiration-header-block",
+                    "type": "block",
+                    "label": "Inspiration library",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-inspiration-header",
+                        "type": "text",
+                        "label": "Inspiration library",
+                        "link": "",
+                        "target": false,
+                        "children": [],
+                        "description": "Discover creative ideas, media and every content block available in the menu.",
+                        "icon": "compass",
+                        "component_variant": "showcase_header"
+                      }
+                    ],
+                    "component_variant": "showcase_header_block",
+                    "hide_heading": true
+                  }
+                ],
+                "column_span": 12,
+                "component_variant": "showcase_header_column"
+              },
+              {
+                "id": "seed-298",
+                "type": "column",
+                "label": "Inspiration library",
+                "link": "",
+                "target": false,
+                "children": [
+                  {
+                    "id": "seed-297",
+                    "type": "block",
+                    "label": "Inspiration library",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-207",
+                        "type": "custom",
+                        "label": "Content types",
+                        "link": "#",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-206",
+                            "type": "row",
+                            "label": "Content types row",
+                            "link": "",
+                            "target": false,
+                            "children": [
+                              {
+                                "id": "seed-194",
+                                "type": "column",
+                                "label": "Links and sources",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-193",
+                                    "type": "block",
+                                    "label": "Navigation sources",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-189",
+                                        "type": "custom",
+                                        "label": "Custom link",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "icon": "link",
+                                        "description": "Manual label, icon, badge, URL and optional description."
+                                      },
+                                      {
+                                        "id": "seed-190",
+                                        "type": "cms_page",
+                                        "label": "CMS page link",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "4",
+                                        "label_override": "CMS page link",
+                                        "source_label": "CMS page link",
+                                        "source_url": "#",
+                                        "icon": "file-text",
+                                        "description": "PrestaShop CMS page selected from catalog data."
+                                      },
+                                      {
+                                        "id": "seed-191",
+                                        "type": "category",
+                                        "label": "Category link",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "3",
+                                        "source_label": "Category link",
+                                        "source_url": "#",
+                                        "icon": "folder",
+                                        "label_override": "Category link",
+                                        "description": "Single category link with live URL and product count fallback."
+                                      },
+                                      {
+                                        "id": "seed-192",
+                                        "type": "category_tree",
+                                        "label": "Category tree source",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "0",
+                                        "label_override": "Category tree source",
+                                        "source_label": "Category tree source",
+                                        "source_url": "#",
+                                        "icon": "folder-tree",
+                                        "description": "Category tree node; select a category to generate a live browser."
+                                      }
+                                    ],
+                                    "component_variant": "showcase_card_list",
+                                    "icon": "link",
+                                    "description": "Manual, CMS and catalog-backed navigation entries."
+                                  }
+                                ],
+                                "column_span": 4,
+                                "component_variant": "showcase_action_column"
+                              },
+                              {
+                                "id": "seed-200",
+                                "type": "column",
+                                "label": "Utility content",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-199",
+                                    "type": "block",
+                                    "label": "Text and utility blocks",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-195",
+                                        "type": "text",
+                                        "label": "Text card",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Icon, title and supporting copy for short guidance.",
+                                        "icon": "info"
+                                      },
+                                      {
+                                        "id": "seed-196",
+                                        "type": "text",
+                                        "label": "Status badge",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Non-clickable status pill used for opening hours or timers.",
+                                        "icon": "clock",
+                                        "component_variant": "showcase_store_status"
+                                      },
+                                      {
+                                        "id": "seed-197",
+                                        "type": "map",
+                                        "label": "Map block",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "map_query": "Warsaw, Poland",
+                                        "map_zoom": 15,
+                                        "image_url": "/modules/cci_nice_menu/views/img/showcase-map.svg",
+                                        "description": "Map placeholder from a query, address or configured embed URL."
+                                      },
+                                      {
+                                        "id": "seed-198",
+                                        "type": "hook",
+                                        "label": "Native hook",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "hook_name": "displayReassurance",
+                                        "description": "PrestaShop module output rendered by hook name."
+                                      }
+                                    ],
+                                    "component_variant": "showcase_card_list",
+                                    "icon": "gear",
+                                    "description": "Text, status, map and native module content."
+                                  }
+                                ],
+                                "column_span": 4,
+                                "component_variant": "showcase_action_column"
+                              },
+                              {
+                                "id": "seed-205",
+                                "type": "column",
+                                "label": "Media content",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-204",
+                                    "type": "block",
+                                    "label": "Media types",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-201",
+                                        "type": "image",
+                                        "label": "Image block",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "image_url": "/3-default_lg/the-best-is-yet-to-come-framed-poster.jpg",
+                                        "description": "Standalone image with optional caption and link."
+                                      },
+                                      {
+                                        "id": "seed-202",
+                                        "type": "banner",
+                                        "label": "Banner block",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Image, gradient background, copy and CTA.",
+                                        "cta_label": "Open banner",
+                                        "banner_eyebrow": "Banner",
+                                        "image_url": "/1-default_lg/hummingbird-printed-t-shirt.jpg",
+                                        "style_background": "#f3f8ff",
+                                        "style_background_2": "#eaf4ff"
+                                      },
+                                      {
+                                        "id": "seed-203",
+                                        "type": "video",
+                                        "label": "Video block",
+                                        "link": "/",
+                                        "target": false,
+                                        "children": [],
+                                        "video_provider": "youtube",
+                                        "video_url": "https://www.youtube.com/watch?v=N_OcJBvvecU&t",
+                                        "video_aspect": "16:9",
+                                        "video_size": "large",
+                                        "video_controls": true,
+                                        "video_lazy": true,
+                                        "video_muted": true,
+                                        "description": "YouTube or file video with poster, aspect ratio and lazy loading.",
+                                        "cta_label": "Watch",
+                                        "component_variant": "showcase_video_feature",
+                                        "video_poster": "/modules/cci_nice_menu/views/img/demo/catalog-video.jpg"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_media_block",
+                                    "description": "Image, banner and video content in one media stack."
+                                  }
+                                ],
+                                "column_span": 4,
+                                "component_variant": "showcase_media_column"
+                              }
+                            ],
+                            "column_span": 12
+                          }
+                        ],
+                        "columns": 1,
+                        "icon": "table-cells-large",
+                        "description": "All base content nodes available in the builder.",
+                        "link_mode": "span"
+                      },
+                      {
+                        "id": "seed-226",
+                        "type": "custom",
+                        "label": "Catalog products",
+                        "link": "#",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-225",
+                            "type": "row",
+                            "label": "Catalog products row",
+                            "link": "",
+                            "target": false,
+                            "children": [
+                              {
+                                "id": "seed-213",
+                                "type": "column",
+                                "label": "Product grid",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-212",
+                                    "type": "block",
+                                    "label": "Product grid",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-208",
+                                        "type": "product_tile",
+                                        "label": "Theme product tile",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "1",
+                                        "source_label": "Theme product tile",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": false,
+                                        "label_override": "Theme product tile",
+                                        "description": "Product tile rendered by the shop theme inside product grids."
+                                      },
+                                      {
+                                        "id": "seed-209",
+                                        "type": "product_tile",
+                                        "label": "Grid product tile",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "2",
+                                        "source_label": "Grid product tile",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": false,
+                                        "label_override": "Grid product tile",
+                                        "description": "Second product tile proves the shared grid layout."
+                                      },
+                                      {
+                                        "id": "seed-210",
+                                        "type": "product_tile",
+                                        "label": "Two-column product grid",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "9",
+                                        "source_label": "Two-column product grid",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": false,
+                                        "label_override": "Two-column product grid",
+                                        "description": "Grid can be switched between available product presets."
+                                      },
+                                      {
+                                        "id": "seed-211",
+                                        "type": "product_tile",
+                                        "label": "Catalog product card",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "6",
+                                        "source_label": "Catalog product card",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": false,
+                                        "label_override": "Catalog product card",
+                                        "description": "Catalog-backed product with theme image and price."
+                                      }
+                                    ],
+                                    "component_variant": "showcase_product_grid_two",
+                                    "description": "Theme-rendered product cards for visual merchandising.",
+                                    "heading_link": "/",
+                                    "heading_link_label": "View all",
+                                    "heading_link_icon": "arrow-right"
+                                  }
+                                ],
+                                "column_span": 6,
+                                "component_variant": "showcase_products_column"
+                              },
+                              {
+                                "id": "seed-219",
+                                "type": "column",
+                                "label": "Compact list",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-218",
+                                    "type": "block",
+                                    "label": "Compact product list",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-214",
+                                        "type": "product",
+                                        "label": "Compact product row",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "1",
+                                        "source_label": "Compact product row",
+                                        "source_url": "#",
+                                        "label_override": "Compact product row",
+                                        "description": "Small product row with image, description and price."
+                                      },
+                                      {
+                                        "id": "seed-215",
+                                        "type": "product",
+                                        "label": "Product row with price",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "2",
+                                        "source_label": "Product row with price",
+                                        "source_url": "#",
+                                        "label_override": "Product row with price",
+                                        "description": "Useful for bestsellers, new arrivals and manual selections."
+                                      },
+                                      {
+                                        "id": "seed-216",
+                                        "type": "product",
+                                        "label": "Accessory product row",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "6",
+                                        "source_label": "Accessory product row",
+                                        "source_url": "#",
+                                        "label_override": "Accessory product row",
+                                        "description": "Same compact component works for other catalog products."
+                                      },
+                                      {
+                                        "id": "seed-217",
+                                        "type": "product",
+                                        "label": "Poster product row",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "3",
+                                        "source_label": "Poster product row",
+                                        "source_url": "#",
+                                        "label_override": "Poster product row",
+                                        "description": "Extra row keeps compact list focused on product content."
+                                      }
+                                    ],
+                                    "component_variant": "showcase_compact_list",
+                                    "description": "Selected products demo; replace with dynamic product data later.",
+                                    "heading_link": "/",
+                                    "heading_link_label": "View all",
+                                    "heading_link_icon": "arrow-right"
+                                  }
+                                ],
+                                "column_span": 3,
+                                "component_variant": "showcase_bottom_list_column"
+                              },
+                              {
+                                "id": "seed-224",
+                                "type": "column",
+                                "label": "Manual cards",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-223",
+                                    "type": "block",
+                                    "label": "Manual product cards",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-220",
+                                        "type": "product",
+                                        "label": "Product link",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "19",
+                                        "source_label": "Product link",
+                                        "source_url": "#",
+                                        "icon": "shopping-bag",
+                                        "label_override": "Product link",
+                                        "description": "Compact product row when a full grid is not needed."
+                                      },
+                                      {
+                                        "id": "seed-221",
+                                        "type": "product_tile",
+                                        "label": "Product tile fallback",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "19",
+                                        "source_label": "Product tile fallback",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": true,
+                                        "label_override": "Product tile fallback",
+                                        "description": "Lightweight product card outside product grids."
+                                      },
+                                      {
+                                        "id": "seed-222",
+                                        "type": "custom",
+                                        "label": "Manual collection link",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "icon": "wand-magic-sparkles",
+                                        "badge": "New",
+                                        "description": "Manual link can sit next to product content."
+                                      }
+                                    ],
+                                    "component_variant": "showcase_card_list",
+                                    "icon": "shopping-bag",
+                                    "description": "Product link, fallback tile and manual merchandising link."
+                                  }
+                                ],
+                                "column_span": 3,
+                                "component_variant": "showcase_action_column"
+                              }
+                            ],
+                            "column_span": 12
+                          }
+                        ],
+                        "columns": 1,
+                        "icon": "shopping-bag",
+                        "description": "Product grids, compact rows and manual product cards.",
+                        "link_mode": "span"
+                      },
+                      {
+                        "id": "seed-promo-47",
+                        "type": "custom",
+                        "label": "Promotions and deals",
+                        "link": "#",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-promo-4",
+                            "type": "row",
+                            "label": "Promotion intro",
+                            "link": "",
+                            "target": false,
+                            "children": [
+                              {
+                                "id": "seed-promo-3",
+                                "type": "column",
+                                "label": "Promotion studio",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-promo-2",
+                                    "type": "block",
+                                    "label": "Promotion studio",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-promo-1",
+                                        "type": "text",
+                                        "label": "Promotion studio",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Product bundles, timed campaigns and discount-driven merchandising blocks.",
+                                        "icon": "tag",
+                                        "component_variant": "showcase_header"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_header_block",
+                                    "hide_heading": true
+                                  }
+                                ],
+                                "column_span": 12,
+                                "component_variant": "showcase_header_column"
+                              }
+                            ],
+                            "column_span": 12
+                          },
+                          {
+                            "id": "seed-promo-22",
+                            "type": "row",
+                            "label": "Featured promotion row",
+                            "link": "",
+                            "target": false,
+                            "children": [
+                              {
+                                "id": "seed-promo-8",
+                                "type": "column",
+                                "label": "Deal spotlight",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-promo-7",
+                                    "type": "block",
+                                    "label": "Deal spotlight",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-promo-5",
+                                        "type": "banner",
+                                        "label": "Summer print kit",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "T-shirt, mug and poster bundle with limited campaign pricing.",
+                                        "cta_label": "Shop the kit",
+                                        "banner_eyebrow": "Bundle -25%",
+                                        "image_url": "/1-default_lg/hummingbird-printed-t-shirt.jpg",
+                                        "style_background": "#fff4e6",
+                                        "style_background_2": "#ffe4c2",
+                                        "style_text": "#14233d"
+                                      },
+                                      {
+                                        "id": "seed-promo-6",
+                                        "type": "text",
+                                        "label": "Code PRINT25",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Apply at checkout before Sunday night.",
+                                        "icon": "ticket",
+                                        "component_variant": "showcase_store_status"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_media_block",
+                                    "description": "Hero promotion with product image, CTA and coupon code."
+                                  }
+                                ],
+                                "column_span": 4,
+                                "component_variant": "showcase_media_column"
+                              },
+                              {
+                                "id": "seed-promo-14",
+                                "type": "column",
+                                "label": "Promoted products",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-promo-13",
+                                    "type": "block",
+                                    "label": "Promoted products",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-promo-9",
+                                        "type": "product_tile",
+                                        "label": "Hummingbird printed t-shirt",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "1",
+                                        "label_override": "Hummingbird printed t-shirt",
+                                        "source_label": "Hummingbird printed t-shirt",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": false,
+                                        "description": "Campaign product with active catalog pricing."
+                                      },
+                                      {
+                                        "id": "seed-promo-10",
+                                        "type": "product_tile",
+                                        "label": "Hummingbird printed sweater",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "2",
+                                        "label_override": "Hummingbird printed sweater",
+                                        "source_label": "Hummingbird printed sweater",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": false,
+                                        "description": "Second promoted product in the same visual grid."
+                                      },
+                                      {
+                                        "id": "seed-promo-11",
+                                        "type": "product_tile",
+                                        "label": "Mug deal",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "6",
+                                        "label_override": "Mug deal",
+                                        "source_label": "Mug deal",
+                                        "source_url": "#",
+                                        "use_fallback_product_tile": false,
+                                        "description": "Accessory item promoted next to apparel."
+                                      }
+                                    ],
+                                    "component_variant": "showcase_product_grid_two",
+                                    "description": "Theme-rendered product cards for discount campaigns.",
+                                    "heading_link": "/",
+                                    "heading_link_label": "View all deals",
+                                    "heading_link_icon": "arrow-right"
+                                  }
+                                ],
+                                "column_span": 8,
+                                "component_variant": "showcase_products_column"
+                              }
+                            ],
+                            "column_span": 12
+                          },
+                          {
+                            "id": "seed-promo-39",
+                            "type": "row",
+                            "label": "Merchandising row",
+                            "link": "",
+                            "target": false,
+                            "children": [
+                              {
+                                "id": "seed-promo-28",
+                                "type": "column",
+                                "label": "Discount product rail",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-promo-27",
+                                    "type": "block",
+                                    "label": "Discount product rail",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-promo-23",
+                                        "type": "product",
+                                        "label": "Printed t-shirt deal",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "1",
+                                        "label_override": "Printed t-shirt deal",
+                                        "source_label": "Printed t-shirt deal",
+                                        "source_url": "#",
+                                        "description": "-20% active promotion"
+                                      },
+                                      {
+                                        "id": "seed-promo-24",
+                                        "type": "product",
+                                        "label": "Sweater campaign",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "2",
+                                        "label_override": "Sweater campaign",
+                                        "source_label": "Sweater campaign",
+                                        "source_url": "#",
+                                        "description": "Limited apparel offer"
+                                      },
+                                      {
+                                        "id": "seed-promo-25",
+                                        "type": "product",
+                                        "label": "Customizable mug bundle",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "6",
+                                        "label_override": "Customizable mug bundle",
+                                        "source_label": "Customizable mug bundle",
+                                        "source_url": "#",
+                                        "description": "Pair with apparel and save"
+                                      },
+                                      {
+                                        "id": "seed-promo-26",
+                                        "type": "product",
+                                        "label": "Poster add-on",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "entity_id": "3",
+                                        "label_override": "Poster add-on",
+                                        "source_label": "Poster add-on",
+                                        "source_url": "#",
+                                        "description": "Bundle add-on product"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_compact_list",
+                                    "description": "Compact product rows for quick promotion scanning.",
+                                    "heading_link": "/",
+                                    "heading_link_label": "View discounted products",
+                                    "heading_link_icon": "arrow-right"
+                                  }
+                                ],
+                                "column_span": 4,
+                                "component_variant": "showcase_bottom_list_column"
+                              },
+                              {
+                                "id": "seed-promo-35",
+                                "type": "column",
+                                "label": "Campaign paths",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-promo-34",
+                                    "type": "block",
+                                    "label": "Campaign paths",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-promo-refined-1",
+                                        "type": "custom",
+                                        "label": "Flash deals",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "badge": "Today only"
+                                      },
+                                      {
+                                        "id": "seed-promo-refined-2",
+                                        "type": "custom",
+                                        "label": "Bundles",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "badge": "Save more"
+                                      },
+                                      {
+                                        "id": "seed-promo-refined-3",
+                                        "type": "custom",
+                                        "label": "Outlet picks",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "badge": "Up to 50% off"
+                                      },
+                                      {
+                                        "id": "seed-promo-refined-4",
+                                        "type": "custom",
+                                        "label": "Gift-ready sets",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "icon": "gift",
+                                        "description": "Curated sets for quick seasonal shopping."
+                                      },
+                                      {
+                                        "id": "seed-promo-refined-5",
+                                        "type": "custom",
+                                        "label": "Back to school sets",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "badge": "-30%"
+                                      },
+                                      {
+                                        "id": "seed-promo-refined-6",
+                                        "type": "custom",
+                                        "label": "Open campaign landing",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "component_variant": "card_list_action"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_card_list",
+                                    "icon": "wand-magic-sparkles",
+                                    "description": "Campaign links with badges and clear calls to action."
+                                  }
+                                ],
+                                "column_span": 4,
+                                "component_variant": "showcase_action_column"
+                              },
+                              {
+                                "id": "seed-promo-38",
+                                "type": "column",
+                                "label": "Promotion media",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-promo-37",
+                                    "type": "block",
+                                    "label": "Promotion media",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-promo-36",
+                                        "type": "banner",
+                                        "label": "Gift bundle builder",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "A visual shortcut to product sets and campaign pages.",
+                                        "cta_label": "Build a bundle",
+                                        "banner_eyebrow": "Campaign",
+                                        "image_url": "/21-default_lg/brown-bear-printed-sweater.jpg",
+                                        "banner_layout": "vertical",
+                                        "style_background": "#f2fbec",
+                                        "style_background_2": "#e2f8cf",
+                                        "style_text": "#14233d"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_media_block",
+                                    "description": "Vertical promotion banner using the shared banner component."
+                                  }
+                                ],
+                                "column_span": 4,
+                                "component_variant": "showcase_media_column"
+                              }
+                            ],
+                            "column_span": 12
+                          },
+                          {
+                            "id": "seed-promo-46",
+                            "type": "row",
+                            "label": "Promotion shortcuts row",
+                            "link": "",
+                            "target": false,
+                            "children": [
+                              {
+                                "id": "seed-promo-45",
+                                "type": "column",
+                                "label": "Promotion shortcuts",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-promo-44",
+                                    "type": "block",
+                                    "label": "Promotion shortcuts",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-promo-40",
+                                        "type": "text",
+                                        "label": "Today's deals",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "New deals every 24h",
+                                        "icon": "tag"
+                                      },
+                                      {
+                                        "id": "seed-promo-41",
+                                        "type": "text",
+                                        "label": "2-for-1 offers",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Double the value",
+                                        "icon": "percent"
+                                      },
+                                      {
+                                        "id": "seed-promo-42",
+                                        "type": "text",
+                                        "label": "Free shipping offers",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "On orders over 150 zl",
+                                        "icon": "truck"
+                                      },
+                                      {
+                                        "id": "seed-promo-43",
+                                        "type": "text",
+                                        "label": "Last chance",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Deals ending soon",
+                                        "icon": "clock"
+                                      }
+                                    ],
+                                    "component_variant": "benefits_strip",
+                                    "style_radius": "12px",
+                                    "hide_heading": true
+                                  }
+                                ],
+                                "column_span": 12,
+                                "component_variant": "showcase_footer_column"
+                              }
+                            ],
+                            "column_span": 12
+                          }
+                        ],
+                        "columns": 4,
+                        "icon": "tag",
+                        "description": "Product promotion examples, bundles and limited-time campaign blocks.",
+                        "link_mode": "span"
+                      },
+                      {
+                        "id": "seed-239",
+                        "type": "custom",
+                        "label": "Media and promos",
+                        "link": "#",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-238",
+                            "type": "row",
+                            "label": "Media and promos row",
+                            "link": "",
+                            "target": false,
+                            "children": [
+                              {
+                                "id": "seed-229",
+                                "type": "column",
+                                "label": "Campaign banners",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-228",
+                                    "type": "block",
+                                    "label": "Horizontal banner",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-227",
+                                        "type": "banner",
+                                        "label": "Horizontal promo banner",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Wide banner with shared CTA, media and gradient logic.",
+                                        "cta_label": "View collection",
+                                        "banner_eyebrow": "Campaign",
+                                        "image_url": "/1-default_lg/hummingbird-printed-t-shirt.jpg",
+                                        "style_background": "#eaf3ff",
+                                        "style_background_2": "#d7eaff",
+                                        "style_text": "#14233d"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_media_block",
+                                    "description": "Horizontal banner component for wide content zones."
+                                  }
+                                ],
+                                "column_span": 4,
+                                "component_variant": "showcase_media_column"
+                              },
+                              {
+                                "id": "seed-232",
+                                "type": "column",
+                                "label": "Vertical feature",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-231",
+                                    "type": "block",
+                                    "label": "Vertical banner",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-230",
+                                        "type": "banner",
+                                        "label": "Vertical promo banner",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Tall banner variant using the same banner CTA and hover styles.",
+                                        "cta_label": "Explore",
+                                        "banner_eyebrow": "Feature",
+                                        "image_url": "/21-default_lg/brown-bear-printed-sweater.jpg",
+                                        "banner_layout": "vertical",
+                                        "style_background": "#f2fbec",
+                                        "style_background_2": "#e3f7d6",
+                                        "style_text": "#14233d"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_media_block",
+                                    "description": "Vertical layout of the same shared banner block."
+                                  }
+                                ],
+                                "column_span": 4,
+                                "component_variant": "showcase_media_column"
+                              },
+                              {
+                                "id": "seed-237",
+                                "type": "column",
+                                "label": "Rich media stack",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-236",
+                                    "type": "block",
+                                    "label": "Image and video stack",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-233",
+                                        "type": "image",
+                                        "label": "Linked image tile",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "image_url": "/6-default_lg/mug-the-best-is-yet-to-come.jpg",
+                                        "description": "Image content can be used as a visual shortcut."
+                                      },
+                                      {
+                                        "id": "seed-234",
+                                        "type": "video",
+                                        "label": "Video feature",
+                                        "link": "/",
+                                        "target": false,
+                                        "children": [],
+                                        "video_provider": "youtube",
+                                        "video_url": "https://www.youtube.com/watch?v=N_OcJBvvecU&t",
+                                        "video_aspect": "16:9",
+                                        "video_size": "large",
+                                        "video_controls": true,
+                                        "video_lazy": true,
+                                        "video_muted": true,
+                                        "description": "Embedded video block with CTA and poster fallback.",
+                                        "cta_label": "Watch guide",
+                                        "component_variant": "showcase_video_feature",
+                                        "video_poster": "/modules/cci_nice_menu/views/img/demo/catalog-video.jpg"
+                                      },
+                                      {
+                                        "id": "seed-235",
+                                        "type": "text",
+                                        "label": "Media caption",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Text cards can explain media content without custom markup.",
+                                        "icon": "closed-captioning"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_media_block",
+                                    "description": "Shared media stack for images, video and supporting copy."
+                                  }
+                                ],
+                                "column_span": 4,
+                                "component_variant": "showcase_media_column"
+                              }
+                            ],
+                            "column_span": 12
+                          }
+                        ],
+                        "columns": 1,
+                        "icon": "image",
+                        "description": "Banner orientations, image tiles and video blocks.",
+                        "link_mode": "span"
+                      },
+                      {
+                        "id": "seed-277",
+                        "type": "custom",
+                        "label": "Reusable blocks",
+                        "link": "#",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-263",
+                            "type": "row",
+                            "label": "Lists row",
+                            "link": "",
+                            "target": false,
+                            "children": [
+                              {
+                                "id": "seed-245",
+                                "type": "column",
+                                "label": "Primary links",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-244",
+                                    "type": "block",
+                                    "label": "Link list",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-240",
+                                        "type": "custom",
+                                        "label": "Primary link",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Default text link in a shared list block."
+                                      },
+                                      {
+                                        "id": "seed-241",
+                                        "type": "custom",
+                                        "label": "Highlighted link",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "component_variant": "showcase_current_link",
+                                        "description": "Current/selected link state for navigation."
+                                      },
+                                      {
+                                        "id": "seed-242",
+                                        "type": "custom",
+                                        "label": "Link with badge",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "badge": "Hot",
+                                        "description": "Badge appears next to the label when configured."
+                                      },
+                                      {
+                                        "id": "seed-243",
+                                        "type": "custom",
+                                        "label": "View link list",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "component_variant": "card_list_action"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_link_block",
+                                    "description": "Compact navigation list for category groups."
+                                  }
+                                ],
+                                "column_span": 3,
+                                "component_variant": "showcase_link_column"
+                              },
+                              {
+                                "id": "seed-251",
+                                "type": "column",
+                                "label": "Secondary links",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-250",
+                                    "type": "block",
+                                    "label": "Secondary link list",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-246",
+                                        "type": "custom",
+                                        "label": "Secondary link",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Quieter link list for supporting navigation."
+                                      },
+                                      {
+                                        "id": "seed-247",
+                                        "type": "custom",
+                                        "label": "Support link",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Same block with reduced visual weight."
+                                      },
+                                      {
+                                        "id": "seed-248",
+                                        "type": "custom",
+                                        "label": "Resource link",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Reusable for manuals, guides and collections."
+                                      },
+                                      {
+                                        "id": "seed-249",
+                                        "type": "custom",
+                                        "label": "View resources",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "component_variant": "card_list_action"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_secondary_link_block",
+                                    "description": "Secondary link block uses the same list mechanics."
+                                  }
+                                ],
+                                "column_span": 3,
+                                "component_variant": "showcase_link_column"
+                              },
+                              {
+                                "id": "seed-257",
+                                "type": "column",
+                                "label": "Card list",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-256",
+                                    "type": "block",
+                                    "label": "Card list",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-252",
+                                        "type": "custom",
+                                        "label": "Card item with icon",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "icon": "star",
+                                        "description": "Icon, label, description and chevron in one row."
+                                      },
+                                      {
+                                        "id": "seed-253",
+                                        "type": "custom",
+                                        "label": "Badge item",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "badge": "Best value"
+                                      },
+                                      {
+                                        "id": "seed-254",
+                                        "type": "custom",
+                                        "label": "Image item",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "image_url": "/18-default_lg/mountain-fox-notebook.jpg",
+                                        "description": "Card list also supports configured thumbnails."
+                                      },
+                                      {
+                                        "id": "seed-255",
+                                        "type": "custom",
+                                        "label": "Open card list",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "component_variant": "card_list_action"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_card_list",
+                                    "icon": "table-list",
+                                    "description": "General purpose card list for mixed content rows."
+                                  }
+                                ],
+                                "column_span": 3,
+                                "component_variant": "showcase_action_column"
+                              },
+                              {
+                                "id": "seed-262",
+                                "type": "column",
+                                "label": "Rail services",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-261",
+                                    "type": "block",
+                                    "label": "Rail service cards",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-258",
+                                        "type": "custom",
+                                        "label": "Fast setup",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "icon": "zap",
+                                        "description": "Short service item for tab rails.",
+                                        "component_variant": "showcase_rail_service"
+                                      },
+                                      {
+                                        "id": "seed-259",
+                                        "type": "custom",
+                                        "label": "Editor friendly",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "icon": "pen",
+                                        "description": "Label and description come from data.",
+                                        "component_variant": "showcase_rail_service"
+                                      },
+                                      {
+                                        "id": "seed-260",
+                                        "type": "custom",
+                                        "label": "Reusable style",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "icon": "arrows-rotate",
+                                        "description": "Same component in different menu sections.",
+                                        "component_variant": "showcase_rail_service"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_card_list",
+                                    "icon": "wand-magic-sparkles",
+                                    "description": "Rail service item pattern used by tab support content."
+                                  }
+                                ],
+                                "column_span": 3,
+                                "component_variant": "showcase_action_column"
+                              }
+                            ],
+                            "column_span": 12
+                          },
+                          {
+                            "id": "seed-276",
+                            "type": "row",
+                            "label": "Strips row",
+                            "link": "",
+                            "target": false,
+                            "children": [
+                              {
+                                "id": "seed-269",
+                                "type": "column",
+                                "label": "Benefits strip",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-268",
+                                    "type": "block",
+                                    "label": "Benefits strip",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-264",
+                                        "type": "text",
+                                        "label": "Benefit item",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Icon plus short value proposition.",
+                                        "icon": "shield"
+                                      },
+                                      {
+                                        "id": "seed-265",
+                                        "type": "text",
+                                        "label": "Feature item",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Works as a horizontal supporting strip.",
+                                        "icon": "palette"
+                                      },
+                                      {
+                                        "id": "seed-266",
+                                        "type": "text",
+                                        "label": "Trust item",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Consistent icon, title and description rhythm.",
+                                        "icon": "lock"
+                                      },
+                                      {
+                                        "id": "seed-267",
+                                        "type": "text",
+                                        "label": "Service item",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Reusable for reassurance and highlights.",
+                                        "icon": "truck"
+                                      }
+                                    ],
+                                    "component_variant": "benefits_strip",
+                                    "style_radius": "12px",
+                                    "hide_heading": true
+                                  }
+                                ],
+                                "column_span": 12,
+                                "component_variant": "showcase_footer_column"
+                              },
+                              {
+                                "id": "seed-275",
+                                "type": "column",
+                                "label": "Footer actions",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-274",
+                                    "type": "block",
+                                    "label": "Footer actions",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-270",
+                                        "type": "custom",
+                                        "label": "Size guide",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "icon": "ruler",
+                                        "description": "Find the right fit."
+                                      },
+                                      {
+                                        "id": "seed-271",
+                                        "type": "custom",
+                                        "label": "Care guide",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "icon": "scissors",
+                                        "description": "How to care for prints."
+                                      },
+                                      {
+                                        "id": "seed-272",
+                                        "type": "custom",
+                                        "label": "Inspiration and blog",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "icon": "palette",
+                                        "description": "Ideas, trends and interviews."
+                                      },
+                                      {
+                                        "id": "seed-273",
+                                        "type": "custom",
+                                        "label": "Personalization",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "icon": "pencil",
+                                        "description": "Create your own design."
+                                      }
+                                    ],
+                                    "component_variant": "footer_actions",
+                                    "style_radius": "12px",
+                                    "description": "Full-width shortcut strip for helpful links."
+                                  }
+                                ],
+                                "column_span": 12,
+                                "component_variant": "showcase_footer_column"
+                              }
+                            ],
+                            "column_span": 12
+                          }
+                        ],
+                        "columns": 2,
+                        "icon": "cubes",
+                        "description": "Reusable list, card, strip and rail block variants.",
+                        "link_mode": "span"
+                      },
+                      {
+                        "id": "seed-296",
+                        "type": "custom",
+                        "label": "Store and hooks",
+                        "link": "#",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-295",
+                            "type": "row",
+                            "label": "Store and hooks row",
+                            "link": "",
+                            "target": false,
+                            "children": [
+                              {
+                                "id": "seed-284",
+                                "type": "column",
+                                "label": "Store card",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-283",
+                                    "type": "block",
+                                    "label": "Store card",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-278",
+                                        "type": "map",
+                                        "label": "Store map",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "map_query": "10 Creative Street, Warsaw",
+                                        "map_zoom": 15,
+                                        "image_url": "/modules/cci_nice_menu/views/img/showcase-map.svg",
+                                        "description": "Map spans the card width and keeps contact data grouped."
+                                      },
+                                      {
+                                        "id": "seed-279",
+                                        "type": "text",
+                                        "label": "Cool Cat Ideas Store",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "10 Creative Street, 00-001 Warsaw",
+                                        "icon": "map-pin"
+                                      },
+                                      {
+                                        "id": "seed-280",
+                                        "type": "custom",
+                                        "label": "+48 123 456 789",
+                                        "link": "tel:+48123456789",
+                                        "target": false,
+                                        "children": [],
+                                        "icon": "phone",
+                                        "description": "Customer support phone link."
+                                      },
+                                      {
+                                        "id": "seed-281",
+                                        "type": "custom",
+                                        "label": "info@coolcatideas.com",
+                                        "link": "mailto:info@coolcatideas.com",
+                                        "target": false,
+                                        "children": [],
+                                        "icon": "envelope",
+                                        "description": "Email link rendered from menu data."
+                                      },
+                                      {
+                                        "id": "seed-282",
+                                        "type": "text",
+                                        "label": "Open 9:00 - 17:00",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Non-clickable opening status.",
+                                        "icon": "clock",
+                                        "component_variant": "showcase_store_status"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_store_card",
+                                    "columns": 2,
+                                    "description": "Map, address, contact links and status in one shared store block.",
+                                    "heading_link": "/",
+                                    "heading_link_label": "View store",
+                                    "heading_link_icon": "arrow-right"
+                                  }
+                                ],
+                                "column_span": 6,
+                                "component_variant": "showcase_store_column"
+                              },
+                              {
+                                "id": "seed-290",
+                                "type": "column",
+                                "label": "Native module output",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-286",
+                                    "type": "block",
+                                    "label": "Customer reassurance hook",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-285",
+                                        "type": "hook",
+                                        "label": "Customer reassurance",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "hook_name": "displayReassurance",
+                                        "description": "Native PrestaShop reassurance module output."
+                                      }
+                                    ],
+                                    "component_variant": "showcase_card_list",
+                                    "icon": "shield",
+                                    "description": "Hook content is rendered from the module, not copied HTML."
+                                  },
+                                  {
+                                    "id": "seed-289",
+                                    "type": "block",
+                                    "label": "Hook reference",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-287",
+                                        "type": "text",
+                                        "label": "Search bar hook",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Use displaySearch / ps_searchbar as a hook block when search is needed.",
+                                        "icon": "search"
+                                      },
+                                      {
+                                        "id": "seed-288",
+                                        "type": "text",
+                                        "label": "Hook fallback",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "description": "Widget modules can render through a conscious hook fallback.",
+                                        "icon": "plug"
+                                      }
+                                    ],
+                                    "component_variant": "showcase_card_list",
+                                    "icon": "plug",
+                                    "description": "Notes for native module blocks available in the builder."
+                                  }
+                                ],
+                                "column_span": 3,
+                                "component_variant": "showcase_action_column"
+                              },
+                              {
+                                "id": "seed-294",
+                                "type": "column",
+                                "label": "Standalone map",
+                                "link": "",
+                                "target": false,
+                                "children": [
+                                  {
+                                    "id": "seed-293",
+                                    "type": "block",
+                                    "label": "Map card",
+                                    "link": "",
+                                    "target": false,
+                                    "children": [
+                                      {
+                                        "id": "seed-291",
+                                        "type": "map",
+                                        "label": "Map card",
+                                        "link": "",
+                                        "target": false,
+                                        "children": [],
+                                        "map_query": "Warsaw, Poland",
+                                        "map_zoom": 15,
+                                        "image_url": "/modules/cci_nice_menu/views/img/showcase-map.svg",
+                                        "description": "Standalone map block for contact or pickup sections."
+                                      },
+                                      {
+                                        "id": "seed-292",
+                                        "type": "custom",
+                                        "label": "Open map",
+                                        "link": "#",
+                                        "target": false,
+                                        "children": [],
+                                        "icon": "external-link",
+                                        "description": "Action link can sit below the map."
+                                      }
+                                    ],
+                                    "component_variant": "showcase_map_card",
+                                    "description": "Map and action link without the full store card wrapper."
+                                  }
+                                ],
+                                "column_span": 3,
+                                "component_variant": "showcase_store_column"
+                              }
+                            ],
+                            "column_span": 12
+                          }
+                        ],
+                        "columns": 1,
+                        "icon": "map-pin",
+                        "description": "Store card, map blocks and native PrestaShop hooks.",
+                        "link_mode": "span"
+                      }
+                    ],
+                    "component_variant": "showcase_tabs_block"
+                  }
+                ],
+                "column_span": 12,
+                "layout_role": "tabs",
+                "tabs_orientation": "vertical",
+                "component_variant": "showcase_tabs_column",
+                "tabs_content_height": "680px",
+                "tabs_content_height_tablet": "620px",
+                "tabs_content_height_mobile": "72vh"
+              }
+            ],
+            "icon": "fa fa-compass",
+            "component_variant": "showcase_entry",
+            "top_level_placement": "",
+            "top_level_column_start": 0
+          },
+          {
+            "id": "seed-319",
+            "type": "custom",
+            "label": "Blog",
+            "link": "#",
+            "target": false,
+            "column_span": 0,
+            "children": [
+              {
+                "id": "seed-blog-header-column",
+                "type": "column",
+                "label": "From our blog",
+                "link": "",
+                "target": false,
+                "children": [
+                  {
+                    "id": "seed-blog-header-block",
+                    "type": "block",
+                    "label": "From our blog",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-blog-header",
+                        "type": "text",
+                        "label": "From our blog",
+                        "link": "",
+                        "target": false,
+                        "children": [],
+                        "description": "Discover featured guides, latest articles and popular reads.",
+                        "icon": "file-text",
+                        "component_variant": "showcase_header"
+                      }
+                    ],
+                    "component_variant": "showcase_header_block",
+                    "hide_heading": true
+                  }
+                ],
+                "column_span": 12,
+                "component_variant": "showcase_header_column"
+              },
+              {
+                "id": "seed-309",
+                "type": "row",
+                "label": "Blog content",
+                "link": "",
+                "target": false,
+                "children": [
+                  {
+                    "id": "seed-302",
+                    "type": "column",
+                    "label": "Featured article",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-301",
+                        "type": "block",
+                        "label": "Featured guide",
+                        "link": "",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-300",
+                            "type": "blog_post",
+                            "label": "Featured article",
+                            "link": "#",
+                            "target": false,
+                            "children": [],
+                            "description": "A hand-picked article displayed as a sticky menu card."
+                          }
+                        ],
+                        "description": "Single selected article block for editorial navigation.",
+                        "component_variant": "showcase_card_list"
+                      }
+                    ],
+                    "column_span": 4,
+                    "component_variant": "showcase_action_column"
+                  },
+                  {
+                    "id": "seed-305",
+                    "type": "column",
+                    "label": "Latest articles",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-304",
+                        "type": "block",
+                        "label": "Latest articles",
+                        "link": "",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-303",
+                            "type": "blog_list",
+                            "label": "Latest blog list",
+                            "link": "",
+                            "target": false,
+                            "children": [],
+                            "description": "Newest active blog posts from CCI Blog.",
+                            "item_count": 4,
+                            "component_variant": "showcase_blog_list"
+                          }
+                        ],
+                        "description": "Automatically rendered newest posts.",
+                        "component_variant": "showcase_card_list"
+                      }
+                    ],
+                    "column_span": 4,
+                    "component_variant": "showcase_action_column"
+                  },
+                  {
+                    "id": "seed-308",
+                    "type": "column",
+                    "label": "Popular reads",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-307",
+                        "type": "block",
+                        "label": "Popular reads",
+                        "link": "",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-306",
+                            "type": "blog_popular",
+                            "label": "Popular posts",
+                            "link": "",
+                            "target": false,
+                            "children": [],
+                            "description": "Popular articles ordered by the blog view counter.",
+                            "item_count": 4,
+                            "component_variant": "showcase_blog_popular"
+                          }
+                        ],
+                        "description": "Articles sorted by collected view statistics.",
+                        "component_variant": "showcase_card_list"
+                      }
+                    ],
+                    "column_span": 4,
+                    "component_variant": "showcase_action_column"
+                  }
+                ],
+                "column_span": 12
+              },
+              {
+                "id": "seed-318",
+                "type": "row",
+                "label": "More from the blog",
+                "link": "",
+                "target": false,
+                "children": [
+                  {
+                    "id": "seed-312",
+                    "type": "column",
+                    "label": "Article carousel",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-311",
+                        "type": "block",
+                        "label": "Article carousel",
+                        "link": "",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-310",
+                            "type": "blog_carousel",
+                            "label": "Blog carousel",
+                            "link": "",
+                            "target": false,
+                            "children": [],
+                            "description": "Carousel block sourced from published blog posts.",
+                            "item_count": 6,
+                            "component_variant": "showcase_blog_carousel",
+                            "carousel_items": 3,
+                            "carousel_margin": 16,
+                            "carousel_autoplay": true,
+                            "carousel_autoplay_timeout": 4500
+                          }
+                        ],
+                        "description": "A horizontal rail for recent or curated articles.",
+                        "component_variant": "showcase_card_list"
+                      }
+                    ],
+                    "column_span": 8,
+                    "component_variant": "showcase_bottom_list_column"
+                  },
+                  {
+                    "id": "seed-317",
+                    "type": "column",
+                    "label": "Blog categories",
+                    "link": "",
+                    "target": false,
+                    "children": [
+                      {
+                        "id": "seed-316",
+                        "type": "block",
+                        "label": "Blog categories",
+                        "link": "",
+                        "target": false,
+                        "children": [
+                          {
+                            "id": "seed-313",
+                            "type": "blog_categories",
+                            "label": "Blog categories",
+                            "link": "",
+                            "target": false,
+                            "children": [],
+                            "description": "Automatic category listing from CCI Blog.",
+                            "item_count": 8,
+                            "component_variant": "showcase_blog_categories",
+                            "icon": "folder-tree",
+                            "blog_category_mode": "all",
+                            "blog_category_ids": [],
+                            "blog_category_hide_empty": true,
+                            "blog_category_sort": "position",
+                            "blog_category_show_count": true,
+                            "blog_category_media_mode": "auto"
+                          }
+                        ],
+                        "description": "Automatic or selected category list with post counts.",
+                        "component_variant": "showcase_card_list"
+                      }
+                    ],
+                    "column_span": 4,
+                    "component_variant": "showcase_action_column"
+                  }
+                ],
+                "column_span": 12,
+                "component_variant": "showcase_secondary_row"
+              }
+            ],
+            "icon": "file-text",
+            "component_variant": "showcase_entry",
+            "top_level_placement": "",
+            "top_level_column_start": 0
+          },
+          {
+            "id": "seed-320",
+            "type": "cms_page",
+            "label": "About us",
+            "link": "#",
+            "target": false,
+            "children": [],
+            "entity_id": "4",
+            "label_override": "About us",
+            "source_label": "About us",
+            "source_url": "#",
+            "column_span": 0,
+            "component_variant": "showcase_simple_link",
+            "top_level_placement": "",
+            "top_level_column_start": 0
+          },
+          {
+            "id": "seed-contact-cms",
+            "type": "cms_page",
+            "label": "Contact",
+            "link": "#",
+            "target": false,
+            "children": [],
+            "entity_id": "4",
+            "label_override": "Contact",
+            "source_label": "Contact",
+            "source_url": "#",
+            "column_span": 0,
+            "top_level_placement": "",
+            "top_level_column_start": 0
+          }
+        ],
+        "component_variant": "top_navigation_column"
+      },
+      {
+        "id": "node-1783802719077-t13um1",
+        "type": "column",
+        "label": "Search",
+        "link": "",
+        "column_span": 3,
+        "children": [
+          {
+            "id": "seed-search-display",
+            "type": "hook",
+            "label": "Search products",
+            "link": "",
+            "target": false,
+            "children": [],
+            "hook_name": "displaySearch",
+            "top_level_placement": "",
+            "top_level_column_start": 0,
+            "column_span": 0,
+            "description": "Native PrestaShop search output from displaySearch / ps_searchbar."
+          }
+        ],
+        "component_variant": "top_navigation_search_column",
+        "top_level_placement": "right"
+      }
+    ],
+    "component_variant": "top_navigation_row"
+  }
+]

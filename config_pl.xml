@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>cci_nice_menu</name>
+    <displayName><![CDATA[CCI Nice Menu]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Zbuduj responsywne menu PrestaShop z kategorii, produktów, stron CMS i własnych linków, a potem wizualnie ułóż zawartość rozwijaną na komputer i telefon.]]></description>
+    <author><![CDATA[Cool Cat Ideas]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Czy na pewno chcesz odinstalować CCI Nice Menu?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>
