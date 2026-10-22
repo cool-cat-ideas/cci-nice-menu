@@ -2,7 +2,7 @@
 <module>
     <name>cci_nice_menu</name>
     <displayName><![CDATA[CCI Nice Menu]]></displayName>
-    <version><![CDATA[1.0.0]]></version>
+    <version><![CDATA[1.0.1]]></version>
     <description><![CDATA[Zbuduj responsywne menu PrestaShop z kategorii, produktów, stron CMS i własnych linków, a potem wizualnie ułóż zawartość rozwijaną na komputer i telefon.]]></description>
     <author><![CDATA[Cool Cat Ideas]]></author>
     <tab><![CDATA[front_office_features]]></tab>

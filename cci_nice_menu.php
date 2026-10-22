@@ -60,7 +60,7 @@ class Cci_Nice_Menu extends Module
     {
         $this->name = 'cci_nice_menu';
         $this->tab = 'front_office_features';
-        $this->version = '1.0.0';
+        $this->version = '1.0.1';
         $this->author = 'Cool Cat Ideas';
         $this->need_instance = 0;
         $this->bootstrap = true;
@@ -1092,6 +1092,26 @@ class Cci_Nice_Menu extends Module
         }
 
         $action = (string) Tools::getValue('ajaxAction', '');
+        $payload = $this->getJsonPayload();
+        $permission = match ($action) {
+            'menus:list', 'layouts:list', 'module-settings:get', 'catalog:categories',
+            'catalog:products', 'catalog:cms_pages', 'blog:posts', 'blog:categories',
+            'media:list', 'menu:get', 'menu:export', 'multistore:context', 'license:get' => 'view',
+            'menu:save' => (int) ($payload['id_menu'] ?? 0) > 0 ? 'edit' : 'add',
+            'menu:import', 'multistore:menu:copy-shops' => 'add',
+            'menu:delete' => 'delete',
+            default => 'edit',
+        };
+        $controller = $this->context->controller;
+        $allowed = $controller instanceof AdminController
+            ? $controller->access('view') && $controller->access($permission)
+            : $controller instanceof \PrestaShop\PrestaShop\Core\Context\LegacyControllerContext
+                && $this->getPermission($permission === 'view' ? 'view' : 'configure');
+        if (!$allowed || ($permission !== 'view' && ($_SERVER['REQUEST_METHOD'] ?? '') !== 'POST')
+            || !$this->context->employee->hasAuthOnShop((int) $this->context->shop->id)) {
+            http_response_code(403);
+            exit(json_encode(['success' => false, 'error' => 'Unauthorized'], JSON_UNESCAPED_UNICODE));
+        }
         $shopId = (int) $this->context->shop->id;
         $response = ['success' => false];
         $this->ensureIntegrationHooks();
