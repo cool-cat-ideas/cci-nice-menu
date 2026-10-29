@@ -4,7 +4,7 @@
 
 # CCI Nice Menu
 
-Build a PrestaShop menu from categories, products, CMS pages and custom links. Use the visual editor to arrange the top navigation and its dropdown content for desktop and mobile.
+Bring categories, products and useful shop pages into one PrestaShop menu. Arrange links in rows and columns in the visual editor, then use the same navigation on desktop and mobile.
 
 [Product and download](https://coolcatideas.com/products/cci-nice-menu/) · [User guide](docs/USER_GUIDE.md) · [Online documentation](https://coolcatideas.com/docs/cci-nice-menu/1.0.0/) · [Support](#support)
 
@@ -22,11 +22,11 @@ Keep collection links, product recommendations and store contact details within 
 
 ![CCI Nice Menu Pro dropdown showing a collection banner, product lists, video preview, store map and guide links](docs/screenshots/cci-nice-menu-storefront-content.png)
 
-These screenshots show CCI Nice Menu with Pro enabled. The base module provides one top-header menu with standard navigation links. Product panels, media blocks and the richer layouts shown above require Pro.
+These screenshots show CCI Nice Menu with Pro enabled. The base module provides one top-header menu with rows, columns and links to categories, pages and products. A product link can include its image, name and price. Product tiles, grids and lists, media blocks and the other Pro layouts shown above require Pro.
 
 ## Build the first menu
 
-1. Install `cci_nice_menu-1.0.0.zip` in **Modules > Module Manager**.
+1. Download the current CCI Nice Menu ZIP from the product page and install it in **Modules > Module Manager**.
 2. Open **Cool Cat Ideas > CCI Nice Menu**.
 3. Edit the menu created during installation or add a new one.
 4. Add the top-level items in **Header navigation bar**.
