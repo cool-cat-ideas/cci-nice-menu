@@ -1,7 +1,7 @@
 import { ActiveLicenseCard, InactiveLicenseCard } from '@cci/admin-ui';
 import { ProductNavigation } from '@cci/admin-ui/product-panels';
 import React from 'react';
-import { Menu as MenuIcon, Settings, ShoppingBag } from 'lucide-react';
+import { LayoutDashboard, Menu as MenuIcon, Settings, ShoppingBag } from 'lucide-react';
 import { apiFetch, isCciNiceMenuProLicenseActive, pluginData } from '../../api/api';
 import { __, coreString } from '../../i18n/i18n';
 import { compactLicenseError } from '../../lib/utils';
@@ -9,7 +9,8 @@ import ProductLogo from './ProductLogo';
 import ConfirmLicenseDeactivateModal from '../licensing/ConfirmLicenseDeactivateModal';
 
 const items = [
-  { id: 'dashboard', label: 'Menus', icon: MenuIcon, core: true },
+  { id: 'dashboard', label: 'Dashboard', icon: LayoutDashboard },
+  { id: 'menus', label: 'Menus', icon: MenuIcon },
   { id: 'extensions', label: 'Extensions', icon: ShoppingBag, core: true },
   { id: 'settings', label: 'Settings', icon: Settings, core: true },
 ];

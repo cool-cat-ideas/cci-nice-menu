@@ -41,7 +41,10 @@ function normalizeLicense(license = {}) {
 }
 
 export default function App() {
-  const [activeSection, setActiveSection] = useState('dashboard');
+  const [activeSection, setActiveSection] = useState(() => {
+    const section = new URLSearchParams(window.location.search).get('section');
+    return ['menus', 'extensions', 'settings'].includes(section) ? section : 'dashboard';
+  });
   const [license, setLicense] = useState(() => normalizeLicense(pluginData.license));
   const [notices, setNotices] = useState([]);
   const [sidebarCollapsed, setSidebarCollapsed] = useState(getInitialSidebarCollapsed);
@@ -119,10 +122,14 @@ export default function App() {
 
   const handleSidebarSelect = useCallback((section) => {
     setActiveSection(section);
+    const url = new URL(window.location.href);
+    if (section === 'dashboard') url.searchParams.delete('section');
+    else url.searchParams.set('section', section);
+    window.history.replaceState(null, '', url.toString());
   }, []);
   const handleOpenSettings = useCallback(() => {
-    setActiveSection('settings');
-  }, []);
+    handleSidebarSelect('settings');
+  }, [handleSidebarSelect]);
 
   return (
     <TooltipProvider delayDuration={200} skipDelayDuration={100}>
@@ -174,6 +181,7 @@ export default function App() {
             license={license}
             onLicenseChange={handleLicenseChange}
             onOpenSettings={handleOpenSettings}
+            onSelectSection={handleSidebarSelect}
           />
         </AdminWorkspace>
       </AdminShell>
@@ -183,7 +191,8 @@ export default function App() {
 
 function getPageHeader(activeSection) {
   const pages = {
-    dashboard: {
+    dashboard: { title: __('Dashboard', 'cci-nice-menu') },
+    menus: {
       title: __('Menus', 'cci-nice-menu'),
       description: __('Create, manage and embed mega menu definitions.', 'cci-nice-menu'),
     },
@@ -210,16 +219,18 @@ function DashboardSection({
   license,
   onLicenseChange,
   onOpenSettings,
+  onSelectSection,
 }) {
   const [menuEditorActive, setMenuEditorActive] = useState(false);
+  const overviewOnly = activeSection === 'dashboard';
 
   if (activeSection === 'settings') {
     return (
       <AdminColumns>
-        <div className="tw-grid tw-min-w-0 tw-content-start tw-gap-4 tw-self-start">
+        <div className="tw-grid tw-min-w-0 tw-grid-cols-1 tw-content-start tw-gap-4 tw-self-start">
           <CompatibilitySettings setNotice={setNotice} />
         </div>
-        <aside className="tw-grid tw-min-w-0 tw-content-start tw-gap-4 tw-self-start">
+        <aside className="tw-grid tw-min-w-0 tw-grid-cols-1 tw-content-start tw-gap-4 tw-self-start">
           <LicensePanel license={license} />
           <ReviewPrompt setNotice={setNotice} compact />
         </aside>
@@ -239,9 +250,11 @@ function DashboardSection({
   }
 
   return (
-    <AdminColumns fullWidth={menuEditorActive}>
-      <div className="tw-grid tw-min-w-0 tw-content-start tw-gap-4 tw-self-start">
+    <AdminColumns fullWidth={!overviewOnly || menuEditorActive}>
+      <div className="tw-grid tw-min-w-0 tw-grid-cols-1 tw-content-start tw-gap-4 tw-self-start">
         <MenuBuilderPanel
+          onOpenManagement={() => onSelectSection('menus')}
+          overviewOnly={overviewOnly}
           isPro={isPro}
           onLicenseNotice={setNotice}
           setNotice={setNotice}
@@ -249,8 +262,8 @@ function DashboardSection({
           onEditorStateChange={setMenuEditorActive}
         />
       </div>
-      {!menuEditorActive ? (
-        <aside className="tw-grid tw-min-w-0 tw-content-start tw-gap-4 tw-self-start">
+      {overviewOnly && !menuEditorActive ? (
+        <aside className="tw-grid tw-min-w-0 tw-grid-cols-1 tw-content-start tw-gap-4 tw-self-start">
           <LicensePanel license={license} />
           <ProductNewsPanel
             endpoint={pluginData.newsEndpoint || pluginData.marketplaceFeedEndpoint}

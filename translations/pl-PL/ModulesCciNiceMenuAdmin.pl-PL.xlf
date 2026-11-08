@@ -2,6 +2,11 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="modules/cci_nice_menu" source-language="en-US" target-language="pl-PL" datatype="plaintext">
     <body>
+      <trans-unit id="cci_nice_menu_admin_11b05f9994cf"><source>Recently edited menus</source><target state="final">Ostatnio edytowane menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_4e88b7b30c7a"><source>View all menus</source><target state="final">Wszystkie menu</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_d9f0f3c1f6c5"><source>Hook assignments</source><target state="final">Przypisania do hooków</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_13075c233611"><source>Not assigned</source><target state="final">Nieprzypisane</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_dashboard"><source>Dashboard</source><target state="final">Pulpit</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_a8d9f409f816"><source>-20% active promotion</source><target state="final">-20% aktywnej promocji</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_ec481072ed25"><source>-30%</source><target state="final">-30%</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_e708a4c14d52"><source>. The storefront reads its current children directly from the PrestaShop category tables.</source><target state="final">. Front sklepu pobiera aktualne podkategorie bezpośrednio z tabel kategorii PrestaShop.</target></trans-unit>
