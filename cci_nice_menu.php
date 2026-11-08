@@ -172,7 +172,7 @@ class Cci_Nice_Menu extends Module
             'diagnostics' => json_encode($this->getDiagnosticsPayload($shopId), $jsonFlags),
             'adminExtensionScripts' => $adminExtensionScripts,
             'adminI18n' => json_encode([
-                'dashboard' => $adminTranslations['Dashboard'],
+                'dashboard' => $adminTranslations['Menus'],
                 'extensions' => $adminTranslations['Extensions'],
                 'settings' => $adminTranslations['Settings'],
                 'menu' => $adminTranslations['Menu'],

@@ -4,7 +4,7 @@ export const pluginData = (() => {
   const cfg = window.CCINiceMenuConfig || {};
   const rawLicense = cfg.license || {};
   const defaultI18n = {
-    dashboard: 'Dashboard',
+    dashboard: 'Menus',
     extensions: 'Extensions',
     diagnostics: 'Diagnostics',
     settings: 'Settings',

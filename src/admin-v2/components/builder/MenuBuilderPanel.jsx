@@ -3660,8 +3660,6 @@ function MultistoreMenuCopy({ context, menuId, saving, onCopy }) {
 }
 
 export default function MenuBuilderPanel({
-  overviewOnly = false,
-  onOpenManagement,
   isPro,
   onLicenseNotice,
   setNotice: pushNotice,
@@ -3673,9 +3671,6 @@ export default function MenuBuilderPanel({
   const [working, setWorking] = React.useState(initial.activeMenu);
   const [tab, setTab] = React.useState('general');
   const [view, setView] = React.useState('list');
-  React.useEffect(() => {
-    if (overviewOnly) setView('list');
-  }, [overviewOnly]);
   const [activeTopIndex, setActiveTopIndex] = React.useState(0);
   const [selectedPath, setSelectedPath] = React.useState([0]);
   const [saving, setSaving] = React.useState(false);
@@ -3732,10 +3727,10 @@ export default function MenuBuilderPanel({
       return undefined;
     }
 
-    onEditorStateChange(!overviewOnly && view === 'editor');
+    onEditorStateChange(view === 'editor');
 
     return () => onEditorStateChange(false);
-  }, [onEditorStateChange, view, overviewOnly]);
+  }, [onEditorStateChange, view]);
 
   const changeMenu = (patch) => setWorking((current) => ({ ...current, ...patch }));
   const changeSettings = (patch) =>
@@ -4269,7 +4264,6 @@ export default function MenuBuilderPanel({
     setSelectedPath([0]);
     setTab('general');
     setView('editor');
-    onOpenManagement?.();
   };
 
   const loadRetailShowcase = () => {
@@ -4326,7 +4320,6 @@ export default function MenuBuilderPanel({
     setSelectedPath([0]);
     setTab('general');
     setView('editor');
-    onOpenManagement?.();
   };
 
   const selectedNode = selectedPath.length ? getNodeAtPath(working.tree, selectedPath) : null;
@@ -4347,12 +4340,9 @@ export default function MenuBuilderPanel({
   const preferredAddTargetLabel = preferredAddTargetNode?.label || activeTop?.label || '';
   const editingNode = editPath ? getNodeAtPath(working.tree, editPath) : null;
   const themeOptions = React.useMemo(getThemeOptions, []);
-  const statisticsMenus = overviewOnly
-    ? menuList.filter((menu) => Number(menu.id_menu) > 0)
-    : menuList;
   const listStats = {
-    total: statisticsMenus.length,
-    active: statisticsMenus.filter((menu) => Number(menu.is_active) === 1).length,
+    total: menuList.length,
+    active: menuList.filter((menu) => Number(menu.is_active) === 1).length,
     hooks: new Set(menuList.map((menu) => menu.hook_name).filter(Boolean)).size,
     topItems: menuList.reduce(
       (sum, menu) => sum + (Array.isArray(menu.tree) ? menu.tree.length : 0),
@@ -4360,11 +4350,9 @@ export default function MenuBuilderPanel({
     ),
   };
 
-  if (overviewOnly || view === 'list') {
+  if (view === 'list') {
     return (
       <MenusList
-        overviewOnly={overviewOnly}
-        onManage={onOpenManagement}
         menus={menuList}
         stats={listStats}
         onCreate={createMenu}

@@ -1,6 +1,5 @@
 import { ResourceListHeader } from '@cci/admin-ui';
 import React from 'react';
-import MenuDashboardWork from './MenuDashboardWork';
 import { CheckCircle2, FilePenLine, Layers3 } from 'lucide-react';
 import { __, coreString } from '../../i18n/i18n';
 import { cn } from '../../lib/cn';
@@ -10,8 +9,6 @@ import { Button } from '../ui/button';
 import { Card } from '../ui/card';
 
 export default function MenusList({
-  overviewOnly = false,
-  onManage,
   menus,
   stats,
   onCreate,
@@ -24,9 +21,9 @@ export default function MenusList({
 }) {
   const inactiveCount = Math.max(0, stats.total - stats.active);
 
-  if (overviewOnly) {
-    return (
-      <div className="tw-grid tw-min-w-0 tw-grid-cols-1 tw-gap-4">
+  return (
+    <>
+      <div className="tw-grid tw-content-start tw-gap-4">
         <div className="tw-grid tw-grid-cols-1 tw-gap-3 lg:tw-grid-cols-3">
           <MetricCard
             icon={Layers3}
@@ -49,21 +46,8 @@ export default function MenusList({
           />
         </div>
 
-        <MenuDashboardWork
-          menus={menus}
-          onCreate={onCreate}
-          onOpen={onOpen}
-          onManage={onManage}
-          formatDate={formatDate}
-        />
         <ReviewPrompt setNotice={setNotice} />
-      </div>
-    );
-  }
 
-  return (
-    <>
-      <div className="tw-grid tw-content-start tw-gap-4">
         <Card>
           <ResourceListHeader
             title={__('Menus', 'cci-nice-menu')}
@@ -76,7 +60,7 @@ export default function MenusList({
           />
 
           <div className="tw-overflow-x-auto">
-            <table className="tw-w-full tw-min-w-[760px] tw-border-collapse">
+            <table className="tw-w-full tw-border-collapse">
               <thead className="tw-bg-cci-nm-surfaceSoft">
                 <tr>
                   <th className="tw-border-0 tw-border-b tw-border-solid tw-border-cci-nm-border tw-px-4 tw-py-3 tw-text-left tw-text-xs tw-font-bold tw-uppercase tw-text-cci-nm-muted">
