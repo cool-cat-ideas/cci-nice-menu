@@ -60,7 +60,7 @@ class Cci_Nice_Menu extends Module
     {
         $this->name = 'cci_nice_menu';
         $this->tab = 'front_office_features';
-        $this->version = '1.0.1';
+        $this->version = '1.0.2';
         $this->author = 'Cool Cat Ideas';
         $this->need_instance = 0;
         $this->bootstrap = true;
@@ -1105,7 +1105,7 @@ class Cci_Nice_Menu extends Module
         $controller = $this->context->controller;
         $allowed = $controller instanceof AdminController
             ? $controller->access('view') && $controller->access($permission)
-            : $controller instanceof \PrestaShop\PrestaShop\Core\Context\LegacyControllerContext
+            : $controller instanceof PrestaShop\PrestaShop\Core\Context\LegacyControllerContext
                 && $this->getPermission($permission === 'view' ? 'view' : 'configure');
         if (!$allowed || ($permission !== 'view' && ($_SERVER['REQUEST_METHOD'] ?? '') !== 'POST')
             || !$this->context->employee->hasAuthOnShop((int) $this->context->shop->id)) {

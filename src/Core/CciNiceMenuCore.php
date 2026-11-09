@@ -287,6 +287,10 @@ class CciNiceMenuCore
 
     private \Module $module;
     private array $renderSettings = [];
+    /** Request-local read data; shop/language keys prevent context mixing. */
+    private array $categoryRows = [];
+    private array $categoryChildren = [];
+    private array $categoryCounts = [];
 
     public function __construct(\Module $module)
     {
@@ -390,6 +394,9 @@ class CciNiceMenuCore
 
     public function buildMenuMarkup(array $nodes, int $level = 0, array $settings = [], array $moduleSettings = []): string
     {
+        $this->categoryRows = [];
+        $this->categoryChildren = [];
+        $this->categoryCounts = [];
         $this->renderSettings = $settings ? $this->normalizeSettings($settings) : self::DEFAULT_SETTINGS;
         $this->renderSettings['icon_library'] = $this->sanitizeIconLibrary((string) ($moduleSettings['iconLibrary'] ?? 'none'));
 
@@ -1338,13 +1345,7 @@ class CciNiceMenuCore
         $langId = (int) $context->language->id;
 
         if ($entityId > 0 && in_array($type, ['category', 'category_tree'], true)) {
-            $label = \Db::getInstance()->getValue(
-                'SELECT cl.name
-                FROM `' . _DB_PREFIX_ . 'category_lang` cl
-                WHERE cl.id_category = ' . (int) $entityId . '
-                AND cl.id_lang = ' . (int) $langId . '
-                AND cl.id_shop = ' . (int) $shopId
-            );
+            $label = $this->getCategoryLanguageRow($entityId)['name'] ?? '';
 
             if (is_string($label) && trim($label) !== '') {
                 return trim($label);
@@ -1416,7 +1417,13 @@ class CciNiceMenuCore
         $context = \Context::getContext();
 
         if ($entityId > 0 && in_array($type, ['category', 'category_tree'], true)) {
-            $link = $context->link->getCategoryLink($entityId);
+            $link = $context->link->getCategoryLink(
+                $entityId,
+                $this->getCategoryLinkRewrite($entityId),
+                (int) $context->language->id,
+                null,
+                (int) $context->shop->id
+            );
 
             return is_string($link) && $link !== '' ? $link : $fallback;
         }
@@ -1687,6 +1694,11 @@ class CciNiceMenuCore
         $context = \Context::getContext();
         $shopId = (int) $context->shop->id;
         $langId = (int) $context->language->id;
+        $limit = $this->normalizeRange($limit, 1, 120);
+        $key = $shopId . ':' . $langId . ':' . $parentId . ':' . $limit;
+        if (array_key_exists($key, $this->categoryChildren)) {
+            return $this->categoryChildren[$key];
+        }
 
         $rows = \Db::getInstance()->executeS(
             'SELECT c.id_category, cl.name, cl.link_rewrite
@@ -1699,10 +1711,15 @@ class CciNiceMenuCore
             AND cl.id_shop = ' . (int) $shopId . '
             AND cl.id_lang = ' . (int) $langId . '
             ORDER BY c.position ASC, cl.name ASC
-            LIMIT ' . (int) $this->normalizeRange($limit, 1, 120)
+            LIMIT ' . (int) $limit
         );
 
-        return is_array($rows) ? $rows : [];
+        $rows = is_array($rows) ? $rows : [];
+        foreach ($rows as $row) {
+            $this->categoryRows[$shopId . ':' . $langId . ':' . (int) $row['id_category']] = $row;
+        }
+
+        return $this->categoryChildren[$key] = $rows;
     }
 
     private function buildCategoryNodeFromRow(array $row, array $children = [], int $columns = 1, ?int $productCount = null): array
@@ -1801,16 +1818,26 @@ class CciNiceMenuCore
             return '';
         }
 
+        return (string) ($this->getCategoryLanguageRow($categoryId)['link_rewrite'] ?? '');
+    }
+
+    private function getCategoryLanguageRow(int $categoryId): array
+    {
         $context = \Context::getContext();
-        $linkRewrite = \Db::getInstance()->getValue(
-            'SELECT cl.link_rewrite
+        $key = (int) $context->shop->id . ':' . (int) $context->language->id . ':' . $categoryId;
+        if (array_key_exists($key, $this->categoryRows)) {
+            return $this->categoryRows[$key];
+        }
+
+        $row = \Db::getInstance()->getRow(
+            'SELECT cl.name, cl.link_rewrite
             FROM `' . _DB_PREFIX_ . 'category_lang` cl
             WHERE cl.id_category = ' . (int) $categoryId . '
             AND cl.id_lang = ' . (int) $context->language->id . '
             AND cl.id_shop = ' . (int) $context->shop->id
         );
 
-        return is_string($linkRewrite) ? $linkRewrite : '';
+        return $this->categoryRows[$key] = is_array($row) ? $row : [];
     }
 
     private function getCategoryProductCount(int $categoryId): int
@@ -1820,8 +1847,12 @@ class CciNiceMenuCore
         }
 
         $shopId = (int) \Context::getContext()->shop->id;
+        $key = $shopId . ':' . $categoryId;
+        if (array_key_exists($key, $this->categoryCounts)) {
+            return $this->categoryCounts[$key];
+        }
 
-        return (int) \Db::getInstance()->getValue(
+        return $this->categoryCounts[$key] = (int) \Db::getInstance()->getValue(
             'SELECT COUNT(DISTINCT ps.id_product)
             FROM `' . _DB_PREFIX_ . 'category_product` cp
             INNER JOIN `' . _DB_PREFIX_ . 'product_shop` ps ON (ps.id_product = cp.id_product)
