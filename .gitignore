@@ -46,3 +46,5 @@ Thumbs.db
 /.playwright-cli/
 /.playwright/
 /blob-report/
+/release/packages/
+/PROJECT_GUIDE.md
