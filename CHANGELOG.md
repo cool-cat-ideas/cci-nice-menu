@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3
+
+- Allow installation on PrestaShop 9.2 patch releases, including PrestaShop 9.2.1.
+
 ## 1.0.2
 
 - Reuse category labels, links, child lists and product counts within each menu render to reduce database queries on pages with large menus.

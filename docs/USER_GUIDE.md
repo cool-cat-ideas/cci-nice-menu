@@ -5,7 +5,7 @@ work on desktop and mobile.
 
 ## Requirements
 
-- PrestaShop 9.0.0-9.1.5.
+- PrestaShop 9.0 through 9.2, including patch updates.
 - PHP version supported by the target PrestaShop installation.
 - PrestaShop Search Bar enabled when you want native search in the top menu.
 - PrestaShop reassurance module enabled when you want native reassurance links

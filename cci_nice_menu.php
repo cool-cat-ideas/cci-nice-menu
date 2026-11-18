@@ -60,13 +60,13 @@ class Cci_Nice_Menu extends Module
     {
         $this->name = 'cci_nice_menu';
         $this->tab = 'front_office_features';
-        $this->version = '1.0.2';
+        $this->version = '1.0.3';
         $this->author = 'Cool Cat Ideas';
         $this->need_instance = 0;
         $this->bootstrap = true;
         $this->ps_versions_compliancy = [
             'min' => '9.0.0',
-            'max' => '9.2.0',
+            'max' => '9.2.999',
         ];
 
         parent::__construct();
