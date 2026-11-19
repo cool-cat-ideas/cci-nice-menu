@@ -34,8 +34,8 @@ export default function LicensePanel({ license: controlledLicense }) {
     },
   };
   const labels = {
-    Installed: __('Installed version', 'cci-nice-menu'),
-    Latest: __('Latest version', 'cci-nice-menu'),
+    Installed: __('Installed', 'cci-nice-menu'),
+    Latest: __('Latest', 'cci-nice-menu'),
     'Congratulations, you are using the latest version.': __(
       'Congratulations, you are using the latest version.',
       'cci-nice-menu',
