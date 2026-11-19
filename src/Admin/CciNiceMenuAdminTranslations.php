@@ -36,6 +36,7 @@ final class CciNiceMenuAdminTranslations
             '1:1 square' => $translator->trans('1:1 square', [], 'Modules.CciNiceMenu.Admin'),
             '10 Creative Street, 00-001 Warsaw' => $translator->trans('10 Creative Street, 00-001 Warsaw', [], 'Modules.CciNiceMenu.Admin'),
             '12-column grid' => $translator->trans('12-column grid', [], 'Modules.CciNiceMenu.Admin'),
+            'Build multiple menus with product cards, images, videos and display rules.' => $translator->trans('Build multiple menus with product cards, images, videos and display rules.', [], 'Modules.CciNiceMenu.Admin'),
             'Build the dropdown panel for the selected top navigation item.' => $translator->trans('Build the dropdown panel for the selected top navigation item.', [], 'Modules.CciNiceMenu.Admin'),
             '16:9 widescreen' => $translator->trans('16:9 widescreen', [], 'Modules.CciNiceMenu.Admin'),
             '2-for-1 offers' => $translator->trans('2-for-1 offers', [], 'Modules.CciNiceMenu.Admin'),

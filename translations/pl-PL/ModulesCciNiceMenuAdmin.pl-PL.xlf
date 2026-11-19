@@ -100,6 +100,7 @@
       <trans-unit id="cci_nice_menu_admin_99902a9a7563"><source>Blog content</source><target state="final">Treść bloga</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_b2ac804f302d"><source>Blog cover image URL</source><target state="final">Adres URL obrazu okładki bloga</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_8fda55c0edbf"><source>Browse all categories</source><target state="final">Przeglądaj wszystkie kategorie</target></trans-unit>
+      <trans-unit id="cci_nice_menu_admin_15191b357d14"><source>Build multiple menus with product cards, images, videos and display rules.</source><target state="final">Twórz osobne menu z kartami produktów, zdjęciami i filmami. Ustaw, kiedy mają się wyświetlać.</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_f2adc6a4d6fb"><source>Build a bundle</source><target state="final">Zbuduj pakiet</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_cfa3a7e12750"><source>Build menus around what customers are looking for</source><target state="final">Twórz menu wokół tego, czego szukają klienci</target></trans-unit>
       <trans-unit id="cci_nice_menu_admin_352ba6b26a83"><source>Build a responsive PrestaShop menu from categories, products, CMS pages and custom links, then arrange its desktop and mobile dropdown content visually.</source><target state="final">Zbuduj responsywne menu PrestaShop z kategorii, produktów, stron CMS i własnych linków, a potem wizualnie ułóż zawartość rozwijaną na komputer i telefon.</target></trans-unit>

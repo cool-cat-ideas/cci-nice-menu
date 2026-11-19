@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { CountBadge as Counter, reconcileCatalogItems } from '@cci/admin-ui';
+import { CountBadge as Counter, catalogIdentityKeys, reconcileCatalogItems } from '@cci/admin-ui';
 import { BadgeCheck, ShoppingBag } from 'lucide-react';
 import { pluginData } from '../../api/api';
 import { __ } from '../../i18n/i18n';
@@ -24,6 +24,7 @@ import { Tabs, TabsList, TabsTrigger } from '../ui/tabs';
 
 const installedTab = 'installed';
 const storeTab = 'store';
+const isNiceMenuPro = (extension) => catalogIdentityKeys(extension).has('cci-nice-menu-pro');
 
 export default function NiceMenuExtensionsPanel({
   license,
@@ -64,8 +65,16 @@ export default function NiceMenuExtensionsPanel({
   );
   const installedCount = installedExtensions.length;
   const storeCount = reconciledStoreExtensions.length;
-  const activeExtensions =
-    activeTab === installedTab ? installedExtensions : reconciledStoreExtensions;
+  const niceMenuProDescription =
+    storeExtensions.find(isNiceMenuPro)?.description ||
+    __('Build multiple menus with product cards, images, videos and display rules.', 'cci-nice-menu');
+  const activeExtensions = (
+    activeTab === installedTab ? installedExtensions : reconciledStoreExtensions
+  ).map((extension) =>
+    isNiceMenuPro(extension)
+      ? { ...extension, title: 'CCI Nice Menu Pro', description: niceMenuProDescription }
+      : extension,
+  );
   const storeLoading = activeTab === storeTab && storeFeed.loading;
   const storeStatus = (
     <MarketplaceStatus
