@@ -906,6 +906,7 @@
       <trans-unit id="cci_version_f0152e84a626"><source>Pro is not installed</source><target state="final">Moduł Pro nie jest zainstalowany</target></trans-unit>
       <trans-unit id="cci_version_3e4bf7602b7c"><source>Install Pro to use its features.</source><target state="final">Zainstaluj moduł Pro, aby korzystać z jego funkcji.</target></trans-unit>
       <trans-unit id="cci_version_d177cdc09a4e"><source>Not installed</source><target state="final">Nie zainstalowano</target></trans-unit>
+      <trans-unit id="cci_versions_current"><source>Congratulations, you are using the latest version.</source><target state="final">Gratulacje, używasz najnowszej wersji.</target></trans-unit>
     </body>
   </file>
 </xliff>

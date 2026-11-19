@@ -881,6 +881,7 @@ final class CciNiceMenuAdminTranslations
             'Widget modules can render through a conscious hook fallback.' => $translator->trans('Widget modules can render through a conscious hook fallback.', [], 'Modules.CciNiceMenu.Admin'),
             'Works as a horizontal supporting strip.' => $translator->trans('Works as a horizontal supporting strip.', [], 'Modules.CciNiceMenu.Admin'),
             'You are up to date' => $translator->trans('You are up to date', [], 'Modules.CciNiceMenu.Admin'),
+            'Congratulations, you are using the latest version.' => $translator->trans('Congratulations, you are using the latest version.', [], 'Modules.CciNiceMenu.Admin'),
             'Installed version is newer' => $translator->trans('Installed version is newer', [], 'Modules.CciNiceMenu.Admin'),
             'The product catalog lists an older version.' => $translator->trans('The product catalog lists an older version.', [], 'Modules.CciNiceMenu.Admin'),
             'Pro is not installed' => $translator->trans('Pro is not installed', [], 'Modules.CciNiceMenu.Admin'),
