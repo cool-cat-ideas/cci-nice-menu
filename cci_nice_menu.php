@@ -135,6 +135,7 @@ class Cci_Nice_Menu extends Module
         $adminExtensionScripts = $this->getAdminExtensionScripts($shopId);
         $marketplaceFeedEndpoint = $this->getMarketplaceFeedEndpoint();
         $adminTranslations = $this->getAdminTranslations();
+        $proModule = Module::isInstalled('cci_nice_menu_pro') ? Module::getInstanceByName('cci_nice_menu_pro') : null;
         $jsonFlags = JSON_UNESCAPED_UNICODE
           | JSON_UNESCAPED_SLASHES
           | JSON_HEX_TAG
@@ -163,6 +164,7 @@ class Cci_Nice_Menu extends Module
             'defaultSettings' => json_encode($this->core->getDefaultSettings(), $jsonFlags),
             'themePresets' => json_encode($this->core->getThemePresets(), $jsonFlags),
             'moduleVersion' => json_encode($this->version, $jsonFlags),
+            'proVersion' => json_encode($proModule instanceof Module ? (string) $proModule->version : '', $jsonFlags),
             'moduleSettings' => json_encode($this->getModuleSettings(), $jsonFlags),
             'documentationUrl' => json_encode(self::PRODUCT_HOME_URL, $jsonFlags),
             'upgradeUrl' => json_encode(self::PRODUCT_HOME_URL, $jsonFlags),

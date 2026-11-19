@@ -59,6 +59,7 @@ export const pluginData = (() => {
     schemaVersion: cfg.schemaVersion || 2,
     moduleVersion: cfg.moduleVersion || '1.0.0',
     pluginVersion: cfg.pluginVersion || cfg.moduleVersion || '1.0.0',
+    proVersion: cfg.proVersion || '',
     marketplaceFeedEndpoint: cfg.marketplaceFeedEndpoint || '',
     adminDate: cfg.adminDate || {},
     features,

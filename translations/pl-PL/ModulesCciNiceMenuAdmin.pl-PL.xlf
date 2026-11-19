@@ -901,6 +901,11 @@
       <trans-unit id="cci_nice_menu_license_verification_6"><source>Automatic license verification is overdue. Check the license in License settings.</source><target state="final">Termin automatycznej weryfikacji licencji minął. Sprawdź licencję w jej ustawieniach.</target></trans-unit>
       <trans-unit id="cci_nice_menu_license_verification_7"><source>Version information needs refreshing</source><target state="final">Informacje o wersji wymagają odświeżenia</target></trans-unit>
       <trans-unit id="cci_nice_menu_license_verification_8"><source>Showing saved version information. The product catalog could not be reached.</source><target state="final">Wyświetlamy zapisane informacje o wersji. Nie udało się połączyć z katalogiem produktów.</target></trans-unit>
+      <trans-unit id="cci_version_58167915ad9d"><source>Installed version is newer</source><target state="final">Zainstalowana wersja jest nowsza</target></trans-unit>
+      <trans-unit id="cci_version_c849a84ec66b"><source>The product catalog lists an older version.</source><target state="final">Katalog produktów pokazuje starszą wersję.</target></trans-unit>
+      <trans-unit id="cci_version_f0152e84a626"><source>Pro is not installed</source><target state="final">Moduł Pro nie jest zainstalowany</target></trans-unit>
+      <trans-unit id="cci_version_3e4bf7602b7c"><source>Install Pro to use its features.</source><target state="final">Zainstaluj moduł Pro, aby korzystać z jego funkcji.</target></trans-unit>
+      <trans-unit id="cci_version_d177cdc09a4e"><source>Not installed</source><target state="final">Nie zainstalowano</target></trans-unit>
     </body>
   </file>
 </xliff>

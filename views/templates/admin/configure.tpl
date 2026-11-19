@@ -122,6 +122,7 @@ body.mobile.adminccinicemenuconfiguration #content.bootstrap {
       schemaVersion: {$schemaVersion nofilter},
       themePresets: {$themePresets nofilter},
       moduleVersion: {$moduleVersion nofilter},
+      proVersion: {$proVersion nofilter},
       moduleSettings: {$moduleSettings nofilter},
       documentationUrl: {$documentationUrl nofilter},
       upgradeUrl: {$upgradeUrl nofilter},
