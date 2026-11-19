@@ -24,6 +24,10 @@ Keep collection links, product recommendations and store contact details within 
 
 These screenshots show CCI Nice Menu with Pro enabled. The base module provides one top-header menu with rows, columns and links to categories, pages and products. A product link can include its image, name and price. Product tiles, grids and lists, media blocks and the other Pro layouts shown above require Pro.
 
+From the Menus page, you can see which menus are active and check the installed and latest version of each edition.
+
+![CCI Nice Menu menu list and version panel for both editions](docs/screenshots/cci-nice-menu-version-status-20261119.png)
+
 ## Build the first menu
 
 1. Download the current CCI Nice Menu ZIP from the product page and install it in **Modules > Module Manager**.
